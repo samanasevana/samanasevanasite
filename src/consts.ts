@@ -1,9 +1,9 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_URL = "https://miniblog.nicholasly.com";
-export const SITE_TITLE = "Miniblog";
+export const SITE_URL = "https://bhantegunaviro.netlify.app";
+export const SITE_TITLE = "Bhante Guṇavīro";
 export const SITE_DESCRIPTION =
-  "Miniblog is an opinionated and extremely minimal blogging template built with Astro and Tailwind CSS.";
+  "A community website dedicated to following and supporting Guṇavīro Bhikkhu. Organized and maintained by lay supporters, it provides news, updates, and guidance for those who wish to stay connected with his journey and teachings.";
 
-export const EMAIL = "hello@nicholasly.com";
+export const EMAIL = "bgkappiya@gmail.com";
