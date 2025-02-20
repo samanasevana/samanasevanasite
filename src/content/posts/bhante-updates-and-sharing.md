@@ -142,5 +142,3 @@ Bowing is **optional** and a personal choice.
 - If you choose to bow, it is a sign of **appreciation**, but there is **no expectation**.
 
 ---
-
-This Markdown file ensures a structured, clear, and easy-to-read format for your website or document. Let me know if you need any modifications! 😊
