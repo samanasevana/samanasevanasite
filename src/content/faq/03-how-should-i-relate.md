@@ -1,5 +1,5 @@
 ---
-title: "How Should I Relate to Bhante?"
+title: "How should I relate to Bhante?"
 ---
 
 Bhante is a fully committed monastic, dedicated to the path of ultimate freedom. He is happy to share his learnings with anyone who approaches with a sincere and inquiring mind.
