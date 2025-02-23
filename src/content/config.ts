@@ -10,4 +10,20 @@ const posts = defineCollection({
   }),
 });
 
-export const collections = { posts };
+const support = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+  }),
+});
+
+const faq = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+  }),
+});
+
+export const collections = { posts, support, faq };
