@@ -1,22 +1,12 @@
----
-title: "Bhante Updates and Schedule"
-description: "Current news and schedule information for Bhante Guṇavīro"
-date: "Feb 21 2025"
----
-
 # Bhante Updates and Schedule
 
-## Sections
-
-- [Recent News/Updates](#recent-newsupdates)
-- [General Availability and Observance (Uposatha) Days](#availability-and-observance-uposatha-days)
-- [Alms Rounds Details](#alms-rounds-details)
+_Last updated: 2025-02-24_
 
 ---
 
 ## Recent News/Updates
 
-**Feb 13, 2025 update:** Bhante is off his retreat and is receiving guests again every day from 4-7PM at **214 Storey St, Santa Cruz, CA 95060**.
+Bhante is off his retreat and is receiving guests again every day from 4-7PM at **214 Storey St, Santa Cruz, CA 95060**.
 
 ---
 
@@ -26,9 +16,7 @@ In general, Bhante is available at **214 Storey St, Santa Cruz, CA** from **4-7P
 
 Until mid-April, on the nights of the **new moon, full moon, and 8th days after the full and new moon**, Bhante offers **Dhamma talks, guided meditation, and Q&A**.
 
-### Dates:
-
-**2/5, 2/12, 2/20, 2/26, 3/6, 3/13, 3/21, 3/28, 4/5, 4/12**
+**Dates: 2/5, 2/12, 2/20, 2/26, 3/6, 3/13, 3/21, 3/28, 4/5, 4/12**
 
 > **Note:** These days may be slightly different from what is on the calendar because when the full moon is in the morning, it is observed the night before.
 
@@ -57,3 +45,13 @@ He **leaves approximately 7:30-8AM** from **214 Storey St**. However, sometimes 
 
 - **Tuesday, Thursday, Sunday – Westside:**  
   Bhante heads down around the middle school to **Mission**, walks **west** till **Swift**, then turns around and comes back on Mission, stopping at **Front & the TJ's parking lot** before returning.
+
+---
+
+## Future 2025 Plans
+
+Bhante will likely be in Santa Cruz until March or April and around the Bay Area until October or November. Starting in October or November, he will settle down for the winter until March.
+
+As Bhante follows a monastic lifestyle, his schedule remains fluid and unpredictable, with exact dates and locations unknown.
+
+If you have a place to offer as short-term or long-term shelter, we would be deeply grateful to hear from you. Please feel free to reach out at [bgkappiya@gmail.com](mailto:bgkappiya@gmail.com). For more information on offering support, please visit the [support page](/support).
