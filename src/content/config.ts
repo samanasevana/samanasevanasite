@@ -14,7 +14,6 @@ const support = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
-    order: z.number(),
   }),
 });
 
@@ -22,7 +21,6 @@ const faq = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
-    order: z.number(),
   }),
 });
 

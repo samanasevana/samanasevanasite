@@ -1,10 +1,6 @@
 ---
 title: "The Spirit of Generosity"
-description: "A reflection on the importance and role of generosity in the path to liberation."
-date: "Feb 21 2025"
 ---
-
-# The Spirit of Generosity
 
 As monks, we try very hard not to talk about food. One of the reasons for this is for our own restraint around sense pleasures, but another is that the offering is really best when it comes from a pure intention of the donor. It creates a tremendous amount of wholesome effect in their lives and if people are worried about what to offer or how to offer or how much to offer, it can distract from the sincere intention.
 
