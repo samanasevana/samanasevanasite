@@ -5,9 +5,16 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
-  <main>
-    <article>
-      <Content />
-    </article>
-  </main>
+  <article>
+    <div class="flex items-center justify-between">
+      <h2>Dhamma</h2>
+      <a
+        href={`/pdfs/dhamma.pdf`}
+        class="rounded bg-blue-800 px-2 py-1 text-sm font-semibold text-white underline"
+      >
+        PDF Version
+      </a>
+    </div>
+    <Content />
+  </article>
 </Layout>
