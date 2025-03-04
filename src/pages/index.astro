@@ -1,50 +1,30 @@
 ---
 import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 import Layout from "../layouts/Layout.astro";
+
+import { Content } from "../content/pages/index.md";
 ---
 
 <Layout
   title={SITE_TITLE}
   description={SITE_DESCRIPTION}
-  className="flex h-svh max-w-sm flex-col justify-center"
+  className="flex h-svh max-w-lg flex-col justify-center"
 >
   <main class="space-y-4">
-    <img
-      src="/static/bhante.png"
-      alt="Bhante Guṇavīro"
-      class="h-48 w-full rounded-lg object-cover"
-    />
-    <p>
-      Welcome to our community website dedicated to following and supporting <span
-        class="font-semibold">Guṇavīro Bhikkhu</span
-      >.
-    </p>
-
-    <p>
-      Organized and maintained by lay supporters, it offers news, updates, and
-      guidance for those who wish to stay connected with his journey and support
-      his practice.
-    </p>
-
-    <p>
-      For questions, offerings of support, or to receive updates via WhatsApp or
-      email, please contact
-      <a href="mailto:bgkappiya@gmail.com" class="text-blue-500 underline">
-        bgkappiya@gmail.com
-      </a>.
-    </p>
-
-    <p>
-      A lay supporter will do their best to convey your message to Bhante when
-      possible, though this may take some time if he is on retreat or
-      unavailable.
-    </p>
-    <p>
-      This website is open-source, and you can find the code on our <a
-        href="https://github.com/BG-Kappiya/gunaviro-bhikkhu"
-        target="_blank"
-        class="text-blue-500 underline">GitHub repository</a
-      >.
-    </p>
+    <div class="flex items-center gap-2">
+      <img
+        src="/static/bhante.png"
+        alt="Bhante"
+        class="h-36 w-full rounded-md border border-zinc-500/50 object-cover"
+      />
+      <img
+        src="/static/leaf.png"
+        alt="Leaf"
+        class="h-36 w-full rounded-md border border-zinc-500/50 object-cover"
+      />
+    </div>
+    <article>
+      <Content />
+    </article>
   </main>
 </Layout>

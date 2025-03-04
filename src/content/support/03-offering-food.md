@@ -1,5 +1,5 @@
 ---
-title: "Offering Food to Bhante"
+title: "Offering Food to Āyasmā Guṇavīro"
 ---
 
 ## How can I offer food?

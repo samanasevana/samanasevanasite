@@ -2,13 +2,18 @@
 import ThemeToggle from "./ThemeToggle.astro";
 ---
 
-<header class="mb-6 flex items-center justify-between" transition:name="header">
+<header
+  class="mb-3 flex items-center justify-between overflow-y-auto pb-3"
+  transition:name="header"
+>
   <nav class="flex items-center gap-4">
     <a href="/"> home </a>
+    <a href="/dhamma"> dhamma </a>
     <a href="/updates"> updates </a>
     <a href="/posts"> posts </a>
     <a href="/support"> support </a>
     <a href="/faq"> faq </a>
+    <a href="/about"> about </a>
   </nav>
   <ThemeToggle />
 </header>

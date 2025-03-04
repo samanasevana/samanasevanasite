@@ -1,5 +1,5 @@
 ---
-title: "How should I address Bhante?"
+title: "How should I address you?"
 ---
 
 - **"Bhante"** (Pali term for a monk, commonly used)
