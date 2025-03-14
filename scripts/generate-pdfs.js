@@ -4,8 +4,8 @@ import path from "path";
 
 const OUTPUT_DIR = "public/pdfs";
 const CONTENT_DIR = "src/content";
-const DHAMMA_PATH = path.join(CONTENT_DIR, "pages/dhamma.md");
-const TRANSLATIONS_DIR = path.join(CONTENT_DIR, "translations");
+const DHAMMA_DIR = path.join(CONTENT_DIR, "dhamma");
+const TRANSLATIONS_DIR = path.join(CONTENT_DIR, "translation");
 
 // Create output directory if it doesn't exist
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -21,8 +21,24 @@ const generatePdf = (inputFile, outputFile) => {
     );
 };
 
-// Generate PDF for dhamma.md
-generatePdf(DHAMMA_PATH, path.join(OUTPUT_DIR, "dhamma.pdf"));
+// Generate PDFs for all files in dhamma directory
+fs.readdir(DHAMMA_DIR, (err, files) => {
+  if (err) {
+    console.error("Error reading dhamma directory:", err);
+    return;
+  }
+
+  files
+    .filter((file) => path.extname(file) === ".md")
+    .forEach((file) => {
+      const inputFile = path.join(DHAMMA_DIR, file);
+      const outputFile = path.join(
+        OUTPUT_DIR,
+        `${path.basename(file, ".md")}.pdf`,
+      );
+      generatePdf(inputFile, outputFile);
+    });
+});
 
 // Generate PDFs for all files in translations directory
 fs.readdir(TRANSLATIONS_DIR, (err, files) => {

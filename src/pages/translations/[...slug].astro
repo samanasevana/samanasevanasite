@@ -3,23 +3,19 @@ import { type CollectionEntry, getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 
 export async function getStaticPaths() {
-  const posts = await getCollection("translations");
+  const posts = await getCollection("translation");
   return posts.map((post) => ({
     params: { slug: post.slug },
     props: post,
   }));
 }
-type Props = CollectionEntry<"posts">;
+type Props = CollectionEntry<"translation">;
 
 const post = Astro.props;
 const { Content } = await post.render();
 ---
 
-<Layout
-  title={post.data.title}
-  description={post.data.description}
-  image={post.data.image}
->
+<Layout title={post.data.title}>
   <main>
     <div class="flex items-start justify-between">
       <div>

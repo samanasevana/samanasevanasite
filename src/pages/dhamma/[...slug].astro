@@ -16,11 +16,7 @@ const post = Astro.props;
 const { Content } = await post.render();
 ---
 
-<Layout
-  title={post.data.title}
-  description={post.data.description}
-  image={post.data.image}
->
+<Layout title={post.data.title}>
   <main>
     <div class="flex items-start justify-between">
       <div>
