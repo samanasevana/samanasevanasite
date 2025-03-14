@@ -1,6 +1,6 @@
 ## Updates & Schedule
 
-_Last updated: 2025-02-24_
+_Last updated: March 14 2025_
 
 Guṇavīro Bhikkhu is off his retreat and is receiving guests again every day from 4-7PM at **214 Storey St, Santa Cruz, CA 95060**.
 

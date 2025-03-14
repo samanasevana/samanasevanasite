@@ -1,5 +1,5 @@
 ---
-title: "The Spirit of Generosity"
+title: "Introduction: The Spirit of Generosity"
 ---
 
 As monks, we try very hard not to talk about food. One of the reasons for this is for our own restraint around sense pleasures, but another is that the offering is really best when it comes from a pure intention of the donor. It creates a tremendous amount of wholesome effect in their lives and if people are worried about what to offer or how to offer or how much to offer, it can distract from the sincere intention.
