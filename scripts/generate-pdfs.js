@@ -5,7 +5,7 @@ import path from "path";
 const OUTPUT_DIR = "public/pdfs";
 const CONTENT_DIR = "src/content";
 const DHAMMA_PATH = path.join(CONTENT_DIR, "pages/dhamma.md");
-const POSTS_DIR = path.join(CONTENT_DIR, "posts");
+const TRANSLATIONS_DIR = path.join(CONTENT_DIR, "translations");
 
 // Create output directory if it doesn't exist
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -24,17 +24,17 @@ const generatePdf = (inputFile, outputFile) => {
 // Generate PDF for dhamma.md
 generatePdf(DHAMMA_PATH, path.join(OUTPUT_DIR, "dhamma.pdf"));
 
-// Generate PDFs for all files in posts directory
-fs.readdir(POSTS_DIR, (err, files) => {
+// Generate PDFs for all files in translations directory
+fs.readdir(TRANSLATIONS_DIR, (err, files) => {
   if (err) {
-    console.error("Error reading posts directory:", err);
+    console.error("Error reading translations directory:", err);
     return;
   }
 
   files
     .filter((file) => path.extname(file) === ".md")
     .forEach((file) => {
-      const inputFile = path.join(POSTS_DIR, file);
+      const inputFile = path.join(TRANSLATIONS_DIR, file);
       const outputFile = path.join(
         OUTPUT_DIR,
         `${path.basename(file, ".md")}.pdf`,

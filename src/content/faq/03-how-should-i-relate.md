@@ -1,11 +1,7 @@
 ---
-title: "How should I relate to a Buddhist monk?"
+title: "How should I relate to a monk?"
 ---
 
-A Buddhist monk is someone fully committed to the monastic path, dedicating their life to inner cultivation and the pursuit of ultimate freedom. They are often open to sharing their insights with those who approach with sincerity and curiosity.
+The role of a monk is aimed at ultimate freedom and coming out of the cycle of birth, aging, and death. It isn't intended to be a primarily teaching or social role. It is intended to provide inspiration towards a direction that has the potential to liberate us all. The leaving behind of material wealth and worldly pursuits offers the space for the complete dedication to the establishment of wholesome qualities, abandoning unwholesome qualities, establishing awareness, convergence, and letting go.
 
-- Friendliness and kindness are always welcome.
-- Engage with respect, recognizing their role as monastics.
-- While monks are usually approachable, it’s best to avoid excessive casualness, familiarity, or informality that might not align with monastic traditions.
-
-If you’re unsure, a good approach is to observe how others interact in similar settings or ask for guidance—either from the monk directly or from experienced lay supporters. The most important thing is to engage with mindfulness and a genuine heart.
+Monastics are very much available for spiritual guidance at the right time and place, but aren't generally looking for unnecessary socializing. Approaching them with an appreciation and desire to support and learn from their direction is the most appropriate way to interact.

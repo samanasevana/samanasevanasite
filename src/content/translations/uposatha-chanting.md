@@ -1,6 +1,5 @@
 ---
 title: "Uposatha Chanting"
-description: "Uposatha chants and pronunciation"
 date: "Feb 21 2025"
 ---
 

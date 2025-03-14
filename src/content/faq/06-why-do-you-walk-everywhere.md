@@ -10,4 +10,4 @@ The monastic direction is an example that sustained happiness, peace, and freedo
 
 It is important that monks be accessible to normal people. Walking, whether it is for the sake of traveling or for going on the daily alms round, is an important way to be available for people who might be interested in making contact with a monastic.
 
-When travelling in a vehicle, one often destroys many living beings in the process. In general monastics go to significant effort not only to avoid intentionally killing living beings, but also avoid things like digging in the earth, which may unintentionally kill them. When walking, one generally does much less damage.
+When traveling in a vehicle, one often destroys many living beings in the process. In general monastics go to significant effort not only to avoid intentionally killing living beings, but also avoid things like digging in the earth, which may unintentionally kill them. When walking, one generally does much less damage.

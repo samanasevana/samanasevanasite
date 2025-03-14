@@ -1,12 +1,18 @@
 import { defineCollection, z } from "astro:content";
 
-const posts = defineCollection({
+const translation = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
-    description: z.string(),
     date: z.coerce.date(),
-    image: z.string().default("/static/blog-placeholder.png"),
+  }),
+});
+
+const dhamma = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
   }),
 });
 
@@ -24,4 +30,4 @@ const faq = defineCollection({
   }),
 });
 
-export const collections = { posts, support, faq };
+export const collections = { translation, dhamma, support, faq };

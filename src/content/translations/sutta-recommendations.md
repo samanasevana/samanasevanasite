@@ -1,19 +1,18 @@
 ---
 title: "Sutta Recommendations"
-description: "A list of sutta recommendations for those interested in the Buddha's teachings."
-date: "Feb 21 2025"
+date: "Mar 14 2025"
 ---
 
-A number of people have asked for Sutta recommendations so I thought I would put together a list of major topics the Buddha regularly returned to as well as some representative Suttas to those topics as well as further reading in case people are interested in either getting a general taste of the canon or interested in going deeper on certain topics.
+This is a list of major topics the Buddha regularly returned to as well as some representative teachings on those topics as well as further reading in case people are interested in either getting a general taste of the canon or interested in going deeper on certain topics.
 
-**Essential Intellectual Foundations of the Path**
+**Intellectual Foundations of the Path**
 
 **The Overarching View of the Path**  
 _The most frequent way the Buddha described the path to people who were not familiar with it is often termed the “Gradual training.” It occurs many times in the suttas._  
 Example: Digha Nikaya 2  
 Further Reading: Also pieces of it recur in DN 3-13, Majjhima Nikaya 51, 77, 39, 37
 
-**Dependent Origination/Causal Coming Together**  
+**Dependent Origination**  
 _The Buddha originally discovered the path by looking for the cause of pain and suffering. He goes through twelve deeper and deeper causes of which the deepest cause is ignorance of the four noble truths._  
 Ex. Digha Nikaya 15  
 FR: Samyutta Nikaya Ch 12
@@ -23,19 +22,19 @@ _Right View is the foundation of the path. It is the first part of the noble eig
 Ex. DN 1, also the end of Digha Nikaya 22 includes a thorough description of the four noble truths  
 FR: MN 141, MN 9, MN 1, 102, 49 117
 
-**Good and Not Good/Wholesome and Unwholesome**  
+**Wholesome and Unwholesome**  
 Prior to speaking about the four noble truths, the Buddha often encouraged developing a clear understanding of what is wholesome and what is not wholesome. Common wholesome qualities are giving, morality, renunciation. Common unwholesome qualities are sense pleasures, hatred, cruelty as well as the five barriers.  
 Ex. MN 2  
 FR: MN 8, 113, MN 13-14, MN 128, 114, DN 25
 
-**Kamma**  
-_The Buddha often emphasized the importance of belief in kamma, that good and bad actions have good and bad results, as well as that there exists something beyond the material world. This is key not only to liberation, but even to mundane right view._  
+**Results of Deeds**  
+_The Buddha often emphasized the importance of belief in kamma, that good and bad deeds have good and bad results, as well as that there exists something beyond the material world. This is key not only to liberation, but even to mundane right view._  
 Ex. Majjhima Nikaya 135-6  
 FR: MN 142, 101, Anguttara Nikaya 3:24, 3:100, 10:217-220 MN 41-2
 
 **Parts of the Path Related to Meditation**
 
-**Awareness of Inhalation and Exhalation**  
+**Remembering Based in Inhalation and Exhalation**  
 _One of the most common frameworks that the Buddha used for meditation was integrating the breath with the bojjhangas and the development of samatha and vipassana in 16 steps._  
 Ex: Majjhima Nikaya 118  
 Further Reading: Samyutta Nikaya Ch 54
@@ -50,8 +49,8 @@ _The main other framework that the Buddha used for teaching monks and nuns to se
 Ex. Samyutta Nikaya 35.28  
 FR: Samyutta Nikaya Ch 35, MN 137, MN 143-152
 
-**The Four Bases for Awareness**  
-The four bases or foundations for awareness are a piece of the eightfold noble path. Occasionally the Buddha integrates the whole of the path into these four bases for awareness.  
+**The Four Bases to Establish of Remembering**  
+The four bases or foundations for remembering are a piece of the eightfold noble path. Occasionally the Buddha integrates the whole of the path into these four bases for remembering.  
 Ex. Digha Nikaya 22  
 FR: Majjhima Nikaya 10, 119
 
@@ -59,20 +58,20 @@ FR: Majjhima Nikaya 10, 119
 
 **Key Historical Accounts of the Buddha’s life**
 
-- The first part of the Vinaya Pitaka, the Mahavagga Chapter 1, “[The Great Chapter](https://suttacentral.net/pli-tv-kd?view=normal&lang=en)” offers the story of how the sasana began up until the Buddha initiating the Sangha.
+- The first part of the Vinaya Pitaka, the Mahavagga Chapter 1, “[The Great Chapter](https://suttacentral.net/pli-tv-kd?view=normal&lang=en)” offers the story of how the sāsana began up until the Buddha initiating the Sangha.
 - Majjhima Nikaya 26 offers a description of the Buddha’s original striving to become the Buddha. Sutta Nipata 3.2 offers a description of his being challenged by Mara in that effort.
 - Angulimala’s story is recounted at Majjhima Nikaya 86\.
-- In the Vinaya Pitaka, Chapter 7 of the CullaVagga (here referred to as [Chapter 17 of the Khandakas](https://suttacentral.net/pli-tv-kd?view=normal&lang=en)), recounts Devadatta’s effort to create a schism in the Sangha.
+- In the Vinaya Pitaka, Chapter 7 of the Culla Vagga (here referred to as [Chapter 17 of the Khandakas](https://suttacentral.net/pli-tv-kd?view=normal&lang=en)), recounts Devadatta’s effort to create a schism in the Sangha.
 - The story of Anathapindaka offering the monastery at Savatthi is recounted at the CullaVagga Chapter 6, the Chapter on Lodgings (referred to here as [Chapter 16 of the Khandakas](https://suttacentral.net/pli-tv-kd?view=normal&lang=en)).
 - Digha Nikaya 16 offers a comprehensive description of the last year of the Buddha’s lifetime.
 - Digha Nikaya 14 offers a description of the Buddha Vipassi’s sasana in ways that parallel the Buddha’s life events.
 
-**Particularly Poetic Syntheses of the Path**  
+**Poetic Syntheses of the Path**  
 _The Sutta Nipata as a whole includes many of the Buddha’s most poetic teachings. Some of the most celebrated are:_
 
 - Sutta Nipata 1:1-4, 1:8, 2:4, 3:11, all of Chapter 4 & 5
 
-**Other Common and Useful Approaches to the Path**  
+**Other Useful Approaches to the Path**  
 _Some of the other very common ways that the Buddha used to teach the path were:_
 
 - The Vedana Samyutta includes a variety of suttas on the key role sensation plays in the path-Samyutta Nikaya Chapter 36
@@ -82,7 +81,9 @@ _Some of the other very common ways that the Buddha used to teach the path were:
 
 **Deeper Dhamma**
 
+- In Majjhima Nikaya 111, the Buddha praises Sariputta’s proficiency with vipassana, discerning each quality as it arises.
 - At Digha Nikaya 21, Sakka the ruler of the Gods of the Thirtythree poses a number of very useful questions about the path as a whole.
-- At Digha Nikaya 22, the Buddha offers a description of how to maintain a united community and key factors in preserving the sasana.
+- At Digha Nikaya 22, the Buddha offers a description of how to maintain a united community and key factors in preserving the sāsana.
 - At Digha Nikaya 28 Sariputta recounts some of the deeper elements of the Buddha’s teaching
 - Digha Nikaya 33 & 34 are Sariputta’s compendium of a large variety of the Buddha’s teaching from around the canon.
+- Majjhima Nikaya 111 is the Buddha praising Sariputta’s proficiency with vipassana, discerning each quality as it arises.

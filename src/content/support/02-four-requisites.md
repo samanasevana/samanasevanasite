@@ -1,14 +1,7 @@
 ---
-title: "The Four Main Requisites"
+title: "Four Main Requisites"
 ---
 
-Monks aren't allowed to use money, so they depend on having their basic requisites offered directly.
+As monks, we try to keep our needs minimal and be easy to support, but there are things that are useful for the maintenance of the body. Monks aren’t allowed to use money, so they depend on having their basic requisites offered to them directly.
 
-Monks have four main requisites:
-
-1. Food
-2. Robes
-3. Shelter
-4. Medicine
-
-Additionally, other miscellaneous necessities may arise.
+Monks have four main requisites: food, robes, shelter, and medicine, as well as an assortment of other miscellaneous things which may arise.

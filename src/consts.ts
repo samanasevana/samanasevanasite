@@ -4,6 +4,6 @@
 export const SITE_URL = "https://www.samanasevana.org";
 export const SITE_TITLE = "Samaṇa Sevanā";
 export const SITE_DESCRIPTION =
-  "A community website dedicated to following and supporting Āyasmā Guṇavīro. Organized and maintained by lay supporters, it provides news, updates, and guidance for those who wish to stay connected with his journey and teachings.";
+  "Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Venerable Guṇavīro in particular.";
 
 export const EMAIL = "samanasevana@gmail.com";

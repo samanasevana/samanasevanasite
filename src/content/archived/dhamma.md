@@ -1,4 +1,4 @@
-Āyasmā Guṇavīro is a student of the Buddha. This is a brief summary of some of the most common themes of the Awakened One’s teaching.
+Guṇavīro Bhikkhu is a student of the Buddha. This is a brief summary of some of the most common themes of the Awakened One’s teaching.
 
 ---
 
