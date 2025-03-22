@@ -1,6 +1,6 @@
 ## Updates & Schedule
 
-_Last updated: March 14 2025_
+_Last updated: 2025-02-24_
 
 Guṇavīro Bhikkhu is off his retreat and is receiving guests again every day from 4-7PM at **214 Storey St, Santa Cruz, CA 95060**.
 
@@ -29,13 +29,19 @@ Also, if one would like to meet with Guṇavīro Bhikkhu in the **morning**, it 
 
 ## Alms Rounds Details
 
-Guṇavīro Bhikkhu **leaves approximately 8AM** from **214 Storey St**. However, sometimes people arrange to make a meal offering and Guṇavīro Bhikkhu stays back, and other times Guṇavīro Bhikkhu decides to fast.
+Guṇavīro Bhikkhu usually goes on **alms** on **Mission and Soquel**, connecting between the two on **Front & the TJ's parking lot**.  
+He **leaves approximately 7:30-8AM** from **214 Storey St**. However, sometimes people arrange to make a meal offering and Guṇavīro Bhikkhu stays back, and other times Guṇavīro Bhikkhu decides to fast.
 
 ### **Alms Route:**
 
-Starting from 214 Storey St, Santa Cruz…
+- **Monday, Wednesday, Friday, Saturday – Midtown:**  
+  Guṇavīro Bhikkhu goes down **Mission** and heads **east**, south on **Front**, through the **TJ's parking lot**, east on **Soquel** until **Morrissey**. Then, he comes back the exact same way.
 
-Down to King St (T,Th) or Mission (Sun), West on King/Mission to Bay, left on Bay until Laguna, Right on Laguna which turns into Delaware, Right of Fair, Left on Ingalls, Right on Swift, Back on Mission.
+  - If there isn't enough food, he may continue back on **Mission** all the way to **Swift**, then turn around and come back.
+
+- **Tuesday, Thursday, Sunday – Westside:**
+
+  Guṇavīro Bhikkhu heads down to **King St** (T,Th) or **Mission** (Sun), walks **west** on **King/Mission** to **Bay**, left on **Bay** until **Laguna**, right on **Laguna** which turns into **Delaware**, right on **Fair**, left on **Ingalls**, right on **Swift**, then back on **Mission**.
 
 ---
 

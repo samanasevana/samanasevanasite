@@ -1,6 +1,5 @@
 ---
 title: "An Overview of the Quality"
-date: "Mar 14 2025"
 ---
 
 One of the most famous of the Buddha’s teachings is him summarizing the Quality to a group of 1,250 worthy ones.
@@ -34,7 +33,7 @@ _He is auspicious, worthy, and fully and completely awakened, perfect in wisdom 
 
 _Well described by the auspicious one is the quality, visible, timeless, “come and see,” progressive, to be individually experienced by the perceptive._
 
-_Well practiced is the order of disciples of the auspicious one. Rightly practiced is the order of disciples of the auspicious one. Correctly practiced is the order of disciples of the auspicious one. Properly practiced is the order of disciples of the auspicious one. That is the four pairs of men, the eight types of men. That is the order of disciples of the auspicious one who are to be made offerings, to be hosted as guests, to be given gifts, to be offered añjali, an unsurpassable field of rewards of the world._   
+_Well practiced is the order of disciples of the auspicious one. Rightly practiced is the order of disciples of the auspicious one. Correctly practiced is the order of disciples of the auspicious one. Properly practiced is the order of disciples of the auspicious one. That is the four pairs of men, the eight types of men. That is the order of disciples of the auspicious one who are to be made offerings, to be hosted as guests, to be given gifts, to be offered añjali, an unsurpassable field of rewards of the world._  
 (e.g. AN 3.70)
 
 **Giving**  
@@ -255,7 +254,7 @@ Often, when the noble eight-part path is presented without the explicit context 
 
 One of the most common descriptions of the culmination of the path is described by the penetration of the four noble truths.
 
-_Like this, with a concentrated psyche, fully clean, fully pure, flawless, without any impurities, flexible, malleable, still, motionless, he bends and inclines the psyche toward the knowledge which leads to the wearing away of impulses._
+_Like this, with a concentrated psyche, fully pure, fully clean, flawless, without any impurities, flexible, malleable, still, motionless, he bends and inclines the psyche toward the knowledge which leads to the wearing away of impulses._
 
 _He is aware “this is painful,” as it actually is,_  
 _is aware “this is the origin of pain” as it actually is,_  
@@ -273,5 +272,5 @@ _DN 2_
 
 The ultimate purpose of the path is what the Awakened One described as nibbāna, extinguishing, or going out.
 
-_This is peaceful, this is sublime: all fusions have calmed, everything acquired has been completely relinquished, craving has run out, fading away, dissolution, extinguishing._  
+_This is peaceful, this is sublime: all fusions have stilled, everything acquired has been completely relinquished, craving has run out, fading away, dissolution, extinguishing._  
 _E.g. MN 64 AN 9.36_

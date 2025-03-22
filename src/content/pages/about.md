@@ -6,4 +6,4 @@ Guṇavīro Bhikkhu is a Buddhist monk. He began practicing Buddhism in 2001, be
 
 This website is open-source, and you can find the code on our [GitHub repository](https://github.com/samanasevana/samanasevanasite).
 
-Photos of Guṇavīro Bhikkhu provided by Hasti and Yar.
+Photography of Guṇavīro Bhikkhu graciously contributed by Hasti and Yar.

@@ -1,6 +1,6 @@
 Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Venerable Guṇavīro in particular.
 
-Created and maintained by lay supporters, this website serves as a resource for guidance on relating to Buddhist monks, translations of the Suttas, and answers to common questions about the monastic life.
+Created and maintained by lay supporters, this website serves as a resource for guidance on relating to Buddhist monks and answers to common questions.
 
 To subscribe to the Samaṇa Sevanā newsletter, sign up through this [Google Form](https://forms.gle/NkBQv5JfWmNcXNnZA).
 

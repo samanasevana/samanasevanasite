@@ -4,7 +4,6 @@ const translation = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
-    date: z.coerce.date(),
   }),
 });
 
@@ -12,7 +11,6 @@ const dhamma = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
-    date: z.coerce.date(),
   }),
 });
 

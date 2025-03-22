@@ -1,6 +1,5 @@
 ---
 title: "The Burning Discourse-SN 35.28"
-date: "Mar 14 2025"
 ---
 
 Everything is burning, monks. What is everything that is burning?

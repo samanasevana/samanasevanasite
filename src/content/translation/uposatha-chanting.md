@@ -1,6 +1,5 @@
 ---
 title: "Uposatha Chanting"
-date: "Feb 21 2025"
 ---
 
 # Observance Chanting

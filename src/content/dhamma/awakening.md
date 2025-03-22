@@ -1,6 +1,5 @@
 ---
 title: "Awakening"
-date: "Mar 14 2025"
 ---
 
 **The Moral Foundation: Kindness, Compassion, Generosity, Morality**
@@ -35,7 +34,7 @@ To try to control the world in such a way that it meets the needs and desires of
 
 Indulging sense desires has a deeper drawback, which is that to engage in these pleasures is fundamentally unsatisfying. The pleasurable or painful quality of our internal experience is largely determined by the moral quality to our actions, while the pleasures of the senses can only offer a temporary distraction from the painful or pleasurable moral baseline. If one is solely fixated on these pleasures, it sets the stage for addiction, becoming so fixated on a short-term pleasure that one loses perspective on how exhausting the process is and how much damage the pursuit is doing to oneself and others.
 
-And even more subtly than that, the indulgence in sense pleasures offers a more fundamental obstruction to peace and further spiritual progress. It has to do with the nature of engaging in sense pleasures in the first place. When one experiences a sight or sound or smell or taste or touch and delights in that experience, grabs hold of it, and identifies with it, the mind goes out to it and the will binds to it. A subtle attachment or fusion to that object is being created.
+And even more subtly than that, the indulgence in sense pleasures offers a more fundamental block to peace and further spiritual progress. It has to do with the nature of engaging in sense pleasures in the first place. When one experiences a sight or sound or smell or taste or touch and delights in that experience, grabs hold of it, and identifies with it, the mind goes out to it and the will binds to it. A subtle attachment or fusion to that object is being created.
 
 The next time that object arises mentally or externally, the attachment pulls the mind back out to the object. The more objects are attached to, the more one is pulled around by all the things which have been fused to. Each attachment is the seed for agitation and stress and tension. The more one binds oneself to the pleasures of the world, the more seeds of agitation are being planted.
 
@@ -93,11 +92,11 @@ The last three parts of the path constitute a different section. These last part
 
 The sixth part of the path is Right Effort: the abandoning of unwholesome qualities and the development of wholesome qualities. To put this into practice, one needs a clear understanding of what are wholesome and unwholesome qualities and a clear understanding of how to counteract the unwholesome and develop the wholesome.
 
-The crudest types of unwholesome qualities are the five obstructions. Each has a particular tool designed to counteract and come out of it.
+The crudest types of unwholesome qualities are the five blocks. Each has a particular tool designed to counteract and come out of it.
 
 _Sensual Desire_
 
-The first of the obstructions is sensual desire. This includes desire for any type of sense experience, any sight, sound, smell, taste, or touch. However the strongest sensual desires tend to be desires toward sexuality, food, entertainment, comforts, beauty, and sleep. To abandon these when they come up most strongly, the Buddha recommended looking at the unattractive aspects of whatever one is infatuated with.
+The first of the blocks is sensual desire. This includes desire for any type of sense experience, any sight, sound, smell, taste, or touch. However the strongest sensual desires tend to be desires toward sexuality, food, entertainment, comforts, beauty, and sleep. To abandon these when they come up most strongly, the Buddha recommended looking at the unattractive aspects of whatever one is infatuated with.
 
 If the object of one’s desire is another person, one is encouraged to examine a list of unattractive parts of the body: head hair, body hair, nails, teeth, skin, muscle, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, small intestine, large intestine, inner organs, excrement, bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, snot, bodily fluids, urine.
 
@@ -109,7 +108,7 @@ The sign that this type of reflection is having the desired effect is that there
 
 _Hostility_
 
-The second obstruction is hostility, the entire realm of hatred, cruelty, violence and the like. To counteract hostility, the Buddha suggested the cultivation of kindness and compassion towards all beings.
+The second block is hostility, the entire realm of hatred, cruelty, violence and the like. To counteract hostility, the Buddha suggested the cultivation of kindness and compassion towards all beings.
 
 The experience of hostility and the experience of kindness are the exact opposite. Hostility is the wish to harm. Kindness is wishing well. Hostility is tight, constricting, and burning. Kindness is expansive, open, smooth, and soothing. Hostility is painful. Kindness is pleasurable. Hostility is agitated. Kindness is calm and balanced.
 
@@ -117,7 +116,7 @@ The more one is internally familiar with these experiences, the more one can con
 
 _Sluggishness and Drowsiness_
 
-The third obstruction is sluggishness and drowsiness. It is the movement of one’s psyche towards disconnecting, dissociating, murkiness, depression, or sleep. It is a slow, slothful, stiff, torpid state. To counteract this state, the Buddha recommended recognition of light, remembering, and being fully aware.
+The third block is sluggishness and drowsiness. It is the movement of one’s psyche towards disconnecting, dissociating, murkiness, depression, or sleep. It is a slow, slothful, stiff, torpid state. To counteract this state, the Buddha recommended recognition of light, remembering, and being fully aware.
 
 The recognition of light is uncovering and developing the light coming from the depth of the psyche, generally in the center of the torso. When developed, that light helps one stay awake and alert. However, even if one isn’t able to develop that internal light, the most important part of counteracting sluggishness and drowsiness is generating energy toward staying connected to one’s direct experience and remembering.
 
@@ -143,21 +142,21 @@ The middle point is one where one is both calm, fully aware, and remembering.
 
 _Indecision_
 
-The last of the obstructions is indecision, confusion, an inability to settle onto a particular course of action. For this, the Buddha recommended reflecting on the wholesome and the unwholesome. The more clear the distinction between those qualities, the more straightforward decisions will be.
+The last of the blocks is indecision, confusion, an inability to settle onto a particular course of action. For this, the Buddha recommended reflecting on the wholesome and the unwholesome. The more clear the distinction between those qualities, the more straightforward decisions will be.
 
 The distinction between the two is all of the topics being discussed. Some examples of wholesome qualities are generosity, morality, kindness, compassion, renunciation, contentment, awareness, and letting go. Some examples of the unwholesome are sensual desire, hostility, sluggishness and drowsiness, agitation and worry, indecision, ego, craving for existence, and craving for non-existence.
 
 _Ego_
 
-While the five obstructions are the crudest types of unwholesome qualities, there are many more rooted in various forms of ego, self-centeredness, conceitedness, being domineering, possessiveness, excessive attachment to view, pride, jealousy, envy, inferiority and all the various forms the sense of self can take.
+While the five blocks are the crudest types of unwholesome qualities, there are many more impurities rooted in various forms of ego, self-centeredness, conceitedness, being domineering, possessiveness, excessive attachment to view, pride, jealousy, envy, inferiority and all the various forms the sense of self can take.
 
 While ego and identification is a much more deeply rooted process which takes much more subtlety to uproot, the main approach to counteracting ego is the same whether the sense of self is taking a crude or subtle form.
 
 To counteract ego, one develops the recognition of the impermanent, transient nature of that which one is identifying with. The more one can see the transience of that object, external or internal, crude or subtle, physical or experiential, mundane or sublime, the more that the object loses the sense of being “me” or “mine.”
 
-_The Results of Abandoning the Obstructions_
+_The Results of Abandoning the Blocks_
 
-The five obstructions block one’s clear, calm, balanced experience of awareness. When those five are not present, they open the space for a cascade of wholesomeness to arise. This cascade naturally transitions into Right Concentration. Right Remembering is present all along the way.
+The five blocks block one’s clear, calm, balanced experience of awareness. When those five are not present, they open the space for a cascade of wholesomeness to arise. This cascade naturally transitions into Right Concentration. Right Remembering is present all along the way.
 
 **Right Remembering: What is the Path and What is Not the Path**
 

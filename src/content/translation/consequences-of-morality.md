@@ -1,6 +1,5 @@
 ---
 title: "Consequences of Morality-MN 41"
-date: "Mar 14 2025"
 ---
 
 **Conversation with the Brahmins of Sāleyya**
