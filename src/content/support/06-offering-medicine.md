@@ -1,5 +1,5 @@
 ---
-title: "How to offer medicine or medical treatment?"
+title: "How can I offer medicine or medical treatment?"
 ---
 
 Because it is difficult to know in advance when one will need medicine and medical treatment, the best way to offer to pay for these things is to make an offering directly to the monk. Unless one specifies otherwise, the monk will be able to accept that request for up to four months.

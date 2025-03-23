@@ -1,5 +1,5 @@
 ---
-title: "How to offer robes?"
+title: "How can I offer robes?"
 ---
 
 The easiest way to offer robes would be to make an intention known to the monk that you would like to provide robes when they are needed, and then he can let you know when the need arises or if he can wait until the robes season.

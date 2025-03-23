@@ -1,5 +1,5 @@
 ---
-title: "How to offer shelter?"
+title: "How can I offer shelter?"
 ---
 
 There are a variety of ways to offer shelter to a monk. The easiest way to go about it is to simply offer and describe the circumstances available and let him decide.
