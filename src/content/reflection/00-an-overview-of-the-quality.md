@@ -1,5 +1,5 @@
 ---
-title: "An Overview of the Quality"
+title: "An Overview of The Quality"
 ---
 
 One of the most famous of the Buddha’s teachings is him summarizing the Quality to a group of 1,250 worthy ones.
@@ -149,7 +149,7 @@ The third noble truth was the dissolution of pain was to be realized.
 _With the fading away, and dissolving without a trace of that very craving, giving it up, relinquishing it completely, release, without any clinging._
 
 The fourth noble truth is the way leading to the dissolution of pain, the whole set of preparations necessary to develop the subtlety of mind and psyche necessary to abandon craving at a moment-to-moment level. It is to be developed.  
-“_This very noble eight-part path. That is: right view, right resolution, right speech, right action, right livelihood, right effort, right remembering, and right convergence.”_  
+“_This very noble eight-part path. That is: right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, and right convergence.”_  
 *(*SN 56.11)
 
 It is the understanding of these realities and the experience of them that lays out the path to ultimate freedom. When they are understood, applied, and developed, they lead to the realization of ultimate freedom.
@@ -158,7 +158,7 @@ It is the understanding of these realities and the experience of them that lays 
 The most complex part of the four noble truths is the fourth, the noble eight part path. The process involves creating a clean basis of moral purity, abandoning the pursuit of sensual experiences and unwholesome qualities, developing awareness, and unification of the psyche.
 
 The noble truth of the way that leads to the dissolution of pain is the noble eight-part path:  
-Right view, right resolution, right speech, right action, right livelihood, right effort, right remembering, right convergence.
+Right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, right convergence.
 
 Right view is the knowledge of pain, knowledge of the origin of pain, knowledge of the dissolution of pain, knowledge of the way leading to the dissolution of pain.
 
@@ -191,7 +191,7 @@ To overcome the obstruction of indecision, he encouraged clarity on what are who
 
 In addition to these major obstructions, he also listed a longer list of unwholesome qualities such as anger and vindictiveness, being controlling or possessive, being deceitful and deceptive, arrogance and conceitedness, as well as grasping tightly to views and being unable to relinquish them. To deal with these more deeply seated impurities which are more tied to a sense of self and ego, he encouraged the recognition of impermanence (AN 9.3).
 
-The benefit of overcoming these five obstructions and the weakening of the other unwholesome states, is that one is able to develop a state of calm, awareness and remembering of the path. Because of this calm basis for awareness, it eventually develops into a deep contentment. One deeply content is overcome with joy. For one with a joyful mind, the body relaxes. A relaxed body feels pleasure. For one who feels pleasure, the psyche concentrates. (DN2, AN 11.1)
+The benefit of overcoming these five obstructions and the weakening of the other unwholesome states, is that one is able to develop a state of calm, awareness and remembrance of the path. Because of this calm basis for awareness, it eventually develops into a deep contentment. One deeply content is overcome with joy. For one with a joyful mind, the body relaxes. A relaxed body feels pleasure. For one who feels pleasure, the psyche concentrates. (DN2, AN 11.1)
 
 **Right Concentration & Calm (Samatha)**  
 The Buddha described many different tools for creating a wholesome basis for calm: morality (AN 11.1) The four supreme dwellings (SN 46.54), the six recollections of the Awakened One, the Quality, the Order, giving things up, morality, and deities (AN 11.11).
@@ -220,8 +220,8 @@ _With the abandoning of pleasure, and the abandoning of pain, with joy and suffe
 
 _He sits having pervaded this very body with a pure and clean psyche, with no part of the body left unpervaded by a pure and clean psyche…“ (DN 2_)
 
-**Right Remembering & Discerning (Vipassanā)**  
-Right remembering is the piece of the path when one establishes remembering in the context of four aspects of one’s experience. Right remembering is described as:  
+**Right Remembrance & Discerning (Vipassanā)**  
+Right remembrance is the piece of the path when one establishes remembrance in the context of four aspects of one’s experience. Right remembrance is described as:  
 _“A monk lives examining the body within the body, passionate, fully conscious, and remembering having removed covetousness and suffering for the world,_  
 _Lives examining sensations within sensations, passionate, fully conscious, and remembering having removed covetousness and suffering for the world,_  
 _Lives examining the psyche within the psyche, passionate, fully conscious, and remembering having removed covetousness and suffering for the world,_  
@@ -229,13 +229,13 @@ _Lives examining qualities within qualities, passionate, fully conscious, and re
 
 The Awakened One on several occasions goes much more in depth about what should be remembered in the context of each of these four experiences. (DN 22\)
 
-In the context of the body, he gave many objects for remembering the body in the context of its constituent parts and remembering the impermanence of it and a long list of impressions of a corpse and skeleton in various states of decay after death. Additionally, he included several objects which directed remembering more directly at the postures of the body, the breath, feeling the whole body, and relaxing the fusion of the body.
+In the context of the body, he gave many objects for remembering the body in the context of its constituent parts and remembering the impermanence of it and a long list of impressions of a corpse and skeleton in various states of decay after death. Additionally, he included several objects which directed remembering more directly at the postures of the body, the breath, feeling the whole body, and relaxing the merging of the body.
 
 In the context of sensations, he taught monks to remember whether the sensations being experienced were pleasurable, painful, or neither pleasurable nor painful, and whether they were arising because of worldly stimuli or whether they were arising due to spiritual qualities away from the world.
 
 In the context of the psyche, he taught monks to remember whether the psyche was with or without infatuation, with or without hatred, with or without delusion, collapsed or scattered, expanded or not, limited or limitless, converged or not, and freed or not.
 
-The remembering in the context of qualities which arise is the most complex and profound of the four and have embedded in them the types of remembering and recognition that eventually lead to letting go and liberation.
+The remembrance in the context of qualities which arise is the most complex and profound of the four and have embedded in them the types of remembering and recognition that eventually lead to letting go and liberation.
 
 In addition to understanding the qualities of the obstructions, many times, he went more in depth in describing the nature of one’s picking up, taking on, and identifying with different phenomena.
 
@@ -243,9 +243,9 @@ In breaking down each of the aspects of one’s experience, understanding their 
 
 This discerning has two main frameworks. These are repeated many times in the chapters of the Samyutta Nikaya 22 and 35\. The most well known of these discourses are the first time the Buddha taught them and are known as the Anattālakkhaṇa Sutta(SN 22.59) and the Āditta Pariyāya Sutta (SN 35.28).
 
-The former framework involves looking at the impermanent, painful, not-self nature of each of the five masses or aggregates which are taken on and identified with: the mass of form which is taken on, the mass of sensation which is taken on, the mass of recognition which is taken on, the mass of fusions which are taken on, and the mass of perception which is taken on.
+The former framework involves looking at the impermanent, painful, not-self nature of each of the five masses or aggregates which are taken on and identified with: the mass of form which is taken on, the mass of sensation which is taken on, the mass of recognition which is taken on, the mass of mergings which are taken on, and the mass of perception which is taken on.
 
-The latter framework involves looking at the impermanent, burning nature of the six internal and external aspects of the six sense fields as well as the perception of those fields, the contact between the three, as well as the sensation which arises due to this contact. The six sense fields are seeing, hearing, smelling, tasting, touching, mind, the objects of each sense doors, sights, sounds, smells, tastes, touches, and qualities, and the percept of each of these sense doors.
+The latter framework involves looking at the impermanent, burning nature of the six internal and external aspects of the six sense fields as well as the perception of those fields, the contact between the three, as well as the sensation which arises due to this contact. The six sense fields are seeing, hearing, smelling, tasting, touching, mind, the objects of each sense doors, sights, sounds, smells, tastes, touches, and qualities, and the perception of each of these sense doors.
 
 Once one establishes the awareness of the impermanent, burning nature of these experiences and the understanding that infatuation, hatred, and delusion are fueling the fire, one becomes disenchanted with them. When one becomes disenchanted, infatuation fades away. With the fading of infatuation one is freed. With the experience of freedom, one knows that one is freed and that this is one’s last birth.
 
@@ -272,5 +272,5 @@ _DN 2_
 
 The ultimate purpose of the path is what the Awakened One described as nibbāna, extinguishing, or going out.
 
-_This is peaceful, this is sublime: all fusions have stilled, everything acquired has been completely relinquished, craving has run out, fading away, dissolution, extinguishing._  
+_This is peaceful, this is sublime: all mergings have stilled, everything acquired has been completely relinquished, craving has run out, fading away, dissolution, extinguishing._  
 _E.g. MN 64 AN 9.36_

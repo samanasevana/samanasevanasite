@@ -2,7 +2,7 @@
 title: "The Noble Eight-Part Path-MN 141"
 ---
 
-Which is the noble truth of the way that leads to the dissolution of pain? It is this very noble eight-part path, that is–Right view, right resolution, right speech, right action, right livelihood, right effort, right remembering, right convergence.
+Which is the noble truth of the way that leads to the dissolution of pain? It is this very noble eight-part path, that is–Right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, right convergence.
 
 Friend, which is “right view?”
 
@@ -20,11 +20,11 @@ Friend, which is “right action?”
 
 Refraining from killing living beings, refraining from taking what is not given, refraining from wrong sexual behavior. Friend, this is called “Right Action.”
 
-Friend, which is “Right Livelihood?”
+Friend, which is “right livelihood?”
 
 Here, friend, a noble disciple abandons wrong livelihood and supports his life by right livelihood. This is called “Right Livelihood.”
 
-Friend, which is “Right Effort?”
+Friend, which is “right effort?”
 
 Here, friend, a monk generates desire, effort, arouses energy, digs deep for will power and strives to keep unarisen unwholesome, bad qualities from arising.
 
@@ -34,21 +34,21 @@ generates desire, effort, arouses energy, digs deep for will power and strives t
 
 generates desire, effort, arouses energy, digs deep for will power and strives to sustain, not let pass away, develop, extend, and fulfill arisen wholesome qualities.
 
-Friend, this is called, “Right Effort.”
+Friend, this is called, “right effort.”
 
-Friend, which is “right remembering?”
+Friend, which is “right remembrance?”
 
-Here, friend, a monk who lives examining the body within the body, fervent, fully conscious, and remembering, would remove greed and suffering for the world.
+Here, friend, a monk who lives examining the body within the body, fervent, fully conscious, and remembering, having removed greed and suffering for the world.
 
-One who lives examining feelings within feelings, fervent, fully conscious, and remembering, would remove greed and suffering for the world.
+One who lives examining feelings within feelings, fervent, fully conscious, and remembering, having removed greed and suffering for the world.
 
-One who lives examining the psyche from within the psyche, fervent, fully conscious, and remembering, would remove greed and suffering for the world.
+One who lives examining the psyche from within the psyche, fervent, fully conscious, and remembering, having removed greed and suffering for the world.
 
-One who lives examining qualities from within qualities, fervent, fully conscious and remembering, would remove greed and suffering for the world.
+One who lives examining qualities from within qualities, fervent, fully conscious and remembering, having removed greed and suffering for the world.
 
-Friend, this is called, “Right Remembering.”
+Friend, this is called, “right remembrance.”
 
-Friend, Which is “Right Convergence?”
+Friend, Which is “right convergence?”
 
 Here, friend, a monk separated from sensuality, separated from unskillful qualities, one lives having entered into the first focus with thought and mental movement, with joy and pleasure born of solitude.
 

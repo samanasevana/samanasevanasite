@@ -7,7 +7,7 @@ const translation = defineCollection({
   }),
 });
 
-const dhamma = defineCollection({
+const reflection = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
@@ -28,4 +28,4 @@ const faq = defineCollection({
   }),
 });
 
-export const collections = { translation, dhamma, support, faq };
+export const collections = { translation, reflection, support, faq };

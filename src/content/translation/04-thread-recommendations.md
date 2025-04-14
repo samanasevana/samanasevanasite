@@ -1,5 +1,5 @@
 ---
-title: "Sutta Recommendations"
+title: "Thread Recommendations"
 ---
 
 This is a list of major topics the Buddha regularly returned to as well as some representative teachings on those topics as well as further reading in case people are interested in either getting a general taste of the canon or interested in going deeper on certain topics.
@@ -33,13 +33,13 @@ FR: MN 142, 101, Anguttara Nikaya 3:24, 3:100, 10:217-220 MN 41-2
 
 **Parts of the Path Related to Meditation**
 
-**Remembering Based in Inhalation and Exhalation**  
-_One of the most common frameworks that the Buddha used for meditation was integrating the breath with the bojjhangas and the development of samatha and vipassana in 16 steps._  
+**Breath Remembrance**  
+_One of the most common frameworks that the Buddha used for meditation was integrating the breath with the parts of awakening and the development of calm and discernment in 16 steps._  
 Ex: Majjhima Nikaya 118  
 Further Reading: Samyutta Nikaya Ch 54
 
-**Teachings on Not Self**  
-_One of the most common teachings that the Buddha taught to monks and nuns, which frequently culminated in their awakening, was guiding them through the five parts of one’s identity and understanding each of those parts to be not really one’s own or oneself._  
+**Teachings on Not Soul**  
+_One of the most common teachings that the Buddha taught to monks and nuns, which frequently culminated in their awakening, was guiding them through the five parts of one’s identity and understanding each of those parts to be not really one’s own, oneself or one’s soul._  
 Ex. Samyutta Nikaya 22.59  
 Further Reading: Samyutta Nikaya Ch 22, especially 22.57, 22.79, 22.81
 
@@ -48,8 +48,8 @@ _The main other framework that the Buddha used for teaching monks and nuns to se
 Ex. Samyutta Nikaya 35.28  
 FR: Samyutta Nikaya Ch 35, MN 137, MN 143-152
 
-**The Four Bases to Establish of Remembering**  
-The four bases or foundations for remembering are a piece of the eightfold noble path. Occasionally the Buddha integrates the whole of the path into these four bases for remembering.  
+**The Establishments of Remembrance**  
+The four establishments of remembrance are a piece of the eightfold noble path. Occasionally the Buddha integrates the whole of the path into these four establishments of remembrance.  
 Ex. Digha Nikaya 22  
 FR: Majjhima Nikaya 10, 119
 
@@ -63,7 +63,7 @@ FR: Majjhima Nikaya 10, 119
 - In the Vinaya Pitaka, Chapter 7 of the Culla Vagga (here referred to as [Chapter 17 of the Khandakas](https://suttacentral.net/pli-tv-kd?view=normal&lang=en)), recounts Devadatta’s effort to create a schism in the Sangha.
 - The story of Anathapindaka offering the monastery at Savatthi is recounted at the CullaVagga Chapter 6, the Chapter on Lodgings (referred to here as [Chapter 16 of the Khandakas](https://suttacentral.net/pli-tv-kd?view=normal&lang=en)).
 - Digha Nikaya 16 offers a comprehensive description of the last year of the Buddha’s lifetime.
-- Digha Nikaya 14 offers a description of the Buddha Vipassi’s sasana in ways that parallel the Buddha’s life events.
+- Digha Nikaya 14 offers a description of the Buddha Vipassi’s dispensation in ways that parallel the Buddha’s life events.
 
 **Poetic Syntheses of the Path**  
 _The Sutta Nipata as a whole includes many of the Buddha’s most poetic teachings. Some of the most celebrated are:_

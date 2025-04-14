@@ -8,6 +8,6 @@ Monks, this is the noble truth of the coming together of pain. That craving, whi
 
 Monks, this is the noble truth of the dissolution of pain. The fading away and dissolution without a trace of that very craving, given it up, relinquished completely, released, without clinging.
 
-Monks, this is the noble truth of the way leading to the dissolution of pain. It is this very eight part noble path. That is– right view, right intention, right speech, right acting, right livelihood, right effort, right remembering, right concentration.
+Monks, this is the noble truth of the way leading to the dissolution of pain. It is this very eight part noble path. That is– right view, right intention, right speech, right acting, right livelihood, right effort, right remembrance, right concentration.
 
 _Saṃyutta Nikāya 56.11_

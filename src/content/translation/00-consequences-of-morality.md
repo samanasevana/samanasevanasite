@@ -44,7 +44,7 @@ This, landowner, is the fourfold quality behavior, ethical behavior by speech.
 
 And how, landowner, is the threefold quality behavior, ethical behavior by mind?
 
-Now, landowner, some are without envy. One doesn’t envy those things of others, others’ wealth and belongings– “Oh, if only that which is someone else’s were mine.”
+Now, landowner, some are without greed. One isn’t greedy for those things of others, others’ wealth and belongings– “Oh, if only that which is someone else’s were mine.”
 
 One has no hostility in the psyche without corrupted resolutions of mind, “May these beings keep themselves well, without vengeance, without hostility, without malice.”
 
@@ -54,4 +54,4 @@ One holds right view, seeing without distortion:
 
 This type of quality behavior, ethical behavior is the cause now that some beings with the breaking up of the body, after death, arise in a good destination, a heavenly realm.
 
-_Majjhima Nikāya 41_
+Majjhima Nikāya 41

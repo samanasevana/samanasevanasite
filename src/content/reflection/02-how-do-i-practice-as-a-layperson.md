@@ -6,7 +6,23 @@ The Buddha’s teaching encompasses a wide variety of tools to put into practice
 
 These are really two different pieces of the path. However, without the establishing of a wholesome basis, ultimate freedom is not possible. Without ultimate freedom, the wholesome basis is always subject to falling apart and reverting to the unwholesome.
 
-For a lay person, generosity and morality should be as integrated as possible into one’s daily life and moment-to-moment intentions. If one can always be moving through the world with the intentions of wishing well, kindness, friendship, compassion, harmlessness, then one will be creating that wholesome basis all through the day, whether one is at work or at home. With others or by oneself.
+**General Recommendations**
+
+What defines a lay disciple of the Awakened One is going for refuge in the Awakened One, going. (SN 55.37)
+
+Beyond that the Buddha encouraged lay followers to follow the five precepts:
+
+1. To refrain from killing any living being
+2. To refrain from taking what is not given
+3. To refrain from wrong sexual behavior
+4. To refrain from lying
+5. To refrain from alcohol, liquor, and things that cause distraction or intoxication
+
+Generosity and morality should be as integrated as possible into one’s daily life and moment-to-moment intentions. If one can always be moving through the world with the intentions of wishing well, kindness, friendship, compassion, harmlessness, then one will be creating that wholesome basis all through the day, whether one is at work or at home. With others or by oneself.
+
+Finally, he encouraged lay people to develop awareness of the arising and passing away nature of things as much as possible.
+
+**Observance Day Recommendations**
 
 To move further towards more subtle forms of wholesomeness, the Buddha recommended for lay people to dedicate the full moons, new moons, and eighth days to cleaning the dirtiness from one’s psyche. (AN 3.70)
 
@@ -16,13 +32,15 @@ On these days, as a means for cultivating a wholesome sense of contentment, the 
 
 Beyond that, he encouraged following the eight precepts for the day:
 
-1. Refrain from killing any living being
-2. Refrain from taking what is not given
-3. Refrain from sexual activity
-4. Refrain from lying
-5. Refrain from alcohol, liquor, and things that cause distraction or intoxication
-6. Refrain from eating outside the right time (before dawn and after midday)
-7. Refrain from dancing, singing, playing music, entertainment, wearing garlands, perfumes, makeup, adornment, and beautification
-8. Refrain from using high and luxurious bedding.
+1. To refrain from killing any living being
+2. To refrain from taking what is not given
+3. To refrain from sexual activity
+4. To refrain from lying
+5. To refrain from alcohol, liquor, and things that cause distraction or intoxication
+6. T refrain from eating outside the right time (before dawn and after midday)
+7. To refrain from dancing, singing, playing music, entertainment, wearing garlands, perfumes, makeup, adornment, and beautification
+8. To refrain from using high and luxurious bedding.
 
 In this way, one is living one’s life for that day in a way similar to the way that worthy ones live their whole lives.
+
+Also, on these days, one has the opportunity to develop more completely the continuity of “the awareness of arising and passing away, penetrating, noble, correct, and leading to end of pain.” (SN 55.37)

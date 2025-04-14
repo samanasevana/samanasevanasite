@@ -1,8 +1,6 @@
 ---
-title: "Uposatha Chanting"
+title: "Observance Chanting"
 ---
-
-# Observance Chanting
 
 ## Homage Chant
 

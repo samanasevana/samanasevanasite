@@ -3,21 +3,23 @@ import { getCollection } from "astro:content";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
 import Layout from "../../layouts/Layout.astro";
 
-const dhammaPosts = await getCollection("dhamma");
+const reflectionPosts = await getCollection("reflection");
 const translationPosts = await getCollection("translation");
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
   <main>
     <article>
-      <h2>Dhamma Reflections</h2>
+      <h1>The Quality</h1>
+
+      <h2>Reflections</h2>
     </article>
     <ul class="flex flex-col gap-1.5">
       {
-        dhammaPosts.map((post) => (
+        reflectionPosts.map((post) => (
           <li>
             <a
-              href={`/dhamma/${post.slug}`}
+              href={`/thequality/${post.slug}`}
               class="group flex justify-between gap-3"
             >
               <span class="group-hover:underline">{post.data.title}</span>
