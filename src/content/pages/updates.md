@@ -11,4 +11,5 @@ Starting in October or November, he will settle down for the winter until March.
 If you have a place to offer as short-term or long-term shelter, please feel free to reach out at [samanasevana@gmail.com](mailto:samanasevana@gmail.com). For more information on offering support, please visit the [support page](/support).
 
 Warm regards,
+
 Jordan
