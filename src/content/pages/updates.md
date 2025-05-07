@@ -2,7 +2,7 @@
 
 _Updates as of 2025-05-07_
 
-Bhante has officially arrived in Scotts Valley! He's staying at the home of my parents for the time being located at 31 Taryn Ct, Scotts Valley, CA 95066.
+Bhante has officially arrived in Scotts Valley! He's staying at the home of my parents for the time being located at 31 Taryn Ct, Scotts Valley, CA 95066. Please park outside the gate on the street and look for the sign that says "Bhante's Residence" - walk through the backyard and knock on the sliding glass door.
 
 Bhante is available most days from 6:00pm to 7:30pm for drop-in visits. On Uposatha days (May 5, 11, 19, 26), there will be a Dhamma talk and Q&A from 6:00pm to 8:00pm-ish. If you'd like to schedule a private meeting, or have any questions, please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com).
 
