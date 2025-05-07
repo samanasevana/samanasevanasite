@@ -25,7 +25,7 @@ Dp 183-185
 **Qualities of the Buddha Dhamma Sangha**  
 Followers of the Awakened One would often take refuge, seek protection and shelter in the Awakened One himself, the Quality he taught, and the Order of monks he established.
 
-The quality of belief, faith, and inspiration around the Awakened One, the Quality, and the Order can be an important source of energy and motivation and a vehicle for a wholesome, balanced, contentment and joy. When one has a basis of that wholesome balanced contentment and joy, it can be very conducive towards convergence and unification and ultimately letting go completely.
+The quality of belief, faith, and inspiration around the Awakened One, the Quality, and the Order can be an important source of energy and motivation and a vehicle for a wholesome, balanced, contentment and joy. When one has a basis of that wholesome balanced contentment and joy, it can be very conducive towards concentration and unification and ultimately letting go completely.
 
 However, to generate that belief, one needs to have a sense for what they are. The canonical description of the Awakened One, the Quality, and the Order are:
 
@@ -130,7 +130,7 @@ Even before reaching his aspiration of ultimate freedom, it became clear to him 
 One of the common reflection for people preparing to go forth is:  
 _“The household is cramped and dusty, going forth is open and spacious. It’s not easy living in a household to live the holy life completely fulfilled, completely pure, polished like a conch shell. What if I were to cut off my hair and beard, wear cloth dyed with tannins, and go forth from the household into homelessness?” DN 2_
 
-In addition, the abandoning of sensual pleasures yields another, even more important quality necessary to the ultimate freedom. In abandoning sensual experiences of the five senses, one leaves behind all the agitation that is bred in that movement and attachment. The more one succeeds in abandoning the craving for and movement towards sensuality, the more one has an inner sense of contentment, joy, pleasure, and relaxation. These qualities naturally tend towards convergence and unification of the psyche. DN 2
+In addition, the abandoning of sensual pleasures yields another, even more important quality necessary to the ultimate freedom. In abandoning sensual experiences of the five senses, one leaves behind all the agitation that is bred in that movement and attachment. The more one succeeds in abandoning the craving for and movement towards sensuality, the more one has an inner sense of contentment, joy, pleasure, and relaxation. These qualities naturally tend towards concentration and unification of the psyche. DN 2
 
 **The Four Noble Truths**  
 The four noble truths are the centerpiece of the Buddha’s teaching. They are the key to ultimate freedom. The whole path is included in the four noble truths.
@@ -149,7 +149,7 @@ The third noble truth was the dissolution of pain was to be realized.
 _With the fading away, and dissolving without a trace of that very craving, giving it up, relinquishing it completely, release, without any clinging._
 
 The fourth noble truth is the way leading to the dissolution of pain, the whole set of preparations necessary to develop the subtlety of mind and psyche necessary to abandon craving at a moment-to-moment level. It is to be developed.  
-“_This very noble eight-part path. That is: right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, and right convergence.”_  
+“_This very noble eight-part path. That is: right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, and right concentration.”_  
 *(*SN 56.11)
 
 It is the understanding of these realities and the experience of them that lays out the path to ultimate freedom. When they are understood, applied, and developed, they lead to the realization of ultimate freedom.
@@ -158,7 +158,7 @@ It is the understanding of these realities and the experience of them that lays 
 The most complex part of the four noble truths is the fourth, the noble eight part path. The process involves creating a clean basis of moral purity, abandoning the pursuit of sensual experiences and unwholesome qualities, developing awareness, and unification of the psyche.
 
 The noble truth of the way that leads to the dissolution of pain is the noble eight-part path:  
-Right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, right convergence.
+Right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, right concentration.
 
 Right view is the knowledge of pain, knowledge of the origin of pain, knowledge of the dissolution of pain, knowledge of the way leading to the dissolution of pain.
 
@@ -208,9 +208,9 @@ These transition naturally into the four focuses (jhānā):
 
 _Joy and pleasure born of separation flow through, flow around, fill up, and pervade this very body, with no part of the body left unpervaded with joy and pleasure born of separation…_
 
-_With the calming of thought and mental movement, internally settling down, the will having been set down and unified, he enters into the second focus without thought or mental movement, with joy and pleasure born of convergence…_
+_With the calming of thought and mental movement, internally settling down, the will having been set down and unified, he enters into the second focus without thought or mental movement, with joy and pleasure born of concentration…_
 
-_Joy and pleasure born of convergence flow through, flow around, fill up, and pervade this very body, with no part of the body left unpervaded with joy and pleasure born of convergence…_
+_Joy and pleasure born of concentration flow through, flow around, fill up, and pervade this very body, with no part of the body left unpervaded with joy and pleasure born of concentration…_
 
 _With the fading of joy, dwelling in observation, remembering and fully aware, experiencing pleasure throughout the body, that which the noble ones make known “This one is observing, remembering, and dwelling in pleasure.” he enters into the third focus._
 

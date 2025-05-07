@@ -2,7 +2,7 @@
 title: "The Noble Eight-Part Path-MN 141"
 ---
 
-Which is the noble truth of the way that leads to the dissolution of pain? It is this very noble eight-part path, that is–Right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, right convergence.
+Which is the noble truth of the way that leads to the dissolution of pain? It is this very noble eight-part path, that is–Right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, right concentration.
 
 Friend, which is “right view?”
 
@@ -48,16 +48,16 @@ One who lives examining qualities from within qualities, fervent, fully consciou
 
 Friend, this is called, “right remembrance.”
 
-Friend, Which is “right convergence?”
+Friend, Which is “right concentration?”
 
 Here, friend, a monk separated from sensuality, separated from unskillful qualities, one lives having entered into the first focus with thought and mental movement, with joy and pleasure born of solitude.
 
-With the calming of thought and mental movement, internally settling down, the will having set down and unified, one enters into the second focus without thought or mental movement, with joy and pleasure born of convergence.
+With the calming of thought and mental movement, internally settling down, the will having set down and unified, one enters into the second focus without thought or mental movement, with joy and pleasure born of concentration.
 
 With the fading of joy, dwelling in observation, remembering and fully aware, experiencing pleasure throughout the body, that which the noble ones make known “This one is observing, remembering, and dwelling in pleasure.” one enters into the third focus.
 
 With the abandoning of pleasure, and the abandoning of pain, with joy and suffering having previously come to an end, purified through observation and remembering, one enters into the fourth focus without pain or pleasure.
 
-Friend, this is called, “right convergence.”
+Friend, this is called, “right concentration.”
 
 _Majjhima Nikāya 141_
