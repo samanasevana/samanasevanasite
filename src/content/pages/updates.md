@@ -1,5 +1,14 @@
 ## Updates & Schedule
 
+_Updates as of 2025-05-28_
+
+Hi all - Bhante is currently residing somewhere in the forests of Scotts Valley. You'll likely, but not guaranteed, to see him on alms round in the mornings between Kings Village Shopping Center and Heavenly Roadside Cafe between 7am and 11am until the middle of June. After that, I would wager that he'll either return to my parents' home in Scotts Valley, or to the forests of Ben Lomond.
+
+More details to come! If you'd like to hear more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
+
+Thx,
+Jordan
+
 _Updates as of 2025-05-07_
 
 Bhante has officially arrived in Scotts Valley! He's staying at the home of my parents for the time being located at 31 Taryn Ct, Scotts Valley, CA 95066. Please park outside the gate on the street and look for the sign that says "Bhante's Residence" - walk through the backyard and knock on the sliding glass door.
