@@ -1,5 +1,21 @@
 ## Updates & Schedule
 
+_Updates as of 2025-06-22_
+
+Good evening all,
+
+Bhante plans on giving a Dhamma talk at Skypark on Tuesday, June 24th at 1:30pm.
+
+In early July, Bhante will likely return to my parents' home in Scotts Valley. Dhamma talk schedule will be updated as we get closer to the date.
+
+All are welcome to attend. If you'd like to hear more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
+
+Warm regards,
+
+Jordan
+
+---
+
 _Updates as of 2025-05-28_
 
 Hi all - Bhante is currently residing somewhere in the forests of Scotts Valley. You'll likely, but not guaranteed, to see him on alms round in the mornings between Kings Village Shopping Center and Heavenly Roadside Cafe between 7am and 11am until the middle of June. After that, I would wager that he'll either return to my parents' home in Scotts Valley, or to the forests of Ben Lomond.
