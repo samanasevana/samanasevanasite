@@ -6,7 +6,7 @@ Good evening all,
 
 Bhante plans on giving a Dhamma talk at Skypark on Tuesday, June 24th at 1:30pm.
 
-In early July, Bhante will likely return to my parents' home in Scotts Valley. Dhamma talk schedule will be updated as we get closer to the date.
+On July 1, Bhante will likely return to my parents' home in Scotts Valley before he heads to the greater Bay Area. Dhamma talk schedule will be July 2nd and July 9th at 6:00pm to 8:00pm. The address is 31 Taryn Ct, Scotts Valley, CA 95066. Please park outside the gate on the street and look for the sign that says "Bhante's Residence" - walk through the backyard and knock on the sliding glass door.
 
 All are welcome to attend. If you'd like to hear more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
 
