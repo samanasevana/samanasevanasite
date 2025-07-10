@@ -1,5 +1,19 @@
 ## Updates & Schedule
 
+_Updates as of 2025-07-09_
+
+Good evening all,
+
+Bhante has decided to remain in Scotts Valley until July 18th. The final Dhamma talk will be held on Thursday, July 17th, from 6:00pm to 8:00pm at 31 Taryn Ct, Scotts Valley, CA 95066. Please park outside the iron gate on the street and look for the small wooden gate immediately to the right - walk through the backyard and knock on the sliding glass door.
+
+All are welcome to attend. If you'd like to receive more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
+
+Warm regards,
+
+Jordan
+
+---
+
 _Updates as of 2025-06-22_
 
 Good evening all,
