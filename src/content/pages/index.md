@@ -5,7 +5,7 @@ Welcome to our community space for those interested in the monastic path, suppor
 31 Taryn Ct, Scotts Valley, CA 95066
 
 <u>For Drop-In Visits:</u>  
-31 Taryn Ct, 6:00–7:30 PM, every day through July 16th
+31 Taryn Ct, 6:00–7:30 PM, every day through July 15th
 
 Please park outside the gate on the street and look for the sign that says “Bhante’s Residence.” Walk through the backyard and knock on the sliding glass door.
 
