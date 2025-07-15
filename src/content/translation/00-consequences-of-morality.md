@@ -1,5 +1,7 @@
 ---
 title: "Consequences of Morality-MN 41"
+description: "This teaching recounts when the Awakened One described the types of immoral actions which lead to births in hell."
+order: 6
 ---
 
 **Conversation with the Brahmins of Sāleyya**

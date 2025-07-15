@@ -1,5 +1,6 @@
 ---
 title: "Observance Chanting"
+description: "These are some of the main canonical passages which are commonly recited on the full moon, new moon, and eighth days of the fortnight. The English and Pali are both included."
 ---
 
 ## Homage Chant

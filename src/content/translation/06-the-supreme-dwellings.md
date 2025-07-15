@@ -1,5 +1,7 @@
 ---
 title: "The Supreme Dwellings"
+description: "Another stock passage which is used many times throughout the cannon is the description of the four 'supreme dwellings.'"
+order: 7
 ---
 
 With a will imbued with kindness, one lives pervading one direction, so the second, so the third, so the fourth.

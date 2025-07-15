@@ -4,6 +4,8 @@ const translation = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
+    description: z.string().optional(),
+    order: z.number(),
   }),
 });
 
@@ -28,4 +30,21 @@ const faq = defineCollection({
   }),
 });
 
-export const collections = { translation, reflection, support, faq };
+const thequality = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    order: z.number(),
+  }),
+});
+
+const readings = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+  }),
+});
+
+export const collections = { translation, reflection, support, faq, thequality, readings };

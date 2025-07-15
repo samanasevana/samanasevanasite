@@ -1,5 +1,7 @@
 ---
 title: "The Noble Eight-Part Path-MN 141"
+description: "A more detailed description occurs in one of his longer explications of the noble eight-part path."
+order: 5
 ---
 
 Which is the noble truth of the way that leads to the dissolution of pain? It is this very noble eight-part path, that is–Right view, right resolution, right speech, right action, right livelihood, right effort, right remembrance, right concentration.

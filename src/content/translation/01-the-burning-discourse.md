@@ -1,5 +1,7 @@
 ---
 title: "The Burning Discourse-SN 35.28"
+description: "After he was awakened, these first three of the Awakened One's teaching constituted the main structure of his teaching throughout his lifetime. He taught these three same basic structures hundreds of times. (3/3)"
+order: 4
 ---
 
 Monks, everything is burning. What is everything that is burning?

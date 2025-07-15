@@ -1,5 +1,7 @@
 ---
 title: "The Characteristics of Not-Soul-SN 22.59"
+description: "After he was awakened, these first three of the Awakened One's teaching constituted the main structure of his teaching throughout his lifetime. He taught these three same basic structures hundreds of times. (2/3)"
+order: 3
 ---
 
 One time, the auspicious one was living in Bārāṇasi in the deer grove at rishi’s fall. There the auspicious one addressed the group of five monks.

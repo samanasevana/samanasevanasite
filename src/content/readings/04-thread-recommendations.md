@@ -1,5 +1,6 @@
 ---
 title: "Thread Recommendations"
+description: "This is a list of important teachings the Awakened One gave for those interested in going deeper."
 ---
 
 This is a list of major topics the Buddha regularly returned to as well as some representative teachings on those topics as well as further reading in case people are interested in either getting a general taste of the canon or interested in going deeper on certain topics.

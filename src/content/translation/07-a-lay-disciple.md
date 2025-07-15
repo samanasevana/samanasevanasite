@@ -1,5 +1,7 @@
 ---
 title: "A Lay Disciple-The Mahānāma Thread-SN55.37"
+description: "This teaching includes how the Awakened One recommends lay people to practice once they have established faith in him and his teaching."
+order: 8
 ---
 
 **The Mahānāma Thread**
