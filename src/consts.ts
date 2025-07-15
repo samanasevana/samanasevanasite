@@ -4,6 +4,6 @@
 export const SITE_URL = "https://www.samanasevana.org";
 export const SITE_TITLE = "Samaṇa Sevanā";
 export const SITE_DESCRIPTION =
-  "Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Bhante Guṇavīro in particular.";
+  "Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Bhante Gunaviro in particular.";
 
 export const EMAIL = "samanasevana@gmail.com";

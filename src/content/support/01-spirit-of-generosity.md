@@ -24,4 +24,4 @@ It is that happiness and peace that I hope people feel when they make any offeri
 
 I hope you can all feel all the benefits of your tremendous offerings to me and to all those around you. It is the way out. It is the way to a happy and unconflicted inner world. It is the way to ultimate peace.
 
---Bhante Guṇavīro
+--Bhante Gunaviro
