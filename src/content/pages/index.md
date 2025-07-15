@@ -1,11 +1,17 @@
 Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Bhante Gunaviro in particular.
 
-<u>Next 3 Dhamma Talks (at 570 Monterrey Terrace, Sunnyvale):</u>  
-**_Thursday, July 24th_**  
-**_Thursday, July 31st_**  
-**_Friday, August 7th_**
+<u>Final Scotts Valley Dhamma Talk</u>:  
+**Thursday, July 17th, 6:00–8:00 PM**  
+31 Taryn Ct, Scotts Valley, CA 95066
 
-Drop-in hours for these talks are from 6:00pm to 7:30pm from July 25th to August 8th.
+<u>Upcoming Dhamma Talks at 570 Monterrey Terrace, Sunnyvale</u>:  
+**Thursday, July 24th**  
+**Thursday, July 31st**  
+**Friday, August 7th**
+
+Drop-in hours (on days without Dhamma talks):  
+6:00–7:30 PM, July 25th to August 8th  
+570 Monterrey Terrace, Sunnyvale
 
 <u>On Alms Round:</u>  
 Granite Creek Drive, Scotts Valley Drive, and Mount Hermon shopping centers until July 18th; after that, in the South Bay.  
