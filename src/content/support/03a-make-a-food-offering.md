@@ -1,10 +1,16 @@
+---
+title: "How can I make a formal meal offering?"
+---
+
 ## Making a Formal Meal Offering
 
-Once you've arranged a formal meal offering, here are the practical details:
+A formal meal offering can take place at either a monk's residence or your own home as long as its within walking distance.
+
+Once you've arranged a formal meal offering with the monk, here are the practical details:
 
 ### Timing
 
-The ideal window for meal offerings is 8:00 AM to 11:30 AM during daylight savings time (March-November), or 8:00 AM to 10:30 AM after daylight savings ends (November-March). This allows sufficient time to complete the meal before solar noon, when monks must finish eating. If you're traveling from a distance, the later end of this window can be especially helpful.
+The ideal window for meal offerings is 8:00 AM to 11:30 AM during daylight savings time (March-November), or 8:00 AM to 10:30 AM after daylight savings ends (November-March). This allows sufficient time to complete the meal before solar noon, when monks must finish eating.
 
 ### The Offering Process
 
@@ -14,7 +20,7 @@ The ideal window for meal offerings is 8:00 AM to 11:30 AM during daylight savin
 
 ### Amount of Food
 
-- A good guideline is to bring the equivalent of two healthy medium-sized meals
+- A good starting point is to bring the equivalent of two healthy medium-sized meals
 - If you're uncertain, it's fine to bring extra - the monk will signal when sufficient food has been offered
 - You're welcome to offer additional food after the monk has had time to begin eating
 
