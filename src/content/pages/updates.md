@@ -1,5 +1,19 @@
 ## Updates & Schedule
 
+_Updates as of 2025-07-17_
+
+Good evening all,
+
+Bhante has given his final Dhamma talk in Scotts Valley for now. It was a wonderful experience having him here. Tomorrow, he will begin walking to Sunnyvale, traveling nearby Highway 17. The home page of this website has been updated with the new schedule.
+
+Bhante also recently recorded an episode with the Clear Mountain Monastery Podcast: [Listen here](https://www.youtube.com/watch?v=8erqGpw0Ty8).
+
+If you'd like to receive more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
+
+Warm regards,
+
+Jordan
+
 _Updates as of 2025-07-09_
 
 Good evening all,
