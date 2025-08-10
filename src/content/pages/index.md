@@ -1,17 +1,23 @@
 Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Bhante Gunaviro in particular.
 
-<u>Upcoming Dhamma Talks (6:00–8:00 PM):</u>  
-Thursday, July 24 (570 Monterrey Terrace, Sunnyvale)  
-Friday, Aug 1 (570 Monterrey Terrace, Sunnyvale)  
-Friday, Aug 8 (570 Monterrey Terrace, Sunnyvale)  
-Saturday, Aug 16 (1215 Curtner Ave., San Jose)
+<u>Upcoming Dhamma Talks</u>  
+**Time:** 6:00–8:00 PM  
+**Location:** 1215 Curtner Ave., San Jose
 
-<u>Drop-in hours (on days without Dhamma talks):</u>  
-6:00–7:30 PM, July 21st to August 7th (570 Monterrey Terrace, Sunnyvale)
-6:00–7:30 PM, August 9th to TBD (1215 Curtner Ave., San Jose)
+- Saturday, August 16
+- Friday, August 22
+
+_Street parking is available along Curtner Ave._
+
+<u>Drop-in Hours (when there is no Dhamma talk):</u>  
+**Time:** 6:00–7:30 PM  
+**Dates:** August 9 onward (TBD end date)  
+**Location:** 1215 Curtner Ave., San Jose
+
+_No drop-in hours on Thursday, August 21._
 
 <u>On Alms Round:</u>
-Sunnyvale and San Jose routes are TBD.
+San Jose routes are TBD.
 (Bhante isn’t on alms round every day, as he is sometimes invited for a meal or may be fasting.)
 
 <u>On Offering Support:</u>
