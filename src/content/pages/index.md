@@ -14,7 +14,7 @@ _Street parking is available along Curtner Ave._
 **Dates:** August 9 onward (TBD end date)  
 **Location:** 1215 Curtner Ave., San Jose
 
-_No drop-in hours on Thursday, August 21._
+_No drop-in hours on Thursday, August 14._
 
 <u>On Alms Round:</u>
 San Jose routes are TBD.
