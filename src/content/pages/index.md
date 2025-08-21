@@ -2,19 +2,36 @@ Welcome to our community space for those interested in the monastic path, suppor
 
 <u>Upcoming Dhamma Talks</u>  
 **Time:** 6:00–8:00 PM  
-**Location:** 1215 Curtner Ave., San Jose
+**Dates & Locations:**
 
-- Saturday, August 16
-- Friday, August 22
-
+**Friday, August 22**  
+1215 Curtner Ave., San Jose  
 _Street parking is available along Curtner Ave._
+
+**Saturday, August 30**  
+6498 Mojave Dr., San Jose
+
+**Saturday, September 6**  
+5662 Prospect Dr., San Jose
+
+**Sunday, September 14**  
+197 N Sunnyvale Ave., Sunnyvale
 
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
 **Time:** 6:00–7:30 PM  
-**Dates:** August 9 onward (TBD end date)  
-**Location:** 1215 Curtner Ave., San Jose
 
-_No drop-in hours on Thursday, August 14._
+**August 9–21**  
+1215 Curtner Ave., San Jose
+
+**August 23–29**  
+6498 Mojave Dr., San Jose
+
+**August 31–September 5**  
+5662 Prospect Dr., San Jose
+
+**September 7 onwards** (end TBD)  
+5662 Prospect Dr., San Jose
+
 
 <u>On Alms Round:</u>
 San Jose routes are TBD.
