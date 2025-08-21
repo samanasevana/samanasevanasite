@@ -30,7 +30,7 @@ _Street parking is available along Curtner Ave._
 5662 Prospect Dr., San Jose
 
 **September 7 onwards** (end TBD)  
-5662 Prospect Dr., San Jose
+197 N Sunnyvale Ave., Sunnyvale
 
 
 <u>On Alms Round:</u>
