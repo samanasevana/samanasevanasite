@@ -14,8 +14,8 @@ _Street parking is available along Curtner Ave._
 **Saturday, September 6**  
 5662 Prospect Dr., San Jose
 
-**Sunday, September 14**  
-197 N Sunnyvale Ave., Sunnyvale
+<!--**Sunday, September 14**  
+197 N Sunnyvale Ave., Sunnyvale-->
 
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
 **Time:** 6:00–7:30 PM  
@@ -29,8 +29,8 @@ _Street parking is available along Curtner Ave._
 **August 31–September 5**  
 5662 Prospect Dr., San Jose
 
-**September 7 onwards** (end TBD)  
-197 N Sunnyvale Ave., Sunnyvale
+<!--**September 7 onwards** (end TBD)  
+197 N Sunnyvale Ave., Sunnyvale-->
 
 
 <u>On Alms Round:</u>
