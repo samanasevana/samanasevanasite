@@ -12,7 +12,7 @@ _Street parking is available along Curtner Ave._
 6498 Mojave Dr., San Jose
 
 **Saturday, September 6**  
-5662 Prospect Dr., San Jose
+5662 Prospect Rd., San Jose
 
 <!--**Sunday, September 14**  
 197 N Sunnyvale Ave., Sunnyvale-->
@@ -27,7 +27,7 @@ _Street parking is available along Curtner Ave._
 6498 Mojave Dr., San Jose
 
 **August 31–September 5**  
-5662 Prospect Dr., San Jose
+5662 Prospect Rd., San Jose
 
 <!--**September 7 onwards** (end TBD)  
 197 N Sunnyvale Ave., Sunnyvale-->
