@@ -6,6 +6,7 @@ Welcome to our community space for those interested in the monastic path, suppor
 
 **Saturday, August 30**  
 6498 Mojave Dr., San Jose
+
 _Parking is available at Crossgate and Mojave dr._
 
 **Saturday, September 6**  
