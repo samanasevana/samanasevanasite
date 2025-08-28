@@ -4,15 +4,38 @@ Welcome to our community space for those interested in the monastic path, suppor
 **Time:** 6:00–8:00 PM  
 **Dates & Locations:**
 
-**Friday, August 22**  
-1215 Curtner Ave., San Jose  
-_Street parking is available along Curtner Ave._
-
 **Saturday, August 30**  
 6498 Mojave Dr., San Jose
+_Parking is available at Crossgate and Mojave dr._
 
 **Saturday, September 6**  
 5662 Prospect Rd., San Jose
+
+**Sunday, September 14**  
+2147 Kingsbury Ct., Santa Clara
+
+**Sunday, September 21**  
+2147 Kingsbury Ct., Santa Clara
+
+**Monday, September 29**  
+4732 Amiens Ave., Fremont
+
+**Monday, October 6**  
+4732 Amiens Ave., Fremont
+
+**Tuesday, October 14**  
+946 Princess Anne Drive, San Jose
+
+**Monday, October 20**  
+946 Princess Anne Drive, San Jose
+
+**Tuesday, October 28**  
+132 Mosswell Ct., San Jose
+
+**Tuesday, November 4**  
+1135 Deana Ct., Morgan Hill
+
+_Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 
 <!--**Sunday, September 14**  
 197 N Sunnyvale Ave., Sunnyvale-->
@@ -20,14 +43,35 @@ _Street parking is available along Curtner Ave._
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
 **Time:** 6:00–7:30 PM  
 
-**August 9–21**  
-1215 Curtner Ave., San Jose
-
 **August 23–29**  
 6498 Mojave Dr., San Jose
 
-**August 31–September 5**  
+**August 31–September 7**  
 5662 Prospect Rd., San Jose
+
+**September 7–10**  
+1124 Littleoak Circle, San Jose
+
+**September 10–26**  
+2147 Kingsbury Circle, Santa Clara
+
+**September 26–October 10**  
+4732 Amiens Ave., Fremont
+
+**October 10–11**  
+2147 Kingsbury Circle, Santa Clara  
+_No drop-in hours this day_
+
+**October 11–27**  
+946 Princess Anne Drive, San Jose
+
+**October 27–November 2**  
+132 Mosswell Ct., San Jose
+
+**November 2 onwards**  
+1135 Deana Ct., Morgan Hill
+
+_Drop-in hours are 6:00–7:30 PM on all days except where otherwise noted._
 
 <!--**September 7 onwards** (end TBD)  
 197 N Sunnyvale Ave., Sunnyvale-->
