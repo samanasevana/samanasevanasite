@@ -1,6 +1,6 @@
 ---
 title: "General Worldview"
-description: 
+description: "The foundational understanding of the universe including past lives, moral consequences, and dimensions of existence"
 order: 1
 ---
 
