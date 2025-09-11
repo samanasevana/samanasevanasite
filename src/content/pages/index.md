@@ -4,14 +4,6 @@ Welcome to our community space for those interested in the monastic path, suppor
 **Time:** 6:00–8:00 PM  
 **Dates & Locations:**
 
-**Saturday, August 30**  
-6498 Mojave Dr., San Jose
-
-_Parking is available at Crossgate and Mojave dr._
-
-**Saturday, September 6**  
-5662 Prospect Rd., San Jose
-
 **Sunday, September 14**  
 2147 Kingsbury Ct., Santa Clara
 
@@ -42,19 +34,13 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 197 N Sunnyvale Ave., Sunnyvale-->
 
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
-**Time:** 6:00–7:30 PM  
+**Time:** 6:00–7:30 PM 
 
-**August 23–29**  
-6498 Mojave Dr., San Jose
-
-**August 31–September 7**  
-5662 Prospect Rd., San Jose
-
-**September 7–10**  
-1124 Littleoak Circle, San Jose
+_No drop-in hours on Sept 10_
 
 **September 10–23**  
 2147 Kingsbury Circle, Santa Clara 
+
 _No drop-in hours on Sept 10_
 
 **September 23-30**  
