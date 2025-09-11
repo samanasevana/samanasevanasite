@@ -19,7 +19,7 @@ _Parking is available at Crossgate and Mojave dr._
 2147 Kingsbury Ct., Santa Clara
 
 **Monday, September 29**  
-4732 Amiens Ave., Fremont
+1251 Bellair Way, Menlo Park
 
 **Monday, October 6**  
 4732 Amiens Ave., Fremont
@@ -53,10 +53,14 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 **September 7–10**  
 1124 Littleoak Circle, San Jose
 
-**September 10–26**  
+**September 10–23**  
 2147 Kingsbury Circle, Santa Clara
+_There will be no drop-in hours on Sept 10
 
-**September 26–October 10**  
+**September 23-30**  
+1251 Bellair Way, Menlo Park
+
+**September 30–October 10**  
 4732 Amiens Ave., Fremont
 
 **October 10–11**  
