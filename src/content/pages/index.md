@@ -55,7 +55,7 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 
 **September 10–23**  
 2147 Kingsbury Circle, Santa Clara
-_There will be no drop-in hours on Sept 10
+_There will be no drop-in hours on Sept 10_
 
 **September 23-30**  
 1251 Bellair Way, Menlo Park
