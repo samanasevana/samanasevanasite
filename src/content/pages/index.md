@@ -54,7 +54,7 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 1124 Littleoak Circle, San Jose
 
 **September 10–23**  
-2147 Kingsbury Circle, Santa Clara
+2147 Kingsbury Circle, Santa Clara 
 _No drop-in hours on Sept 10_
 
 **September 23-30**  
