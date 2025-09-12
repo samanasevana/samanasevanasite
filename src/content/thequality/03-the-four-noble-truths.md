@@ -19,7 +19,7 @@ The fourth noble truth is the eight part path leading to the cessation of the cy
 4. Right Action: Refraining from killing living beings, stealing, and wrong sexual actions
 5. Right Livelihood: Refraining from livelihood which involves transgressing the previous three parts of the path
 6. Right Effort: Effort at developing good qualities and abandoning bad qualities as described above and below.
-7. Right Remembering: Remembering what are skillful qualities and unskillful qualities and the four noble truths in the context of the experience of the body, feelings, the psyche, and the qualities.
+7. Right Remembrance: Remembering what are skillful qualities and unskillful qualities and the four noble truths in the context of the experience of the body, feelings, the psyche, and the qualities.
 8. Right Concentration: Four progressively more subtle states of focus.
     1. The first focus still possesses thought and mental movement along with joy and pleasure.
     2. The second focus is fully concentrated after thought and mental movement cease, but still experiencing joy and pleasure.
