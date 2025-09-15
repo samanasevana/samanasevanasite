@@ -17,10 +17,10 @@ Welcome to our community space for those interested in the monastic path, suppor
 4732 Amiens Ave., Fremont
 
 **Tuesday, October 14**  
-946 Princess Anne Drive, San Jose
+936 Princess Anne Drive, San Jose
 
 **Monday, October 20**  
-946 Princess Anne Drive, San Jose
+936 Princess Anne Drive, San Jose
 
 **Tuesday, October 28**  
 132 Mosswell Ct., San Jose
@@ -30,16 +30,16 @@ Welcome to our community space for those interested in the monastic path, suppor
 
 _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 
-<!--**Sunday, September 14**  
+<!--**Sunday, September 14**
 197 N Sunnyvale Ave., Sunnyvale-->
 
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
-**Time:** 6:00–7:30 PM 
+**Time:** 6:00–7:30 PM
 
 _No drop-in hours on Sept 10_
 
 **September 10–23**  
-2147 Kingsbury Circle, Santa Clara 
+2147 Kingsbury Circle, Santa Clara
 
 _No drop-in hours on Sept 10_
 
@@ -54,7 +54,7 @@ _No drop-in hours on Sept 10_
 _No drop-in hours this day_
 
 **October 11–27**  
-946 Princess Anne Drive, San Jose
+936 Princess Anne Drive, San Jose
 
 **October 27–November 2**  
 132 Mosswell Ct., San Jose
@@ -64,9 +64,8 @@ _No drop-in hours this day_
 
 _Drop-in hours are 6:00–7:30 PM on all days except where otherwise noted._
 
-<!--**September 7 onwards** (end TBD)  
+<!--**September 7 onwards** (end TBD)
 197 N Sunnyvale Ave., Sunnyvale-->
-
 
 <u>On Alms Round:</u>
 San Jose routes are TBD.
