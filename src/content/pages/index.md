@@ -19,6 +19,9 @@ Welcome to our community space for those interested in the monastic path, suppor
 **Tuesday, October 14**  
 936 Princess Anne Drive, San Jose
 
+**Tuesday, October 18 at 7 PM**
+Buddhi Vihara - 402 Knowles Ave, Santa Clara, CA 95050
+
 **Monday, October 20**  
 936 Princess Anne Drive, San Jose
 
@@ -36,24 +39,24 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
 **Time:** 6:00–7:30 PM
 
-_No drop-in hours on Sept 10_
+_No drop-in hours on Sept 22_
 
 **September 10–23**  
 2147 Kingsbury Circle, Santa Clara
 
-_No drop-in hours on Sept 10_
+_No drop-in hours on Sept 22_
 
 **September 23-30**  
 1251 Bellair Way, Menlo Park
 
-**September 30–October 10**  
+**September 30–October 11**  
 4732 Amiens Ave., Fremont
 
-**October 10–11**  
+**October 11–13**  
 2147 Kingsbury Circle, Santa Clara  
 _No drop-in hours this day_
 
-**October 11–27**  
+**October 13–27**  
 936 Princess Anne Drive, San Jose
 
 **October 27–November 2**  
