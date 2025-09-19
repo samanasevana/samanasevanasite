@@ -19,7 +19,7 @@ Welcome to our community space for those interested in the monastic path, suppor
 **Tuesday, October 14**  
 936 Princess Anne Drive, San Jose
 
-**Tuesday, October 18 at 7 PM**  
+**Saturday, October 18 at 7 PM**  
 Buddhi Vihara - 402 Knowles Ave, Santa Clara, CA 95050
 
 **Monday, October 20**  
