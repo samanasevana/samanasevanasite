@@ -39,17 +39,12 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
 **Time:** 6:00–7:30 PM
 
-_No drop-in hours on Sept 22_
-
-**September 10–23**  
-2147 Kingsbury Circle, Santa Clara
-
-_No drop-in hours on Sept 22_
+_No drop-in hours on Sept 30_
 
 **September 23-30**  
 1251 Bellair Way, Menlo Park
 
-**September 30–October 11**  
+**October 1–October 11**  
 4732 Amiens Ave., Fremont
 
 **October 11–13**  
