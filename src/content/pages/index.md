@@ -16,6 +16,9 @@ Welcome to our community space for those interested in the monastic path, suppor
 **Monday, October 6**  
 4732 Amiens Ave., Fremont
 
+**Tuesday, October 7 from 7-8:30 PM**  
+Wat Buddhanusorn - 36054 Niles Blvd, Fremont, CA 94536 
+
 **Tuesday, October 14**  
 936 Princess Anne Drive, San Jose
 
@@ -39,13 +42,14 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
 **Time:** 6:00–7:30 PM
 
-_No drop-in hours on Sept 30_
+_No drop-in hours on Oct 7_
 
 **September 23-30**  
 1251 Bellair Way, Menlo Park
 
 **October 1–October 11**  
 4732 Amiens Ave., Fremont
+_No drop-in hours on Oct 7_
 
 **October 11–13**  
 2147 Kingsbury Circle, Santa Clara  
