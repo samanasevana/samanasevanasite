@@ -42,7 +42,7 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
 **Time:** 6:00–7:30 PM
 
-_No drop-in hours on Oct 7_
+_No drop-in hours on Oct 11_
 
 **September 23-30**  
 1251 Bellair Way, Menlo Park
@@ -53,7 +53,7 @@ _No drop-in hours on Oct 7_
 
 **October 11–13**  
 2147 Kingsbury Circle, Santa Clara  
-_No drop-in hours this day_
+_No drop-in hours on Oct 11_
 
 **October 13–27**  
 936 Princess Anne Drive, San Jose
