@@ -1,26 +1,8 @@
 Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Bhante Gunaviro in particular.
 
 <u>Upcoming Dhamma Talks</u>  
-**Time:** 6:00–8:00 PM  
+**Time:** 7:00–9:00 PM  
 **Dates & Locations:**
-
-**Sunday, September 14**  
-2147 Kingsbury Ct., Santa Clara
-
-**Sunday, September 21**  
-2147 Kingsbury Ct., Santa Clara
-
-**Monday, September 29**  
-1251 Bellair Way, Menlo Park
-
-**Monday, October 6**  
-4732 Amiens Ave., Fremont
-
-**Tuesday, October 7 from 7-8:30 PM**  
-Wat Buddhanusorn - 36054 Niles Blvd, Fremont, CA 94536 
-
-**Tuesday, October 14**  
-936 Princess Anne Drive, San Jose
 
 **Saturday, October 18 at 7 PM**  
 Buddhi Vihara - 402 Knowles Ave, Santa Clara, CA 95050
@@ -34,6 +16,42 @@ Buddhi Vihara - 402 Knowles Ave, Santa Clara, CA 95050
 **Tuesday, November 4**  
 1135 Deana Ct., Morgan Hill
 
+**Wednesday, November 12**  
+1135 Deana Ct., Morgan Hill
+
+**Wednesday, November 19**  
+1135 Deana Ct., Morgan Hill
+
+**Thursday, November 27**  
+1135 Deana Ct., Morgan Hill
+
+**Thursday, December 4**  
+1135 Deana Ct., Morgan Hill
+
+**Friday, December 12**  
+1135 Deana Ct., Morgan Hill
+
+**Thursday, December 18**  
+1135 Deana Ct., Morgan Hill
+
+**Friday, December 26**  
+1135 Deana Ct., Morgan Hill
+
+**Friday, January 2**  
+1135 Deana Ct., Morgan Hill
+
+**Saturday, January 10**  
+1135 Deana Ct., Morgan Hill
+
+**Saturday, January 17**  
+1135 Deana Ct., Morgan Hill
+
+**Sunday, January 25**  
+1135 Deana Ct., Morgan Hill
+
+**Sunday, February 1**  
+1135 Deana Ct., Morgan Hill
+
 _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 
 <!--**Sunday, September 14**
@@ -41,19 +59,6 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
 **Time:** 6:00–7:30 PM
-
-_No drop-in hours on Oct 11_
-
-**September 23-30**  
-1251 Bellair Way, Menlo Park
-
-**October 1–October 11**  
-4732 Amiens Ave., Fremont
-_No drop-in hours on Oct 7_
-
-**October 11–13**  
-2147 Kingsbury Circle, Santa Clara  
-_No drop-in hours on Oct 11_
 
 **October 13–27**  
 936 Princess Anne Drive, San Jose
