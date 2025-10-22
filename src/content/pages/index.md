@@ -11,7 +11,7 @@ Buddhi Vihara - 402 Knowles Ave, Santa Clara, CA 95050
 936 Princess Anne Drive, San Jose
 
 **Tuesday, October 28**  
-132 Mosswell Ct., San Jose
+936 Princess Anne Drive, San Jose
 
 **Tuesday, November 4**  
 1135 Deana Ct., Morgan Hill
@@ -58,18 +58,18 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 197 N Sunnyvale Ave., Sunnyvale-->
 
 <u>Drop-in Hours (when there is no Dhamma talk):</u>  
-**Time:** 6:00–7:30 PM
+**Time:** 7:00–8:30 PM
 
-**October 13–27**  
+**October 13–29**  
 936 Princess Anne Drive, San Jose
 
-**October 27–November 2**  
+**October 29–November 2**  
 132 Mosswell Ct., San Jose
 
 **November 2 onwards**  
 1135 Deana Ct., Morgan Hill
 
-_Drop-in hours are 6:00–7:30 PM on all days except where otherwise noted._
+_Drop-in hours are 7:00–8:30 PM on all days except where otherwise noted._
 
 <!--**September 7 onwards** (end TBD)
 197 N Sunnyvale Ave., Sunnyvale-->
