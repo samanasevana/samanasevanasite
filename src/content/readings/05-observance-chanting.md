@@ -32,15 +32,15 @@ _Tatiyampi dhammaṃ saraṇaṃ gacchāmi;_
 _Tatiyampi saṅghaṃ saraṇaṃ gacchāmi._
 
 I take refuge in the Awakened One.  
-I take refuge in the Quality.  
+I take refuge in the Natural Law.  
 I take refuge in the Order.
 
 Even a second time, I take refuge in the Awakened One.  
-Even a second time, I take refuge in the Quality.  
+Even a second time, I take refuge in the Natural Law.  
 Even a second time, I take refuge in the Order.
 
 Even a third time, I take refuge in the Awakened One.  
-Even a third time, I take refuge in the Quality.  
+Even a third time, I take refuge in the Natural Law.  
 Even a third time, I take refuge in the Order.
 
 _Khuddakapāṭha 1 & MV Ch 1 (2nd recitation section)_
@@ -83,7 +83,7 @@ unsurpassable trainer of men,
 teacher of deities and humans,  
 awake and auspicious.
 
-Well described by the auspicious one is the quality,  
+Well described by the auspicious one is the Natural Law,  
 visible,  
 timeless,  
 "come and see,"  
