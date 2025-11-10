@@ -4,40 +4,40 @@ Welcome to our community space for those interested in the monastic path, suppor
 **Time:** 7:00–9:00 PM  
 **Dates & Locations:**
 
-**Wednesday, November 12**  
+**Wednesday, November 12** (8th day after full moon)  
 1135 Deana Ct., Morgan Hill
 
-**Wednesday, November 19**  
+**Wednesday, November 19** (New Moon)    
 1135 Deana Ct., Morgan Hill
 
-**Thursday, November 27**  
+**Thursday, November 27** (8th day after new moon)  
 1135 Deana Ct., Morgan Hill
 
-**Thursday, December 4**  
+**Thursday, December 4** (Full Moon)  
 1135 Deana Ct., Morgan Hill
 
-**Friday, December 12**  
+**Friday, December 12**  (8th day after FM)  
 1135 Deana Ct., Morgan Hill
 
-**Thursday, December 18**  
+**Thursday, December 18** (New Moon)   
 1135 Deana Ct., Morgan Hill
 
-**Friday, December 26**  
+**Friday, December 26** (8th day after NM)    
 1135 Deana Ct., Morgan Hill
 
-**Friday, January 2**  
+**Friday, January 2** (Full Moon)   
 1135 Deana Ct., Morgan Hill
 
-**Saturday, January 10**  
+**Saturday, January 10** (8th day after FM)   
 1135 Deana Ct., Morgan Hill
 
-**Saturday, January 17**  
+**Saturday, January 17**  (New Moon)  
 1135 Deana Ct., Morgan Hill
 
-**Sunday, January 25**  
+**Sunday, January 25**  (8th day after NM)  
 1135 Deana Ct., Morgan Hill
 
-**Sunday, February 1**  
+**Sunday, February 1**  (Full Moon)   
 1135 Deana Ct., Morgan Hill
 
 _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
