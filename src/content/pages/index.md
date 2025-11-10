@@ -51,7 +51,7 @@ _Talks after that until early February will be at 1135 Deana Ct., Morgan Hill_
 **October 29–November 9**  
 132 Mosswell Ct., San Jose
 
-**November 11 onwards**  
+**November 10 onwards**  
 1135 Deana Ct., Morgan Hill
 
 _Drop-in hours are 7:00–8:30 PM on all days except where otherwise noted._
