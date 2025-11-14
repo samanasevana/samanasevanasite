@@ -3,13 +3,17 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 import Layout from "../layouts/Layout.astro";
 
 import { Content } from "../content/pages/index.md";
+import EventsTable from "../components/EventsTable.astro";
+
+const introText =
+  "Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Bhante Gunaviro in particular.";
 ---
 
 <Layout
   title={SITE_TITLE}
   description={SITE_DESCRIPTION}
 >
-  <main class="space-y-4">
+  <main class="space-y-6">
     <div class="flex items-center gap-2">
       <img
         src="/static/bhante-1.png"
@@ -22,7 +26,20 @@ import { Content } from "../content/pages/index.md";
         class="h-36 w-full rounded-md border border-zinc-500/50 object-cover"
       />
     </div>
-    <article>
+    <article class="space-y-6 text-base text-slate-700">
+      <p class="text-lg text-slate-900">
+      {introText}
+      </p>
+       <p class="text-base text-slate-900">
+       <u>Community Schedule:</u>
+
+       All are welcome to attend Dhamma Talks or Drop-In Hours. If attending a Dhamma Talk, please arrive before the starting time.  
+
+      </p>
+     
+      <div class="lg:mx-[-100px]">
+        <EventsTable />
+      </div>
       <Content />
     </article>
   </main>

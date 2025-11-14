@@ -43,7 +43,7 @@ Uses Astro's type-safe content collections with schemas defined in `src/content/
 - **Static Assets**: Images of Bhante, Buddhist imagery in `public/static/`
 - **Downloadable PDFs**: Pre-generated PDFs of dharma teachings in `public/pdfs/`
 - **Fonts**: Custom Geist fonts for typography
-- **Dynamic Content**: Upcoming dharma talks schedule, drop-in hours
+- **Dynamic Content**: Upcoming dharma talks schedule, Drop-In
 
 ## Build Process
 
@@ -102,7 +102,7 @@ The build process includes:
 
 The homepage displays:
 - Upcoming dharma talks schedule with dates, times, and locations in San Jose area
-- Drop-in hours information
+- Drop-In information
 - Images of Bhante Gunaviro
 - Community information and contact details
 
