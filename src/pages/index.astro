@@ -28,33 +28,78 @@ const introText =
     </div>
     <article class="space-y-6 text-base text-slate-700">
       <p class="text-lg text-slate-900">{introText}</p>
-      <div class="space-y-3 text-base text-slate-900">
-        <p>
-          <u>Community Schedule:</u>
-          All are welcome to attend Dhamma Talks or Drop-In Hours. If attending a Dhamma Talk, please arrive
-          before the starting time.
-        </p>
-        <div class="rounded-2xl border border-slate-200 bg-slate-50/60 p-4 text-sm text-slate-700">
-          <div class="mb-2 flex items-center gap-2">
-            <span class="inline-flex items-center rounded-full bg-sky-50 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-sky-700 ring-1 ring-inset ring-sky-500/30">
-              Winter Retreat
-            </span>
-            <span class="text-xs font-medium uppercase tracking-wide text-slate-500">Nov 20 – Jan 17</span>
+      <div class="space-y-6">
+        <div class="lg:mx-[-100px]">
+          <EventsTable />
+        </div>
+        <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-md shadow-slate-200/70">
+          <div class="space-y-5 text-sm text-slate-700">
+            <div>
+              <div class="mb-2 flex flex-wrap items-center gap-2">
+                <span class="inline-flex items-center rounded-full bg-sky-50 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-sky-700 ring-1 ring-inset ring-sky-500/30">
+                  Winter Retreat
+                </span>
+                <span class="text-xs font-medium uppercase tracking-wide text-slate-500">Nov 20 – Jan 17</span>
+              </div>
+              <p class="text-base text-slate-700">
+                During Winter Retreat, Bhante Gunaviro will not be available for drop-in hours or discussions after the
+                meal. Dhamma talks will continue as scheduled.
+                   <br />   <br />
+                 If you are interested in making a meal offering during the retreat, please email
+                <a class="font-semibold text-slate-900 underline-offset-2 hover:underline" href="mailto:samanasevana@gmail.com">
+                  samanasevana@gmail.com
+                </a>
+                and a lay supporter can help find an appropriate time.
+              </p>
+            </div>
+            <hr class="border-slate-200" />
+            <div>
+              <div class="mb-2 flex flex-wrap items-center gap-2">
+                <span class="inline-flex items-center rounded-full bg-amber-50 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-amber-700 ring-1 ring-inset ring-amber-400/30">
+                  Dhamma Talk
+                </span>
+                <span class="text-xs font-medium uppercase tracking-wide text-slate-500">Lunar Observance Days</span>
+              </div>
+              <p class="text-base text-slate-800">
+                On Lunar Observance days, Bhante Gunaviro gives an hour-long Dhamma talk followed by Q&A. All are welcome.
+                Please arrive on time to settle in before the talk begins.
+              </p>
+            </div>
+            <hr class="border-slate-200" />
+            <div>
+              <div class="mb-2 flex flex-wrap items-center gap-2">
+                <span class="inline-flex items-center rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-emerald-700 ring-1 ring-inset ring-emerald-400/30">
+                  Drop-In Hours
+                </span>
+                <span class="text-xs font-medium uppercase tracking-wide text-slate-500">See Schedule</span>
+              </div>
+              <p class="text-base text-slate-700">
+                Drop-In Hours are the best opportunity to meet with Bhante Gunaviro directly, ask Dhamma questions,
+                offer support, or arrange meal offerings. Please refer to the schedule above for current Drop-In times.
+              </p>
+              <p class="mt-2 text-base text-slate-700">
+                For more information, see the
+                <a class="font-semibold text-slate-900 underline-offset-2 hover:underline" href="/support">
+                  Support page
+                </a>
+                .
+              </p>
+            </div>
+            <hr class="border-slate-200" />
+            <div>
+              <p class="text-base text-slate-700">
+                For general inquiries, offerings of support, or to join our WhatsApp group, please contact
+                <a class="font-semibold text-slate-900 underline-offset-2 hover:underline" href="mailto:samanasevana@gmail.com">
+                  samanasevana@gmail.com
+                </a>, an email address maintained by a lay supporter. If your message is intended for Bhante Gunaviro, a lay
+                supporter will do their best to pass it along.
+                <br />
+                   <br />
+                Please understand that responses may take time, especially if he is on retreat or otherwise unavailable.
+            </div>
           </div>
-          <p>
-            During Winter Retreat, Bhante Gunaviro will not be available for drop-in hours or discussions after the
-            meal. Dhamma talks will continue as scheduled. To make a meal offering during the retreat, please email
-            <a class="font-semibold text-slate-900 underline-offset-2 hover:underline" href="mailto:samanasevana@gmail.com">
-              samanasevana@gmail.com
-            </a>
-            .
-          </p>
         </div>
       </div>
-      <div class="lg:mx-[-100px]">
-        <EventsTable />
-      </div>
-      <Content />
     </article>
   </main>
 </Layout>
