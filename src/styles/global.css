@@ -84,4 +84,12 @@
       @apply mx-auto my-4 h-1 w-48 rounded-sm border-0 bg-gray-100 dark:bg-gray-700 md:my-10;
     }
   }
+
+  .week-card {
+    @apply min-w-[240px] shrink-0 snap-start rounded-xl border border-zinc-200 bg-white/80 p-4 text-left text-sm font-medium text-zinc-800 shadow-sm transition hover:shadow-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#CC5500] dark:border-zinc-700 dark:bg-zinc-800/70 dark:text-zinc-100;
+  }
+
+  .week-card[data-active="true"] {
+    @apply border-[#CC5500] bg-white shadow-lg ring-1 ring-[#CC5500] dark:border-amber-500 dark:ring-amber-500;
+  }
 }
