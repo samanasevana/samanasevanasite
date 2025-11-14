@@ -1,0 +1,134 @@
+---
+import { readFileSync } from "node:fs";
+
+type EventRow = {
+  Date: string;
+  Event: string;
+  Time: string;
+  Location: string;
+  Language: string;
+};
+
+const fileUrl = new URL("../content/events.csv", import.meta.url);
+const csvText = readFileSync(fileUrl, "utf-8");
+
+const parseCsvLine = (line: string): string[] => {
+  const values: string[] = [];
+  let current = "";
+  let inQuotes = false;
+
+  for (let i = 0; i < line.length; i++) {
+    const char = line[i];
+    if (char === '"') {
+      if (inQuotes && line[i + 1] === '"') {
+        current += '"';
+        i++;
+      } else {
+        inQuotes = !inQuotes;
+      }
+      continue;
+    }
+
+    if (char === "," && !inQuotes) {
+      values.push(current.trim());
+      current = "";
+      continue;
+    }
+
+    current += char;
+  }
+
+  values.push(current.trim());
+  return values;
+};
+
+const parseCsv = (text: string): EventRow[] => {
+  const lines = text.split(/\r?\n/).filter(Boolean);
+  if (lines.length < 2) {
+    return [];
+  }
+
+  const headers = parseCsvLine(lines.shift()!);
+
+  return lines.map((line) => {
+    const values = parseCsvLine(line);
+    return headers.reduce<EventRow>(
+      (acc, header, index) => {
+        acc[header as keyof EventRow] = values[index] ?? "";
+        return acc;
+      },
+      { Date: "", Event: "", Time: "", Location: "", Language: "" }
+    );
+  });
+};
+
+const events = parseCsv(csvText);
+
+const chipPalette = [
+  "bg-amber-50 text-amber-800 ring-amber-500/30",
+  "bg-emerald-50 text-emerald-700 ring-emerald-500/30",
+  "bg-sky-50 text-sky-700 ring-sky-500/30",
+  "bg-rose-50 text-rose-700 ring-rose-500/30",
+  "bg-purple-50 text-purple-700 ring-purple-500/30",
+  "bg-indigo-50 text-indigo-700 ring-indigo-500/30",
+];
+
+const eventColorMap = new Map<string, string>();
+
+const getChipClass = (eventName: string) => {
+  const key = eventName.trim().toLowerCase();
+  if (!eventColorMap.has(key)) {
+    const color = chipPalette[eventColorMap.size % chipPalette.length];
+    eventColorMap.set(key, color);
+  }
+
+  return eventColorMap.get(key)!;
+};
+---
+
+<section class="mt-6 space-y-4">
+
+  {
+    events.length > 0 ? (
+      <div class="max-h-[500px] overflow-auto rounded-2xl border border-slate-200 bg-white/85 shadow-lg shadow-slate-200/60 backdrop-blur">
+        <table class="min-w-full divide-y divide-slate-200 text-left text-sm mt-0 mb-0 text-slate-700">
+          <caption class="sr-only">Schedule of upcoming Dhamma events</caption>
+          <thead class="text-xs font-semibold uppercase tracking-wide text-slate-500">
+            <tr>
+              <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Date</th>
+              <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Event</th>
+              <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Time</th>
+              <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Location</th>
+              <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Language</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-100">
+            {
+              events.map((event) => (
+                <tr class="transition hover:bg-slate-50">
+                  <td class="whitespace-nowrap px-4 py-3 font-semibold text-slate-900">{event.Date}</td>
+                  <td class="px-4 py-3">
+                    <span
+                      class={`inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold ring-1 ring-inset ${getChipClass(
+                        event.Event
+                      )}`}
+                    >
+                      {event.Event}
+                    </span>
+                  </td>
+                  <td class="whitespace-nowrap px-4 py-3 text-slate-600">{event.Time}</td>
+                  <td class="px-4 py-3 text-slate-600">{event.Location}</td>
+                  <td class="whitespace-nowrap px-4 py-3 text-slate-600">{event.Language}</td>
+                </tr>
+              ))
+            }
+          </tbody>
+        </table>
+      </div>
+    ) : (
+      <p class="rounded-lg border border-dashed border-slate-200 bg-white/60 p-4 text-sm text-slate-600">
+        Event schedule will be announced soon. Please check back shortly.
+      </p>
+    )
+  }
+</section>
