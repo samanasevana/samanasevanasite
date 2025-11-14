@@ -1,5 +1,5 @@
 ---
-import { readFileSync } from "node:fs";
+import csvText from "../content/events.csv?raw";
 
 type EventRow = {
   Date: string;
@@ -8,9 +8,6 @@ type EventRow = {
   Location: string;
   Language: string;
 };
-
-const fileUrl = new URL("../content/events.csv", import.meta.url);
-const csvText = readFileSync(fileUrl, "utf-8");
 
 const parseCsvLine = (line: string): string[] => {
   const values: string[] = [];
