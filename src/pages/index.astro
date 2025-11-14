@@ -27,16 +27,30 @@ const introText =
       />
     </div>
     <article class="space-y-6 text-base text-slate-700">
-      <p class="text-lg text-slate-900">
-      {introText}
-      </p>
-       <p class="text-base text-slate-900">
-       <u>Community Schedule:</u>
-
-       All are welcome to attend Dhamma Talks or Drop-In Hours. If attending a Dhamma Talk, please arrive before the starting time.  
-
-      </p>
-     
+      <p class="text-lg text-slate-900">{introText}</p>
+      <div class="space-y-3 text-base text-slate-900">
+        <p>
+          <u>Community Schedule:</u>
+          All are welcome to attend Dhamma Talks or Drop-In Hours. If attending a Dhamma Talk, please arrive
+          before the starting time.
+        </p>
+        <div class="rounded-2xl border border-slate-200 bg-slate-50/60 p-4 text-sm text-slate-700">
+          <div class="mb-2 flex items-center gap-2">
+            <span class="inline-flex items-center rounded-full bg-sky-50 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-sky-700 ring-1 ring-inset ring-sky-500/30">
+              Winter Retreat
+            </span>
+            <span class="text-xs font-medium uppercase tracking-wide text-slate-500">Nov 20 – Jan 17</span>
+          </div>
+          <p>
+            During Winter Retreat, Bhante Gunaviro will not be available for drop-in hours or discussions after the
+            meal. Dhamma talks will continue as scheduled. To make a meal offering during the retreat, please email
+            <a class="font-semibold text-slate-900 underline-offset-2 hover:underline" href="mailto:samanasevana@gmail.com">
+              samanasevana@gmail.com
+            </a>
+            .
+          </p>
+        </div>
+      </div>
       <div class="lg:mx-[-100px]">
         <EventsTable />
       </div>

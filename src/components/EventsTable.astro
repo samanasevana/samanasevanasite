@@ -6,6 +6,7 @@ type EventRow = {
   Event: string;
   Time: string;
   Location: string;
+  Language: string;
 };
 
 const fileUrl = new URL("../content/events.csv", import.meta.url);
@@ -56,7 +57,7 @@ const parseCsv = (text: string): EventRow[] => {
         acc[header as keyof EventRow] = values[index] ?? "";
         return acc;
       },
-      { Date: "", Event: "", Time: "", Location: "" }
+      { Date: "", Event: "", Time: "", Location: "", Language: "" }
     );
   });
 };
@@ -98,6 +99,7 @@ const getChipClass = (eventName: string) => {
               <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Event</th>
               <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Time</th>
               <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Location</th>
+              <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Language</th>
             </tr>
           </thead>
           <tbody class="divide-y divide-slate-100">
@@ -116,6 +118,7 @@ const getChipClass = (eventName: string) => {
                   </td>
                   <td class="whitespace-nowrap px-4 py-3 text-slate-600">{event.Time}</td>
                   <td class="px-4 py-3 text-slate-600">{event.Location}</td>
+                  <td class="whitespace-nowrap px-4 py-3 text-slate-600">{event.Language}</td>
                 </tr>
               ))
             }
