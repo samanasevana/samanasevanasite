@@ -24,5 +24,5 @@ There are good qualities which are still in the realm of this cycle of existence
 1) Kindness (mettā) 
 2) Compassion (karuņā) 
 3) Happiness  (muditā) 
-4) Observation (upekkhā)
+4) Impartiality (upekkhā)
    
