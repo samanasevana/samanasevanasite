@@ -23,5 +23,5 @@ The fourth noble truth is the eight part path leading to the cessation of the cy
 8. Right Concentration: Four progressively more subtle states of focus.
     1. The first focus still possesses thought and mental movement along with joy and pleasure.
     2. The second focus is fully concentrated after thought and mental movement cease, but still experiencing joy and pleasure.
-    3. The third focus is after joy ceases and is replaced by observation, but still experiencing pleasurable feelings.
-    4. The fourth focus is after the pleasurable feeling ceases, and one feels only observation and neither painful nor pleasurable feeling.
+    3. The third focus is after joy ceases and is replaced by impartiality, but still experiencing pleasurable feelings.
+    4. The fourth focus is after the pleasurable feeling ceases, and one feels only impartiality and neither painful nor pleasurable feeling.
