@@ -1,0 +1,29 @@
+---
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+import Layout from "../layouts/Layout.astro";
+
+import { Content } from "../content/pages/index.md";
+---
+
+<Layout
+  title={SITE_TITLE}
+  description={SITE_DESCRIPTION}
+>
+  <main class="space-y-4">
+    <div class="flex items-center gap-2">
+      <img
+        src="/static/bhante-1.png"
+        alt="Bhante"
+        class="h-36 w-full rounded-md border border-zinc-500/50 object-cover"
+      />
+      <img
+        src="/static/bhante-2.png"
+        alt="Leaf"
+        class="h-36 w-full rounded-md border border-zinc-500/50 object-cover"
+      />
+    </div>
+    <article>
+      <Content />
+    </article>
+  </main>
+</Layout>
