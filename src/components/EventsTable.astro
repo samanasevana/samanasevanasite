@@ -69,16 +69,36 @@ const chipPalette = [
   "bg-rose-50 text-rose-700 ring-rose-500/30",
 ];
 
-const eventColorMap = new Map<string, string>();
+const namedEventColors = [
+  {
+    match: (name: string) => name.includes("winter retreat"),
+    className: "bg-sky-50 text-sky-700 ring-sky-500/30",
+  },
+  {
+    match: (name: string) => name.includes("observance day"),
+    className: "bg-amber-50 text-amber-700 ring-amber-400/30",
+  },
+  {
+    match: (name: string) =>
+      name.includes("one-day meditation retreat") ||
+      name.includes("one day meditation retreat"),
+    className: "bg-indigo-50 text-indigo-700 ring-indigo-500/30",
+  },
+];
 
 const getChipClass = (eventName: string) => {
   const key = eventName.trim().toLowerCase();
-  if (!eventColorMap.has(key)) {
-    const color = chipPalette[eventColorMap.size % chipPalette.length];
-    eventColorMap.set(key, color);
+  const namedMatch = namedEventColors.find((entry) => entry.match(key));
+  if (namedMatch) {
+    return namedMatch.className;
   }
 
-  return eventColorMap.get(key)!;
+  let hash = 0;
+  for (let i = 0; i < key.length; i++) {
+    hash = (hash * 31 + key.charCodeAt(i)) | 0;
+  }
+  const index = Math.abs(hash) % chipPalette.length;
+  return chipPalette[index];
 };
 ---
 
