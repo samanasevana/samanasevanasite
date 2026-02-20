@@ -3,7 +3,7 @@ Dhamma Page Prose
 A Brief Introduction to Buddhism
 
 The Buddha in his Own Words, Translations of Suttas
-This section includes a number of translations excerpts of “Threads” the Canonical teachings of the Awakened One. All translations are by Bhante Gunaviro.
+This section includes a number of translations excerpts of “Threads” the Canonical teachings of the Awakened One. All translations are by Venerable Jeffrey.
 
 The Fruits of Monasticism-DN 2
 This discourse includes the most extensive version of the Buddha’s most frequent description of his teaching. In it he goes step-by-step thoroughly describing the progression through the fruits and ultimate purpose of his teaching.
