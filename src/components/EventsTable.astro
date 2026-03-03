@@ -2,11 +2,11 @@
 import csvText from "../content/events.csv?raw";
 
 type EventRow = {
+  "Day of Week": string;
   Date: string;
   Event: string;
   Time: string;
   Location: string;
-  Translation: string;
 };
 
 const parseCsvLine = (line: string): string[] => {
@@ -54,7 +54,7 @@ const parseCsv = (text: string): EventRow[] => {
         acc[header as keyof EventRow] = values[index] ?? "";
         return acc;
       },
-      { Date: "", Event: "", Time: "", Location: "", Translation: "" }
+      { "Day of Week": "", Date: "", Event: "", Time: "", Location: "" }
     );
   });
 };
@@ -111,17 +111,18 @@ const getChipClass = (eventName: string) => {
           <caption class="sr-only">Schedule of upcoming Dhamma events</caption>
           <thead class="text-xs font-semibold uppercase tracking-wide text-slate-500">
             <tr>
+              <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Day</th>
               <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Date</th>
               <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Event</th>
               <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Time</th>
               <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Location</th>
-              <th scope="col" class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur">Translation</th>
             </tr>
           </thead>
           <tbody class="divide-y divide-slate-100">
             {
               events.map((event) => (
                 <tr class="transition hover:bg-slate-50">
+                  <td class="whitespace-nowrap px-4 py-3 text-slate-600">{event["Day of Week"]}</td>
                   <td class="whitespace-nowrap px-4 py-3 font-semibold text-slate-900">{event.Date}</td>
                   <td class="px-4 py-3">
                     <span
@@ -134,7 +135,6 @@ const getChipClass = (eventName: string) => {
                   </td>
                   <td class="whitespace-nowrap px-4 py-3 text-slate-600">{event.Time}</td>
                   <td class="px-4 py-3 text-slate-600">{event.Location}</td>
-                  <td class="whitespace-nowrap px-4 py-3 text-slate-600">{event.Translation}</td>
                 </tr>
               ))
             }
