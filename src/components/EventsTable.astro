@@ -71,12 +71,22 @@ const chipPalette = [
 
 const namedEventColors = [
   {
-    match: (name: string) => name.includes("winter retreat"),
+    match: (name: string) => name.includes("drop in hours"),
     className: "bg-sky-50 text-sky-700 ring-sky-500/30",
   },
   {
     match: (name: string) => name.includes("observance day"),
     className: "bg-amber-50 text-amber-700 ring-amber-400/30",
+  },
+  {
+    match: (name: string) => name.includes("community day"),
+    className: "bg-violet-50 text-violet-700 ring-violet-500/30",
+  },
+  {
+    match: (name: string) =>
+      name.includes("dhamma talk") ||
+      name.includes("meditation instruction"),
+    className: "bg-indigo-50 text-indigo-700 ring-indigo-500/30",
   },
   {
     match: (name: string) =>
