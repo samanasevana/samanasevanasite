@@ -1,0 +1,153 @@
+media:
+  - name: static
+    label: Media
+    input: public/static
+    output: /static
+    categories: [image, video]
+  - name: documents
+    label: Documents
+    input: public/pdfs
+    output: /pdfs
+    categories: [document]
+
+settings:
+  content:
+    merge: true
+
+content:
+  - name: home
+    label: Home
+    type: file
+    path: src/content/pages/index.md
+    fields:
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          media: static
+
+  - name: about
+    label: About
+    type: file
+    path: src/content/pages/about.md
+    fields:
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          media: static
+
+  - name: updates
+    label: Updates
+    type: file
+    path: src/content/pages/updates.md
+    fields:
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          media: static
+
+  - name: translations
+    label: Translations
+    type: collection
+    path: src/content/translations
+    filename: "{primary}.md"
+    subfolders: false
+    view:
+      fields: [title, date]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          media: static
+
+  - name: dhamma
+    label: Dhamma
+    type: collection
+    path: src/dhamma
+    filename: "{primary}.md"
+    subfolders: false
+    view:
+      fields: [title, date]
+      primary: title
+      sort: [date, title]
+      default:
+        sort: date
+        order: desc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          media: static
+
+  - name: support
+    label: Support
+    type: collection
+    path: src/content/support
+    filename: "{primary}.md"
+    subfolders: false
+    view:
+      fields: [title]
+      primary: title
+      sort: [title]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          media: static
+
+  - name: faq
+    label: FAQ
+    type: collection
+    path: src/content/faq
+    filename: "{primary}.md"
+    subfolders: false
+    view:
+      fields: [title]
+      primary: title
+      sort: [title]
+      default:
+        sort: title
+        order: asc
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: body
+        label: Content
+        type: rich-text
+        options:
+          media: static
