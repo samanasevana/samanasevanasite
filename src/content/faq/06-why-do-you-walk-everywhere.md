@@ -1,5 +1,6 @@
 ---
 title: "Why do you walk everywhere?"
+order: 8
 ---
 
 Most commonly, people see me walking in the mornings with my bowl. When I’m doing that, I’m accepting the food for the day. Monks aren’t allowed to use money or store food, so unless I’m fasting or a lay person has arranged to offer a meal that day, I go on alms to accept the food for the day.

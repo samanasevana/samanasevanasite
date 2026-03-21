@@ -1,5 +1,6 @@
 ---
 title: "Why don’t you use money?"
+order: 12
 ---
 
 The Buddha was very clear that money should never be accepted as a monastic or even for a novice beginning the training. The fundamental direction of the monastic life is towards abandoning the pursuit of sensuality and sense pleasures. Money primarily serves to purchase things of the world. Because of its fungible quality, the lay person can’t know whether that money is being spent on necessities or indulgences.

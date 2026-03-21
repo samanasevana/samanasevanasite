@@ -1,5 +1,6 @@
 ---
 title: "How should I relate to a monk?"
+order: 3
 ---
 
 The role of a monk is aimed at ultimate freedom and coming out of the cycle of pain. It is intended to provide inspiration and guidance towards a direction that has the potential to liberate us all.

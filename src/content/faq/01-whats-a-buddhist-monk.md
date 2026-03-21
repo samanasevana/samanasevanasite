@@ -1,5 +1,6 @@
 ---
 title: "What’s a Buddhist monk?"
+order: 1
 ---
 
 A Buddhist monk is someone who dedicates their life to the path of spiritual development and ultimate freedom that the Buddha, the awakened one, discovered and taught.

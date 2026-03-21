@@ -1,5 +1,6 @@
 ---
 title: "What do you do?"
+order: 6
 ---
 
 I try to be a good example. When the circumstances are appropriate, I teach what I’ve learned.

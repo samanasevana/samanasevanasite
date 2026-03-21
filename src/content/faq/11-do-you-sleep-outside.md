@@ -1,5 +1,6 @@
 ---
 title: "Do you sleep outside?"
+order: 13
 ---
 
 Monks are allowed to accept places to stay, but there are some restrictions. They aren’t allowed to share a room with an unordained person for more than three days, and aren’t allowed to share a room with a woman even for a night.

@@ -1,5 +1,6 @@
 ---
 title: "Can I ask questions?"
+order: 7
 ---
 
 It is totally appropriate to approach a monk with questions about the suffering one is going through and how to deal with it or how to develop qualities that might be able to help support living a skillful and fulfilling life.

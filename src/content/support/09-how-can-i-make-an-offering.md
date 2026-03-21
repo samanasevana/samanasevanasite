@@ -1,5 +1,6 @@
 ---
 title: "How can I make an offering?"
+order: 11
 ---
 
 For food, one can offer a meal directly by inviting to a meal.

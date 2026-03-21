@@ -1,153 +1,203 @@
 media:
-  - name: static
-    label: Media
-    input: public/static
-    output: /static
-    categories: [image, video]
-  - name: documents
-    label: Documents
-    input: public/pdfs
-    output: /pdfs
-    categories: [document]
+  input: public/static
+  output: /static
 
 settings:
   content:
     merge: true
 
 content:
-  - name: home
-    label: Home
+  - name: home_intro
+    label: Home Intro
     type: file
     path: src/content/pages/index.md
     fields:
+      - name: title
+        label: Title
+        type: string
+        hidden: true
+        default: Home
       - name: body
-        label: Content
+        label: Intro
         type: rich-text
-        options:
-          media: static
 
-  - name: about
-    label: About
+  - name: home_sections
+    label: Home Sections
+    type: collection
+    path: src/content/homeSections
+    view:
+      fields: [order, title, badge, meta, tone]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: badge
+        label: Badge
+        type: string
+      - name: meta
+        label: Meta
+        type: string
+      - name: tone
+        label: Tone
+        type: select
+        options:
+          values: [emerald, amber, indigo, zinc]
+      - name: order
+        label: Order
+        type: number
+      - name: body
+        label: Body
+        type: rich-text
+
+  - name: event_schedule
+    label: Event Schedule
+    type: file
+    path: src/content/events/schedule.yml
+    format: yaml
+    fields:
+      - name: events
+        label: Events
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{fields.date} - {fields.event}"
+        fields:
+          - name: dayOfWeek
+            label: Day of Week
+            type: string
+          - name: date
+            label: Date
+            type: string
+          - name: event
+            label: Event
+            type: string
+          - name: time
+            label: Time
+            type: string
+          - name: location
+            label: Location
+            type: string
+
+  - name: about_page
+    label: About Page
     type: file
     path: src/content/pages/about.md
     fields:
       - name: body
-        label: Content
+        label: Body
         type: rich-text
-        options:
-          media: static
 
-  - name: updates
-    label: Updates
+  - name: updates_page
+    label: Updates Page
     type: file
     path: src/content/pages/updates.md
     fields:
       - name: body
-        label: Content
+        label: Body
         type: rich-text
-        options:
-          media: static
+
+  - name: reflections
+    label: Reflections
+    type: collection
+    path: src/content/reflection
+    view:
+      fields: [title]
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
 
   - name: translations
     label: Translations
     type: collection
-    path: src/content/translations
-    filename: "{primary}.md"
-    subfolders: false
+    path: src/content/translation
     view:
-      fields: [title, date]
-      primary: title
-      sort: [date, title]
-      default:
-        sort: date
-        order: desc
+      fields: [order, title, description]
     fields:
       - name: title
         label: Title
         type: string
-        required: true
-      - name: date
-        label: Date
-        type: date
-        required: true
+      - name: description
+        label: Description
+        type: string
+      - name: order
+        label: Order
+        type: number
       - name: body
-        label: Content
+        label: Body
         type: rich-text
-        options:
-          media: static
 
-  - name: dhamma
-    label: Dhamma
+  - name: the_quality
+    label: The Quality
     type: collection
-    path: src/dhamma
-    filename: "{primary}.md"
-    subfolders: false
+    path: src/content/thequality
     view:
-      fields: [title, date]
-      primary: title
-      sort: [date, title]
-      default:
-        sort: date
-        order: desc
+      fields: [order, title, description]
     fields:
       - name: title
         label: Title
         type: string
-        required: true
-      - name: date
-        label: Date
-        type: date
-        required: true
+      - name: description
+        label: Description
+        type: string
+      - name: order
+        label: Order
+        type: number
       - name: body
-        label: Content
+        label: Body
         type: rich-text
-        options:
-          media: static
 
-  - name: support
-    label: Support
+  - name: readings
+    label: Readings
     type: collection
-    path: src/content/support
-    filename: "{primary}.md"
-    subfolders: false
+    path: src/content/readings
     view:
-      fields: [title]
-      primary: title
-      sort: [title]
-      default:
-        sort: title
-        order: asc
+      fields: [title, description]
     fields:
       - name: title
         label: Title
         type: string
-        required: true
+      - name: description
+        label: Description
+        type: string
       - name: body
-        label: Content
+        label: Body
         type: rich-text
-        options:
-          media: static
 
   - name: faq
     label: FAQ
     type: collection
     path: src/content/faq
-    filename: "{primary}.md"
-    subfolders: false
     view:
-      fields: [title]
-      primary: title
-      sort: [title]
-      default:
-        sort: title
-        order: asc
+      fields: [order, title]
     fields:
+      - name: order
+        label: Order
+        type: number
       - name: title
         label: Title
         type: string
-        required: true
       - name: body
-        label: Content
+        label: Body
         type: rich-text
-        options:
-          media: static
+
+  - name: support
+    label: Support
+    type: collection
+    path: src/content/support
+    view:
+      fields: [order, title]
+    fields:
+      - name: order
+        label: Order
+        type: number
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text

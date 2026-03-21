@@ -1,5 +1,6 @@
 ---
 title: "How can I offer other miscellaneous support?"
+order: 9
 ---
 
 Other things do come up from time to time as things that would be useful, books, nail clippers, or rides, or transportation costs, or other things.

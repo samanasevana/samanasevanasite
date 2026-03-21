@@ -1,5 +1,45 @@
 import { defineCollection, z } from "astro:content";
 
+const archived = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string().optional(),
+  }),
+});
+
+const events = defineCollection({
+  type: "data",
+  schema: z.object({
+    events: z.array(
+      z.object({
+        dayOfWeek: z.string(),
+        date: z.string(),
+        event: z.string(),
+        time: z.string(),
+        location: z.string(),
+      }),
+    ),
+  }),
+});
+
+const homeSections = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    badge: z.string(),
+    meta: z.string().optional(),
+    tone: z.enum(["emerald", "amber", "indigo", "zinc"]),
+    order: z.number(),
+  }),
+});
+
+const pages = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string().optional(),
+  }),
+});
+
 const translation = defineCollection({
   type: "content",
   schema: z.object({
@@ -20,6 +60,7 @@ const support = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
+    order: z.number(),
   }),
 });
 
@@ -27,6 +68,7 @@ const faq = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
+    order: z.number(),
   }),
 });
 
@@ -47,4 +89,15 @@ const readings = defineCollection({
   }),
 });
 
-export const collections = { translation, reflection, support, faq, thequality, readings };
+export const collections = {
+  archived,
+  events,
+  homeSections,
+  pages,
+  translation,
+  reflection,
+  support,
+  faq,
+  thequality,
+  readings,
+};

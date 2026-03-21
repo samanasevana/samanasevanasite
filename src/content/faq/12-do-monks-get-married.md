@@ -1,5 +1,6 @@
 ---
 title: "Do monks get married?"
+order: 14
 ---
 
 No. Celibacy is one of the foundational principles of Buddhist monasticism. The first rule that the Buddha laid down, and one of the most serious ones, is that if a Buddhist monk has sex, he is immediately “defeated,” immediately no longer a monk, and cannot re-ordain for the rest of his life.

@@ -1,5 +1,6 @@
 ---
 title: "How can I offer food?"
+order: 3
 ---
 
 Monks can’t store food, cook for themselves, or eat after midday. So, offerings of food need to be made during the morning with enough time before midday to eat. Generally, solar noon is around 1PM during daylight savings time (Mar-Nov), and around 12PM after daylight savings ends (Nov-Mar).

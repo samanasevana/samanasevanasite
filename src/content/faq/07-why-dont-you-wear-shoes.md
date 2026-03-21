@@ -1,5 +1,6 @@
 ---
 title: "Why don’t you wear shoes?"
+order: 9
 ---
 
 The Buddha laid down a rule for monastics that while in town, unless one is ill, the monastic should not wear footwear. Outside town or when one can’t walk barefoot comfortably, sandals are permitted. Shoes are mostly prohibited for monks.

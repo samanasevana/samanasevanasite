@@ -1,5 +1,6 @@
 ---
 title: "Why are you dressed like that?"
+order: 11
 ---
 
 The Buddha laid down restrictions on the type and number of clothes a monastic should have to limit clothing to just what is necessary and functional. Monks generally have three robes, an inner robe, and upper robe, and a double-layer outer robe.

@@ -1,5 +1,6 @@
 ---
 title: "How can I make a formal meal offering?"
+order: 4
 ---
 
 ## Making a Formal Meal Offering

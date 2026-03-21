@@ -1,18 +1,24 @@
 ---
+import { getCollection } from "astro:content";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 import Layout from "../layouts/Layout.astro";
 
-import { Content } from "../content/pages/index.md";
 import EventsTable from "../components/EventsTable.astro";
+import { Content } from "../content/pages/index.md";
 
-const introText =
-  "Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Venerable Jeffrey in particular.";
+const homeSections = (await getCollection("homeSections")).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+
+const toneClasses = {
+  emerald: "bg-emerald-50 text-emerald-700 ring-emerald-500/30",
+  amber: "bg-amber-50 text-amber-700 ring-amber-400/30",
+  indigo: "bg-indigo-50 text-indigo-700 ring-indigo-500/30",
+  zinc: "bg-zinc-100 text-zinc-700 ring-zinc-400/30",
+} as const;
 ---
 
-<Layout
-  title={SITE_TITLE}
-  description={SITE_DESCRIPTION}
->
+<Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
   <main class="space-y-6">
     <div class="flex items-center gap-2">
       <img
@@ -27,77 +33,48 @@ const introText =
       />
     </div>
     <article class="space-y-6 text-base text-slate-700">
-      <p class="text-lg text-slate-900">{introText}</p>
+      <div class="prose prose-slate max-w-none text-lg text-slate-900">
+        <Content />
+      </div>
       <div class="space-y-6">
         <div class="lg:mx-[-100px]">
           <EventsTable />
         </div>
-        <div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-md shadow-slate-200/70">
+        <div
+          class="rounded-2xl border border-slate-200 bg-white p-5 shadow-md shadow-slate-200/70"
+        >
           <div class="space-y-5 text-sm text-slate-700">
-            <div>
-              <div class="mb-2 flex flex-wrap items-center gap-2">
-                <span class="inline-flex items-center rounded-full bg-emerald-50 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-emerald-700 ring-1 ring-inset ring-emerald-500/30">
-                  Alms Round
-                </span>
-                <span class="text-xs font-medium uppercase tracking-wide text-slate-500">Mar / Apr 2026</span>
-              </div>
-              <p class="text-base text-slate-700">
-                With the winter retreat now concluded, Venerable Jeffrey has resumed his daily alms round. The expected route is generally as follows:
-                <br/><br/>
-                Starting from 1135 Deana Ct, down Llagas Rd until taking a right on Monterey. 
-Taking a right on Main Street until Hale Ave, walking through the parking lot on Main and Hale Ave, then returning on Main street back to Monterey. 
-Right on Monterey and continuing until turning around on Dunne Ave or Spring Ave.
-Walking back on Monterey, possibly walking on 3rd for one block and coming back. 
-Walking back on Monterey and Llagas. 
-                <br /><br />
-                Please note that this route is subject to change on any given day due to varying circumstances. Venerable Jeffrey is not on alms round every day, as he is sometimes invited for a meal or may be fasting.
-              </p>
-            </div>
-            <hr class="border-slate-200" />
-            <div>
-              <div class="mb-2 flex flex-wrap items-center gap-2">
-                <span class="inline-flex items-center rounded-full bg-amber-50 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-amber-700 ring-1 ring-inset ring-amber-400/30">
-                  Observance Day | 9AM - 2PM
-                </span>
-                <span class="text-xs font-medium uppercase tracking-wide text-slate-500">Weekly</span>
-              </div>
-              <p class="text-base text-slate-800">
-                On Observance Days, the schedule is as follows:<br />
-                <br />
-                <b>9:00 AM</b> — Precepts & Reflection<br />
-                <b>10:30 AM</b> — Meal Offering<br />
-                <b>12:00 PM</b> — Dhamma Talk & Q&amp;A
-              </p>
-            </div>
-            <hr class="border-slate-200" />
-            <div>
-              <div class="mb-2 flex flex-wrap items-center gap-2">
-                <span class="inline-flex items-center rounded-full bg-indigo-50 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-indigo-700 ring-1 ring-inset ring-indigo-500/30">
-                  New Moon &amp; Full Moon | Dhamma Talk &amp; Meditation Instruction <span class="whitespace-nowrap">7PM&nbsp;-&nbsp;9PM</span>
-                </span>
-              </div>
-              <p class="text-base text-slate-700">
-                On new moon and full moon days, Venerable Jeffrey offers a Dhamma talk and meditation instruction. These sessions are open to all who wish to attend.
-              </p>
-            </div>
-            <hr class="border-slate-200" />
-            <div>
-              <div class="mb-2 flex flex-wrap items-center gap-2">
-                <span class="inline-flex items-center rounded-full bg-zinc-100 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-zinc-700 ring-1 ring-inset ring-zinc-400/30">
-                  WhatsApp Group
-                </span>
-               <span class="text-xs font-medium uppercase tracking-wide text-slate-500">Stay Connected</span>
-              </div>
-              <p class="text-base text-slate-700">
-                Our WhatsApp group is coordinated by the community for the benefit of all who wish to stay connected. If you'd like to join, please email 
-                <a class="font-semibold text-slate-900 underline-offset-2 hover:underline" href="mailto:samanasevana@gmail.com">
-                  samanasevana@gmail.com</a>.
-                <br/>
-                <br/>
-                Please be aware that Venerable Jeffrey himself does not monitor this WhatsApp group or email — communications are organized by dedicated lay volunteers.
-              </p>
-            </div>
-            </div>
+            {
+              homeSections.map(async (section, index) => {
+                const { Content: SectionContent } = await section.render();
+                return (
+                  <>
+                    <div>
+                      <div class="mb-2 flex flex-wrap items-center gap-2">
+                        <span
+                          class={`inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold uppercase tracking-wide ring-1 ring-inset ${
+                            toneClasses[section.data.tone]
+                          }`}
+                        >
+                          {section.data.badge}
+                        </span>
+                        {section.data.meta ? (
+                          <span class="text-xs font-medium uppercase tracking-wide text-slate-500">
+                            {section.data.meta}
+                          </span>
+                        ) : null}
+                      </div>
+                      <div class="prose prose-slate max-w-none text-base text-slate-700">
+                        <SectionContent />
+                      </div>
+                    </div>
+                    {index < homeSections.length - 1 ? (
+                      <hr class="border-slate-200" />
+                    ) : null}
+                  </>
+                );
+              })
+            }
           </div>
         </div>
       </div>
