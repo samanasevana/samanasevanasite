@@ -13,6 +13,9 @@ yarn-error.log*
 pnpm-debug.log*
 
 
+# pdf build cache
+public/pdfs/.checksums.json
+
 # environment variables
 .env
 .env.production
