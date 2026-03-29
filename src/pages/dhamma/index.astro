@@ -38,7 +38,7 @@ const sortedTranslationPosts = translationPosts.sort((a, b) => a.data.order - b.
           sortedTranslationPosts.map(async (post) => {
             const { Content } = await post.render();
             return (
-              <Accordion title={post.data.title} description={post.data.description}>
+              <Accordion title={post.data.title} description={post.data.description} pdfSlug={post.slug}>
                 <Content />
               </Accordion>
             );

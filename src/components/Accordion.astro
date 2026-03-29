@@ -2,9 +2,10 @@
 interface Props {
   title: string;
   description?: string;
+  pdfSlug?: string;
 }
 
-const { title, description } = Astro.props as Props;
+const { title, description, pdfSlug } = Astro.props as Props;
 ---
 
 <div class="accordion group relative rounded-md border border-[#CC5500]">
@@ -44,6 +45,14 @@ const { title, description } = Astro.props as Props;
     class="accordion__content hidden max-h-0 overflow-hidden px-3 transition-all duration-300 ease-in-out sm:px-4"
   >
     <article class="prose mb-4 mt-1 max-w-full transition-[height]">
+      {pdfSlug && (
+        <a
+          href={`/pdfs/${pdfSlug}.pdf`}
+          class="mb-3 inline-block rounded bg-blue-800 px-2 py-1 text-sm font-semibold text-white no-underline hover:bg-blue-700"
+        >
+          PDF Version
+        </a>
+      )}
       <slot />
     </article>
   </div>

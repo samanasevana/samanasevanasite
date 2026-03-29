@@ -1,14 +1,12 @@
 ---
-title: Observance Day
-badge: Observance Day | 9AM - 2PM
+title: Community Day
+badge: Community Day | 10:30AM - 2PM
 meta: Weekly
 tone: amber
 order: 2
 ---
 
-On Observance Days, the schedule is as follows:
-
-**9:00 AM** - Precepts & Reflection
+On Community Days, the schedule is as follows:
 
 **10:30 AM** - Meal Offering
 

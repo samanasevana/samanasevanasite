@@ -1,14 +1,4 @@
 events:
-  - dayOfWeek: Saturday
-    date: Mar 21
-    event: Observance Day
-    time: 9AM - 2PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Monday
-    date: Mar 23
-    event: Drop in hours
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
   - dayOfWeek: Wednesday
     date: Mar 25
     event: Drop in hours
@@ -21,8 +11,8 @@ events:
     location: 1135 Deana Ct., Morgan Hill
   - dayOfWeek: Saturday
     date: Mar 28
-    event: Observance Day
-    time: 9AM - 2PM
+    event: Community Day
+    time: 10:30AM - 2PM
     location: 1135 Deana Ct., Morgan Hill
   - dayOfWeek: Monday
     date: Mar 30
@@ -46,8 +36,8 @@ events:
     location: 1135 Deana Ct., Morgan Hill
   - dayOfWeek: Saturday
     date: Apr 4
-    event: Observance Day
-    time: 9AM - 2PM
+    event: Community Day
+    time: 10:30AM - 2PM
     location: 1135 Deana Ct., Morgan Hill
   - dayOfWeek: Monday
     date: Apr 6
@@ -66,9 +56,9 @@ events:
     location: 1135 Deana Ct., Morgan Hill
   - dayOfWeek: Saturday
     date: Apr 11
-    event: Observance Day
-    time: 9AM - 2PM
-    location: 1135 Deana Ct., Morgan Hill
+    event: Community Day
+    time: 10:30AM - 2PM
+    location: Galvan Park, Morgan Hill
   - dayOfWeek: Monday
     date: Apr 13
     event: Drop in hours
