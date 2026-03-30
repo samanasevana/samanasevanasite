@@ -4,7 +4,7 @@
 
 *Updates as of 2026-03-29*
 
-Good evening all,Venerable Jeffrey will likely be leaving Morgan Hill by April 17th towards Southern California.Venerable Jeffrey recorded an interview with **[Dhamma-Vinaya Patipada]([https://www.youtube.com/@DhammaVinayaPatipada)](https://www.youtube.com/@DhammaVinayaPatipada)**)** - you can watch it here: **[At Home in Homelessness | An interview with Venerable Jeffrey]([https://www.youtube.com/watch?v=EdWV4h--y-8)](https://www.youtube.com/watch?v=EdWV4h--y-8)**)**
+Good evening all, Venerable Jeffrey will likely be leaving Morgan Hill by April 17th towards Southern California. Venerable Jeffrey recorded an interview with **[Dhamma-Vinaya Patipada](https://www.youtube.com/@DhammaVinayaPatipada)** - you can watch it here: **[At Home in Homelessness | An interview with Venerable Jeffrey](https://www.youtube.com/watch?v=EdWV4h--y-8)**
 
 *Updates as of 2025-07-17*
 
