@@ -7,6 +7,27 @@ settings:
     merge: true
 
 content:
+  - name: navigation
+    label: Navigation
+    type: file
+    path: src/content/navigation/main.yml
+    format: yaml
+    fields:
+      - name: links
+        label: Links
+        type: object
+        list:
+          collapsible:
+            collapsed: false
+            summary: "{fields.label} → {fields.href}"
+        fields:
+          - name: label
+            label: Label
+            type: string
+          - name: href
+            label: URL Path
+            type: string
+
   - name: home_intro
     label: Home Intro
     type: file

@@ -81,6 +81,18 @@ const thequality = defineCollection({
   }),
 });
 
+const navigation = defineCollection({
+  type: "data",
+  schema: z.object({
+    links: z.array(
+      z.object({
+        label: z.string(),
+        href: z.string(),
+      }),
+    ),
+  }),
+});
+
 const readings = defineCollection({
   type: "content",
   schema: z.object({
@@ -93,6 +105,7 @@ export const collections = {
   archived,
   events,
   homeSections,
+  navigation,
   pages,
   translation,
   reflection,

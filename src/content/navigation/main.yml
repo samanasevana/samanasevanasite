@@ -1,0 +1,11 @@
+links:
+  - label: home
+    href: /
+  - label: updates
+    href: /updates
+  - label: support
+    href: /support
+  - label: faq
+    href: /faq
+  - label: about
+    href: /about
