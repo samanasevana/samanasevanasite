@@ -1,6 +1,12 @@
+---
+---
 ## Updates & Schedule
 
-_Updates as of 2025-07-17_
+*Updates as of 2026-03-29*
+
+Good evening all,Venerable Jeffrey will likely be leaving Morgan Hill by April 17th towards Southern California.Venerable Jeffrey recorded an interview with **[Dhamma-Vinaya Patipada]([https://www.youtube.com/@DhammaVinayaPatipada)](https://www.youtube.com/@DhammaVinayaPatipada)**)** - you can watch it here: **[At Home in Homelessness | An interview with Venerable Jeffrey]([https://www.youtube.com/watch?v=EdWV4h--y-8)](https://www.youtube.com/watch?v=EdWV4h--y-8)**)**
+
+*Updates as of 2025-07-17*
 
 Good evening all,
 
@@ -14,7 +20,7 @@ Warm regards,
 
 Jordan
 
-_Updates as of 2025-07-09_
+*Updates as of 2025-07-09*
 
 Good evening all,
 
@@ -28,7 +34,7 @@ Jordan
 
 ---
 
-_Updates as of 2025-06-22_
+*Updates as of 2025-06-22*
 
 Good evening all,
 
@@ -44,7 +50,7 @@ Jordan
 
 ---
 
-_Updates as of 2025-05-28_
+*Updates as of 2025-05-28*
 
 Hi all - Venerable Jeffrey is currently residing somewhere in the forests of Scotts Valley. You'll likely, but not guaranteed, to see him on alms round in the mornings between Kings Village Shopping Center and Heavenly Roadside Cafe between 7am and 11am until the middle of June. After that, I would wager that he'll either return to my parents' home in Scotts Valley, or to the forests of Ben Lomond.
 
@@ -53,7 +59,7 @@ More details to come! If you'd like to hear more frequent updates, you are welco
 Thx,
 Jordan
 
-_Updates as of 2025-05-07_
+*Updates as of 2025-05-07*
 
 Venerable Jeffrey has officially arrived in Scotts Valley! He's staying at the home of my parents for the time being located at 31 Taryn Ct, Scotts Valley, CA 95066. Please park outside the gate on the street and look for the sign that says "Venerable Jeffrey's Residence" - walk through the backyard and knock on the sliding glass door.
 
@@ -67,7 +73,7 @@ Jordan
 
 ---
 
-_Updates as of 2025-04-13_
+*Updates as of 2025-04-13*
 
 Hi all, Venerable Jeffrey’s time in Santa Cruz has come to an end. I know he’s touched a lot of people’s hearts with his wholesome actions and teachings, myself included.
 
