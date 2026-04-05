@@ -1,5 +1,4 @@
 ---
 title: Home
 ---
-
-Welcome to our community space for those interested in the monastic path, supporting monastics in general, and the journey of Venerable Jeffrey in particular.
+Welcome to our community space for those interested in the monastic path, supporting Buddhist monastics living like the Sangha at the time of the Buddha, and following the journey of Venerable Jeffrey in particular.
