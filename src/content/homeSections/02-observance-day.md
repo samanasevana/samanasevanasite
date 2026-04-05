@@ -5,7 +5,7 @@ meta: Weekly
 tone: amber
 order: 2
 ---
-Community days are days where all are welcome to join in a meal offering and/or attend the Dhamma talk afterwards. 
+Community days are days where all are welcome to join in the meal offering and/or attend the Dhamma talk afterwards. 
 
 The schedule usually is as follows:
 
