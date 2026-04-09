@@ -2,28 +2,53 @@
 import { getCollection } from "astro:content";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
 import Layout from "../../layouts/Layout.astro";
+import Accordion from "../../components/Accordion.astro";
 
-const posts = await getCollection("translation");
+const translationPosts = await getCollection("translation");
+const readingsPosts = await getCollection("readings");
+const sortedTranslationPosts = translationPosts.sort(
+  (a, b) => a.data.order - b.data.order,
+);
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
   <main>
-    <article>
-      <h2>Translations</h2>
-    </article>
-    <ul class="flex flex-col gap-1.5">
-      {
-        posts.map((post) => (
-          <li>
-            <a
-              href={`/translations/${post.slug}`}
-              class="group flex justify-between gap-3"
-            >
-              <span class="group-hover:underline">{post.data.title}</span>
-            </a>
-          </li>
-        ))
-      }
-    </ul>
+    <section>
+      <h2 class="mb-4 text-xl font-semibold">Translations</h2>
+      <div class="flex flex-col gap-3">
+        {
+          sortedTranslationPosts.map(async (post) => {
+            const { Content } = await post.render();
+            return (
+              <Accordion
+                title={post.data.title}
+                description={post.data.description}
+                pdfSlug={post.slug}
+              >
+                <Content />
+              </Accordion>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="mb-4 text-xl font-semibold">Further Readings</h2>
+      <div class="flex flex-col gap-3">
+        {
+          readingsPosts.map(async (post) => {
+            const { Content } = await post.render();
+            return (
+              <Accordion title={post.data.title} description={post.data.description}>
+                <Content />
+              </Accordion>
+            );
+          })
+        }
+      </div>
+    </section>
   </main>
 </Layout>
+
+<script src="../../scripts/accordion.js"></script>
