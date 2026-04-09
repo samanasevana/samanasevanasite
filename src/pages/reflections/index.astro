@@ -1,29 +1,56 @@
 ---
-import { getCollection } from "astro:content";
+import { getEntry } from "astro:content";
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
 import Layout from "../../layouts/Layout.astro";
 
-const reflectionPosts = await getCollection("reflection");
+const reflectionsPage = await getEntry("pageData", "reflections");
+if (!reflectionsPage) {
+  throw new Error("Missing pageData entry: reflections");
+}
+const { title, intro, videos } = reflectionsPage.data;
 ---
 
 <Layout title={`Reflections - ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
   <main>
-    <article>
-      <h1>Reflections</h1>
-    </article>
-    <ul class="flex flex-col gap-1.5">
+    <section class="mt-8 flex flex-col gap-6">
+      <div>
+        <h1 class="mb-0 text-xl font-semibold">{title}</h1>
+        <p class="mb-4 text-sm text-gray-600 dark:text-gray-400">
+          {intro}
+        </p>
+      </div>
+
       {
-        reflectionPosts.map((post) => (
-          <li>
-            <a
-              href={`/reflections/${post.slug}`}
-              class="group flex justify-between gap-3"
-            >
-              <span class="group-hover:underline">{post.data.title}</span>
-            </a>
-          </li>
+        videos.map((video) => (
+          <article class="flex flex-col gap-3">
+            <div>
+              <h2 class="mb-0 text-xl font-semibold">
+                <a
+                  href={video.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover:underline"
+                >
+                  {video.title}
+                </a>
+              </h2>
+              <p class="mb-0 mt-0 text-sm text-gray-600 dark:text-gray-400">
+                {video.uploader} • {video.date}
+              </p>
+            </div>
+
+            <iframe
+              class="aspect-video w-full rounded-lg border border-zinc-200 dark:border-zinc-700"
+              src={`https://www.youtube.com/embed/${video.id}`}
+              title={video.title}
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+            ></iframe>
+          </article>
         ))
       }
-    </ul>
+    </section>
   </main>
 </Layout>

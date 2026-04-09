@@ -40,6 +40,23 @@ const pages = defineCollection({
   }),
 });
 
+const pageData = defineCollection({
+  type: "data",
+  schema: z.object({
+    title: z.string(),
+    intro: z.string(),
+    videos: z.array(
+      z.object({
+        id: z.string(),
+        title: z.string(),
+        uploader: z.string(),
+        date: z.string(),
+        url: z.string().url(),
+      }),
+    ),
+  }),
+});
+
 const translation = defineCollection({
   type: "content",
   schema: z.object({
@@ -54,6 +71,7 @@ const reflection = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
+    order: z.number(),
   }),
 });
 
@@ -99,6 +117,7 @@ const readings = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
+    order: z.number(),
   }),
 });
 
@@ -108,6 +127,7 @@ export const collections = {
   homeSections,
   navigation,
   pages,
+  pageData,
   translation,
   reflection,
   support,

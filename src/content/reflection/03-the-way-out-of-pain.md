@@ -1,6 +1,7 @@
 ---
 title: "The Way Out of Pain"
 description: "Reflection on the four noble truths of the major pieces of the Awakened One’s teaching to the end of pain"
+order: 3
 ---
 
 **The Origin of Suffering**  

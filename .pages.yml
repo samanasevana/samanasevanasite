@@ -118,15 +118,57 @@ content:
         label: Body
         type: rich-text
 
-  - name: reflections
-    label: Reflections
-    type: collection
-    path: src/content/reflection
-    view:
-      fields: [title]
+  - name: reflections_page
+    label: Reflections Page
+    type: file
+    path: src/content/pageData/reflections.yml
+    format: yaml
     fields:
       - name: title
         label: Title
+        type: string
+      - name: intro
+        label: Intro
+        type: string
+      - name: videos
+        label: Videos
+        type: object
+        list:
+          collapsible:
+            collapsed: false
+            summary: "{fields.title}"
+        fields:
+          - name: title
+            label: Title
+            type: string
+          - name: uploader
+            label: Uploader
+            type: string
+          - name: date
+            label: Date
+            type: string
+          - name: url
+            label: YouTube URL
+            type: string
+          - name: id
+            label: YouTube Video ID
+            type: string
+
+  - name: reflections
+    label: Dhamma Reflections
+    type: collection
+    path: src/content/reflection
+    view:
+      fields: [order, title, description]
+    fields:
+      - name: order
+        label: Order
+        type: number
+      - name: title
+        label: Title
+        type: string
+      - name: description
+        label: Description
         type: string
       - name: body
         label: Body
@@ -177,8 +219,11 @@ content:
     type: collection
     path: src/content/readings
     view:
-      fields: [title, description]
+      fields: [order, title, description]
     fields:
+      - name: order
+        label: Order
+        type: number
       - name: title
         label: Title
         type: string

@@ -1,5 +1,6 @@
 ---
 title: "A Discussion of Key Pāḷi Terms"
+order: 6
 ---
 
 The Buddha’s teaching revolves around a number of key terms, and as with most unrelated languages some do not have identical terms to correspond to them. So, in many cases, it is not possible to encompass the entirety of the meaning of the Pāḷi term in one English term. 

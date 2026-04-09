@@ -7,9 +7,7 @@ import Accordion from "../../components/Accordion.astro";
 const thequalityPosts = await getCollection("thequality");
 const reflectionPosts = await getCollection("reflection");
 const sortedThequalityPosts = thequalityPosts.sort((a, b) => a.data.order - b.data.order);
-const sortedReflectionPosts = reflectionPosts.sort((a, b) =>
-  a.slug.localeCompare(b.slug),
-);
+const sortedReflectionPosts = reflectionPosts.sort((a, b) => a.data.order - b.data.order);
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
@@ -33,7 +31,10 @@ const sortedReflectionPosts = reflectionPosts.sort((a, b) =>
     </section>
 
     <section class="mt-8">
-      <h2 class="mb-4 text-xl font-semibold">Reflections</h2>
+      <h2 class="mb-0 text-xl font-semibold">Reflections</h2>
+      <p class="mb-4 text-sm text-gray-600 dark:text-gray-400">
+        by Venerable Jeffrey Hancuff (Bhante Guṇavīro)
+      </p>
       <div class="flex flex-col gap-3">
         {
           sortedReflectionPosts.map(async (post) => {

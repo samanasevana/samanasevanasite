@@ -9,12 +9,16 @@ const readingsPosts = await getCollection("readings");
 const sortedTranslationPosts = translationPosts.sort(
   (a, b) => a.data.order - b.data.order,
 );
+const sortedReadingsPosts = readingsPosts.sort((a, b) => a.data.order - b.data.order);
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
   <main>
     <section>
-      <h2 class="mb-4 text-xl font-semibold">Translations</h2>
+      <h2 class="mb-0 text-xl font-semibold">Translations</h2>
+      <p class="mb-4 text-sm text-gray-600 dark:text-gray-400">
+        by Venerable Jeffrey Hancuff (Bhante Guṇavīro)
+      </p>
       <div class="flex flex-col gap-3">
         {
           sortedTranslationPosts.map(async (post) => {
@@ -37,7 +41,7 @@ const sortedTranslationPosts = translationPosts.sort(
       <h2 class="mb-4 text-xl font-semibold">Further Readings</h2>
       <div class="flex flex-col gap-3">
         {
-          readingsPosts.map(async (post) => {
+          sortedReadingsPosts.map(async (post) => {
             const { Content } = await post.render();
             return (
               <Accordion title={post.data.title} description={post.data.description}>

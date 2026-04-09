@@ -9,7 +9,7 @@ export async function GET(context) {
   const items = [
     ...reflections.map((post) => ({
       title: post.data.title,
-      link: `/reflections/${post.slug}/`,
+      link: `/dhamma/${post.slug}/`,
     })),
     ...translations.map((post) => ({
       title: post.data.title,

@@ -1,6 +1,7 @@
 ---
 title: "Awakening"
 description: "A detailed description of the steps of the path to awakening taught by the Awakened One in the context of personal practice"
+order: 1
 ---
 
 **The Moral Foundation: Kindness, Compassion, Generosity, Morality**

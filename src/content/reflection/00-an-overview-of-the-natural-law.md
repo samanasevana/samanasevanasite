@@ -1,6 +1,7 @@
 ---
 title: "An Overview of The Natural Law"
 description: "A detailed description with references of the general progression of the Awakened One’s teaching"
+order: 0
 ---
 
 One of the most famous of the Buddha’s teachings is him summarizing the Quality to a group of 1,250 worthy ones. 
@@ -278,4 +279,3 @@ The ultimate purpose of the path is what the Awakened One described as nibbāna,
 
 *This is peaceful, this is sublime: all mergings have stilled, everything acquired has been completely relinquished, craving has run out, fading away, dissolution, extinguishing.*    
 *E.g. MN 64 AN 9.36*
-
