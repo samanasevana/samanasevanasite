@@ -4,11 +4,11 @@
 
 *Updates as of 2026-03-29*
 
-Good evening all, Venerable Jeffrey will likely be leaving Morgan Hill by April 17th towards Southern California. Venerable Jeffrey recorded an interview with Dhamma-Vinaya Patipada - you can watch it here: [At Home in Homelessness | An interview with Venerable Jeffrey](https://www.youtube.com/watch?v=EdWV4h--y-8)
+Venerable Jeffrey will likely be leaving Morgan Hill by April 17th towards Southern California. Venerable Jeffrey recorded an interview with Dhamma-Vinaya Patipada - you can watch it here: [At Home in Homelessness | An interview with Venerable Jeffrey](https://www.youtube.com/watch?v=EdWV4h--y-8)
+
+---
 
 *Updates as of 2025-07-17*
-
-Good evening all,
 
 Venerable Jeffrey has given his final Dhamma talk in Scotts Valley for now. It was a wonderful experience having him here. Tomorrow, he will begin walking to Sunnyvale, traveling nearby Highway 17. The home page of this website has been updated with the new schedule.
 
@@ -16,27 +16,17 @@ Venerable Jeffrey also recently recorded an episode with the Clear Mountain Mona
 
 If you'd like to receive more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
 
-Warm regards,
-
-Jordan
+---
 
 *Updates as of 2025-07-09*
-
-Good evening all,
 
 Venerable Jeffrey has decided to remain in Scotts Valley until July 18th. The next Dhamma talk will be held on Thursday, July 17th, from 6:00pm to 8:00pm at 31 Taryn Ct, Scotts Valley, CA 95066. Please park outside the iron gate on the street and look for the small wooden gate immediately to the right - walk through the backyard and knock on the sliding glass door.
 
 All are welcome to attend. If you'd like to receive more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
 
-Warm regards,
-
-Jordan
-
 ---
 
 *Updates as of 2025-06-22*
-
-Good evening all,
 
 Venerable Jeffrey plans on giving a Dhamma talk at Skypark on Tuesday, June 24th at 1:30pm.
 
@@ -44,20 +34,15 @@ On July 1, Venerable Jeffrey will likely return to my parents' home in Scotts Va
 
 All are welcome to attend. If you'd like to hear more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
 
-Warm regards,
-
-Jordan
-
 ---
 
 *Updates as of 2025-05-28*
 
-Hi all - Venerable Jeffrey is currently residing somewhere in the forests of Scotts Valley. You'll likely, but not guaranteed, to see him on alms round in the mornings between Kings Village Shopping Center and Heavenly Roadside Cafe between 7am and 11am until the middle of June. After that, I would wager that he'll either return to my parents' home in Scotts Valley, or to the forests of Ben Lomond.
+Venerable Jeffrey is currently residing somewhere in the forests of Scotts Valley. You'll likely, but not guaranteed, to see him on alms round in the mornings between Kings Village Shopping Center and Heavenly Roadside Cafe between 7am and 11am until the middle of June. After that, I would wager that he'll either return to my parents' home in Scotts Valley, or to the forests of Ben Lomond.
 
 More details to come! If you'd like to hear more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
 
-Thx,
-Jordan
+---
 
 *Updates as of 2025-05-07*
 
@@ -67,22 +52,14 @@ Venerable Jeffrey is available most days from 6:00pm to 7:30pm for drop-in visit
 
 Venerable Jeffrey will likely remain in Scotts Valley until at least May 27th and possibly longer.
 
-Warm regards,
-
-Jordan
-
 ---
 
 *Updates as of 2025-04-13*
 
-Hi all, Venerable Jeffrey’s time in Santa Cruz has come to an end. I know he’s touched a lot of people’s hearts with his wholesome actions and teachings, myself included.
+Venerable Jeffrey’s time in Santa Cruz has come to an end. I know he’s touched a lot of people’s hearts with his wholesome actions and teachings, myself included.
 
 While Venerable Jeffrey's schedule is fluid and unpredictable, his likely path will take him from Santa Cruz to Felton, then Scotts Valley, then San Jose, then the greater Bay Area until October or November.
 
 Starting in October or November, he will settle down for the winter until March.
 
 If you have a place to offer as short-term or long-term shelter, please feel free to reach out at [samanasevana@gmail.com](mailto:samanasevana@gmail.com). For more information on offering support, please visit the [support page](/support).
-
-Warm regards,
-
-Jordan
