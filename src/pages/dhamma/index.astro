@@ -5,7 +5,11 @@ import Layout from "../../layouts/Layout.astro";
 import Accordion from "../../components/Accordion.astro";
 
 const thequalityPosts = await getCollection("thequality");
+const reflectionPosts = await getCollection("reflection");
 const sortedThequalityPosts = thequalityPosts.sort((a, b) => a.data.order - b.data.order);
+const sortedReflectionPosts = reflectionPosts.sort((a, b) =>
+  a.slug.localeCompare(b.slug),
+);
 ---
 
 <Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
@@ -20,6 +24,26 @@ const sortedThequalityPosts = thequalityPosts.sort((a, b) => a.data.order - b.da
             const { Content } = await post.render();
             return (
               <Accordion title={post.data.title} description={post.data.description}>
+                <Content />
+              </Accordion>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="mb-4 text-xl font-semibold">Reflections</h2>
+      <div class="flex flex-col gap-3">
+        {
+          sortedReflectionPosts.map(async (post) => {
+            const { Content } = await post.render();
+            return (
+              <Accordion
+                title={post.data.title}
+                description={post.data.description}
+                pdfSlug={post.slug}
+              >
                 <Content />
               </Accordion>
             );

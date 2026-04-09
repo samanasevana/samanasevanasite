@@ -1,5 +1,6 @@
 ---
 title: "How do I Practice as a Lay Person?"
+description: "Guidance from the Awakened One on how to integrate the path as a lay person"
 ---
 
 The Buddha’s teaching encompasses a wide variety of tools to put into practice a systemic movement toward the wholesome and away from the unwholesome while ultimately moving towards unshakable freedom and extinguishing.
