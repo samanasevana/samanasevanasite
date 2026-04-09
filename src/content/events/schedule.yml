@@ -1,54 +1,4 @@
 events:
-  - dayOfWeek: Wednesday
-    date: Mar 25
-    event: Drop in hours
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Friday
-    date: Mar 27
-    event: Drop in hours
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Saturday
-    date: Mar 28
-    event: Community Day
-    time: 10:30AM - 2PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Monday
-    date: Mar 30
-    event: Drop in hours
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Wednesday
-    date: Apr 1
-    event: Drop in hours
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Thursday
-    date: Apr 2
-    event: Full Moon Dhamma Talk / Meditation Instruction
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Friday
-    date: Apr 3
-    event: Drop in hours
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Saturday
-    date: Apr 4
-    event: Community Day
-    time: 10:30AM - 2PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Monday
-    date: Apr 6
-    event: Drop in hours
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
-  - dayOfWeek: Wednesday
-    date: Apr 8
-    event: Drop in hours
-    time: 7PM - 9PM
-    location: 1135 Deana Ct., Morgan Hill
   - dayOfWeek: Friday
     date: Apr 10
     event: Drop in hours
@@ -58,7 +8,7 @@ events:
     date: Apr 11
     event: Community Day
     time: 10:30AM - 2PM
-    location: Galvan Park, Morgan Hill
+    location: 1135 Deana Ct., Morgan Hill
   - dayOfWeek: Monday
     date: Apr 13
     event: Drop in hours
