@@ -2,12 +2,16 @@ import crypto from "crypto";
 import fs from "fs";
 import markdownPdf from "markdown-pdf";
 import path from "path";
+import { Readable } from "stream";
 
 const OUTPUT_DIR = "public/pdfs";
 const CONTENT_DIR = "src/content";
 const REFLECTION_DIR = path.join(CONTENT_DIR, "reflection");
 const TRANSLATIONS_DIR = path.join(CONTENT_DIR, "translation");
 const CHECKSUM_FILE = path.join(OUTPUT_DIR, ".checksums.json");
+const PDF_RENDER_VERSION = "2";
+const FRONTMATTER_PATTERN = /^---\r?\n([\s\S]*?)\r?\n---\r?\n*/;
+const TITLE_PATTERN = /^title:\s*(?:"([^"]*)"|'([^']*)'|(.+))$/m;
 
 // Create output directory if it doesn't exist
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -27,16 +31,44 @@ const saveChecksums = (checksums) => {
 
 const checksums = loadChecksums();
 
+const transformMarkdownForPdf = (content) => {
+  const frontmatterMatch = content.match(FRONTMATTER_PATTERN);
+
+  if (!frontmatterMatch) {
+    return content;
+  }
+
+  const frontmatter = frontmatterMatch[1];
+  const body = content.slice(frontmatterMatch[0].length).trimStart();
+  const titleMatch = frontmatter.match(TITLE_PATTERN);
+  const title = (
+    titleMatch?.[1] ??
+    titleMatch?.[2] ??
+    titleMatch?.[3] ??
+    ""
+  ).trim();
+
+  if (!title) {
+    return body;
+  }
+
+  return `## ${title}\n\n${body}`.trimEnd();
+};
+
 const generatePdf = (inputFile, outputFile) => {
   const content = fs.readFileSync(inputFile, "utf-8");
-  const hash = crypto.createHash("md5").update(content).digest("hex");
+  const pdfContent = transformMarkdownForPdf(content);
+  const hash = crypto
+    .createHash("md5")
+    .update(`${PDF_RENDER_VERSION}:${pdfContent}`)
+    .digest("hex");
 
   if (checksums[inputFile] === hash && fs.existsSync(outputFile)) {
     console.log(`Skipping ${path.basename(inputFile)} (unchanged)`);
     return;
   }
 
-  fs.createReadStream(inputFile)
+  Readable.from([pdfContent])
     .pipe(markdownPdf())
     .pipe(fs.createWriteStream(outputFile))
     .on("finish", () => {
