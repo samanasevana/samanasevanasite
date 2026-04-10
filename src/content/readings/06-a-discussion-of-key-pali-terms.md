@@ -1,7 +1,5 @@
----
-title: "A Discussion of Key Pāḷi Terms"
-order: 6
----
+**A Discussion of Key Pāḷi Terms**  
+*Venerable Jeffrey Hancuff (Guṇavīro Bhikkhu)*
 
 The Buddha’s teaching revolves around a number of key terms, and as with most unrelated languages some do not have identical terms to correspond to them. So, in many cases, it is not possible to encompass the entirety of the meaning of the Pāḷi term in one English term. 
 
@@ -14,7 +12,6 @@ Many times these are slight deviations from existing translations, but occasiona
 I only include here terms where either there is a range of meanings which do not fit well into a single English word and/or I introduce a novel translation. 
 
 –
-
 
 I’ve arrived at these translations through three approaches in addition to existing references and scholarship. 
 
@@ -34,7 +31,7 @@ Also, in the process of starting to use these terms in teaching, I would occasio
 
 This is a process that has naturally had an evolution and will likely continue to do so, but over the past decade my internal translations of key terms have started to settle. I hope it may be of some benefit. 
 
-Buddha– [“Awakened One”--This is the past participle of the verb bujjhati meaning to wake up, both in the literal and figurative senses of waking up from sleep and understanding something for the first time.] wake up (both literally and to something)
+**Buddha**– \[“Awakened One”--This is the past participle of the verb bujjhati meaning to wake up, both in the literal and figurative senses of waking up from sleep and understanding something for the first time.\] wake up (both literally and to something)
 
 “Paṭibujjhati” is used exclusively in a the literal sense “wake up again (after sleeping).”  
 
@@ -44,11 +41,11 @@ Buddha– [“Awakened One”--This is the past participle of the verb bujjhati 
 
 Also, other terms like “anubujjhati,” “following (someone or something) to awakening” and avabujjhati “deepen (one’s) awakening” also occur. 
 
-Dhamma–[”what is held”--etymologically Dhamma is a fairly simple and straightforward word. It is the past participle of the extremely common verb dharati, which means to hold. However, figuratively and in Paḷi usage it has taken on a variety of meanings.] 
+**Dhamma**–\[”what is held”--etymologically Dhamma is a fairly simple and straightforward word. It is the past participle of the extremely common verb dharati, which means to hold. However, figuratively and in Paḷi usage it has taken on a variety of meanings.\] 
 
-1. The quality (of something), an inherent characteristic, the nature (of something) 
-2. A natural law, a rule preserving some inherent quality or order.   
-3. A state of consciousness, an emotional state or quality, a quality of mind, a phenomenon in the literal philosophical sense of something perceived 
+1\. The quality (of something), an inherent characteristic, the nature (of something)   
+2\. A natural law, a rule preserving some inherent quality or order.     
+3\. A state of consciousness, an emotional state or quality, a quality of mind, a phenomenon in the literal philosophical sense of something perceived 
 
 In actual usage, the first two almost always occur in the singular, and the third usually occurs in the plural, so while the first two frequently overlap in meaning and usage, the third is usually used in noticeably different contexts. 
 
@@ -56,7 +53,7 @@ In the context of referring to the Buddha’s teaching it naturally straddles th
 
 Eventually, I decided on using “Natural Law” as the translation when the word occurs without context or as something people take refuge in, though it is useful to know that it strongly retains the meaning of “The Nature of Things.”
 
-Dhātu  [This word is closely related to “dhamma.” While “dhamma” is the past participle of the verb “dharati”, dhātu is probably more closely related to the causative form of dharati, dhāreti. So, if there is some slight difference “dhamma” would be the state or quality which is held, “dhātu” would be the underlying characteristic which causes that thing to be held.] ”what causes something to be held” Characteristic, inherent quality. 
+**Dhātu**  \[This word is closely related to “dhamma.” While “dhamma” is the past participle of the verb “dharati”, dhātu is probably more closely related to the causative form of dharati, dhāreti. So, if there is some slight difference “dhamma” would be the state or quality which is held, “dhātu” would be the underlying characteristic which causes that thing to be held.\] ”what causes something to be held” Characteristic, inherent quality. 
 
 In usage there is substantial overlap, but they are not used in the same way. 
 
@@ -64,13 +61,13 @@ For example, “dhātu” is used for both physical and experiential characteris
 
 Between dhamma and dhātu, dhātu is the more fundamental and essential one. There are references to dhammadhātu, but not dhātudhamma. In compounds, the final term is usually the noun and the first term is usually the adjective, so there is a type of dhātu of a dhamma, but not a dhamma of a dhātu.  
 
-Additionally, to make the difference clearer, nibbānadhātu refers to the characteristic, quality or nature of extinguishing, parinibbānadhamma refers to an individual who has the nature to reach complete extinguishing (at death), not the nature of complete extinguishing.
- 
+Additionally, to make the difference clearer, nibbānadhātu refers to the characteristic, quality or nature of extinguishing, parinibbānadhamma refers to an individual who has the nature to reach complete extinguishing (at death), not the nature of complete extinguishing.  
+   
 Also there are lists of various types of characteristics (MN 115), in addition to the six above, there are characteristics of “pleasure, pain, happiness, suffering, impartiality, ignorance,” characteristics of “sensuality, hostility, and cruelty, and going without, non-hostility and non-cruelty,“ characteristics of “sensuality, form, and formless,” and “constructed characteristics and unconstructed characteristics”
 
 Whereas “dhātu” generally refers to some inherent characteristic, “dhamma” more frequently refers to some more temporary good or back quality one is generating at the moment. 
 
-Sangha–”something bound together”--community, organization, network, more specifically frequently referring to the monastic order the Buddha established of his monastic disciples. 
+**Sangha**–”something bound together”--community, organization, network, more specifically frequently referring to the monastic order the Buddha established of his monastic disciples. 
 
 There are two Sanghas the Awakened One established, the bhikkhusaṅgha and bhikkhunisaṅgha, the Orders of Monks and Order of Nuns. 
 
@@ -78,16 +75,16 @@ It is worth noting that normally, when people take refuge in the Awakened one in
 
 Also, the term was never used to refer to lay disciples. Normally the terms used for male and female lay disciples were upāsakā and upāsikā “those who approach or sit near.” When referred to as a group, the groups of male and female lay disciples were “upāsakaparisā” and “upāsikāparisā”--“the assembly or congregation of male and female lay followers.” 
 
-Arahant–”worthy one” “one of value”--The term arahaṃ is a common word in pali signifying worth or value. To refer to something costing one pāda one would say “pādārahaṃ.” Arahant is the form of that term to refer to an individual which has that quality. 
+**Arahant**–”worthy one” “one of value”--The term arahaṃ is a common word in pali signifying worth or value. To refer to something costing one pāda one would say “pādārahaṃ.” Arahant is the form of that term to refer to an individual which has that quality. 
 
-Anicca– [a+ni+tya; Anicca is the negation of the word nicca. Pāḷi is a language of roots but it has about 20 prefixes which are extremely common. Many of these prefixes have very general and flexible meanings which range from directional movement to very generalized ideas. Sometimes these prefixes are not affixed to a primary root and are attached to a placeholder suffix “tya.” This is the case with nicca. It is the prefix “ni” added to the placeholder suffix “tya.” This is the adjective form of the general prefix “ni” which in different circumstances takes on the meanings of down, low, downward, fixed, regular, steady, stable, permanent.]
+**Anicca**– \[a+ni+tya; Anicca is the negation of the word nicca. Pāḷi is a language of roots but it has about 20 prefixes which are extremely common. Many of these prefixes have very general and flexible meanings which range from directional movement to very generalized ideas. Sometimes these prefixes are not affixed to a primary root and are attached to a placeholder suffix “tya.” This is the case with nicca. It is the prefix “ni” added to the placeholder suffix “tya.” This is the adjective form of the general prefix “ni” which in different circumstances takes on the meanings of down, low, downward, fixed, regular, steady, stable, permanent.\]  
 impermanent, unstable, unsteady, not fixed, temporary, not regular, unpredictable
 
 What is difficult to translate about the Pali word “anicca” is that while the Pāḷi term is very broad and includes several associations, each of the English terms are fairly limited in their meaning. Whereas nicca and anicca are common words for indicating anything fixed, stable, steady or permanent, all of the english translations are fairly narrow. 
 
 Because in the Awakened One’s teaching the meaning of “impermanent” i.e. something that has the nature to die or pass away, is the association that is most frequently talked about, I generally use that as a translation, however, my intuitive association of the Pāḷi word anicca actually is closer my association to that of the English word “unstable.” It is clear in my mind that in Pāḷi, the word retains all of these associations.
 
-Dukkha–[du+tya;, du is an extremely common prefix and tya is the generic suffix meaning “that.” Du has a range of meanings, but primarily painful, difficult, unpleasant] (n.) pain, difficulty, unpleasant, discomfort, bad feeling, suffering (adj.) painful, difficult, bad (feeling); antonym of sukha
+**Dukkha**–\[du+tya;, du is an extremely common prefix and tya is the generic suffix meaning “that.” Du has a range of meanings, but primarily painful, difficult, unpleasant\] (n.) pain, difficulty, unpleasant, discomfort, bad feeling, suffering (adj.) painful, difficult, bad (feeling); antonym of sukha
 
 Dukkha has strong associations with feeling both as a description of physical feeling as well as emotional affect. But it is also more generally used to describe all types of feeling bad, both physical and mental. 
 
@@ -97,15 +94,15 @@ Also, dukkha is a word strongly associated with feeling (vedanā). Feeling is al
 
 Also, in the Buddhist breakdown of phenomena, there are six internal sense doors, (vision, audition, olfaction, tongue, body, mind) six external sense doors (forms, sounds, smells, tastes, tangibles, phenomena), and six types of perception (visual perception, auditory perception, olfactory perception, tongue perception, bodily perception, and mind perception). The contact between these three (e.g. the body, a tangible object, and bodily perception), yields a feeling born of that contact (e.g. feeling born of bodily perception, kāyasamphassajā vedanā). The word dukkha has both associations with painful experiences of the body (e.g. a disease), and as a description of the subtle emotional feeling generated by any type of disliked sense contact, but less frequently as unpleasant mental phenomena, which are more frequently described as domanassa.
 
-Sukha–[su+tya; similar to dukkha, su is the extremely common prefix meaning anything easy, nice or pleasant] (n.) good feeling, pleasant (adj.) pleasurable, pleasing, good (feeling)
+**Sukha**–\[su+tya; similar to dukkha, su is the extremely common prefix meaning anything easy, nice or pleasant\] (n.) good feeling, pleasant (adj.) pleasurable, pleasing, good (feeling)
 
 Antonym-dukkha. Similar to the discussion of dukkha, the word sukha has strong connotations of painful sensations or feeling, but where exclusively mental pain is generally described as somanassa (pleasurable mental states).  
 
-Anattan–[an+attan; anattan is the negation of the extremely common word attā which means, self or soul.] (n.) not-self, not-soul.
+**Anattan**–\[an+attan; anattan is the negation of the extremely common word attā which means, self or soul.\] (n.) not-self, not-soul.
 
 While attan is an extremely common word meaning self, it also takes on a more metaphysical meaning of soul in metaphysical discussions, referring to a permanent sense of self.  
 
-Sankappa–[saṃ+kappa; saṃ is a prefix meaning together or complete, kappa is the noun form of kappeti, which means to cause to do, prepare to do, fix oneself on doing something, or fit something for a purpose. Kappa on its own has a very similar meaning to intend for a particular purpose. The saṃ prefix creates an association of stronger resolution or completeness of that resolve] (n.) resolution, aspiration, fixed intention
+**Sankappa**–\[saṃ+kappa; saṃ is a prefix meaning together or complete, kappa is the noun form of kappeti, which means to cause to do, prepare to do, fix oneself on doing something, or fit something for a purpose. Kappa on its own has a very similar meaning to intend for a particular purpose. The saṃ prefix creates an association of stronger resolution or completeness of that resolve\] (n.) resolution, aspiration, fixed intention
 
 In translating the English word intention to Pāḷi, four words could be used with slightly different Pāḷi usages, kappa, saṃkappa, cetanā, sancetanā. Kappa and sankappa are used more frequently in normal speech, and cetanā and sancetanā, are used more in philosophical speech. 
 
@@ -113,20 +110,73 @@ Kappa and sankappa, come from the causative of karoti, so the meaning of prepare
 
 Cetanā and sancetanā, come from the root cetas, which refers to the capacity of will. Cetanā is the action form of the will, so the act of will, the volition, or active intention as a manifestation of will. Sancetanā adds the prefix saṃ, which adds the meaning of attachment or binding to the object of one’s will.   
 
-Kappa–[noun form of kappeti, causative of karoti] intention. See discussion under sankappa.
+**Kappa**–\[noun form of kappeti, causative of karoti\] intention. See discussion under sankappa.
 
-Cetanā–[action noun of cetas] act of will, volition. See discussion under sankappa.
+**Cetanā**–\[action noun of cetas\] act of will, volition. See discussion under sankappa.
 
-Sancetanā–[saṃ+cetanā] attached act of will, attached volition. See discussion under sankappa.
+**Sancetanā**–\[saṃ+cetanā\] attached act of will, attached volition. See discussion under sankappa.
 
-Sati–[noun form of sarati] (n.) remembrance, remembering, bringing to mind, bearing in mind, meditation (in the original sense of intentionally bearing something in mind).
+**Sati**–\[noun form of sarati\] (n.) remembrance, remembering, bringing to mind, bearing in mind, meditation (in the original sense of intentionally bearing something in mind).
 
 Sarati is a very frequently occurring verb in Pāḷi meaning to remember. Related forms include anussarati, to recollect, sāreti to remind. (There is also a separate unrelated sanskrit root meaning to flow.) 
 
-Sampajaññā–[saṃ+pa+jaññā; This word combines the root saṃ meaning together or complete, pa meaning deeply or thoroughly and jaññā which is the feminine noun form of jānāti, to know] (n.f.) full awareness, broad awareness, complete awareness, (adj.) fully conscious, fully aware.
+**Sampajaññā**–\[n. form of saṃ+pa+jānāti; This word combines the root saṃ meaning together or complete, pa meaning deeply or thoroughly and jaññā which is the feminine noun form of jānāti, to know\] (fem. n.) full awareness, broad awareness, complete awareness, (adj.) fully conscious, fully aware.
 
 Sampajaññā is a common word appearing frequently in the Awakened One’s teaching. It is closely related to paññā, which has the meaning of wisdom, deep understanding, or awareness of something in particular. However, while paññā is used only with awareness or understanding of something specific and profound, sampajaññā refers to a broad awareness of things as they are. The additional saṃ in which distinguishes sampajāññā from paññā in etymology refers to a completeness of awareness as opposed to the specificity with which paññā is used. 
 
-The word sampajaññā gets used in both mundane and spiritual contexts. For example, sampajānamusāvāda in one monastic rule (Pc 1) refers to a fully conscious lie. 
+The word sampajaññā gets used in both mundane and spiritual contexts. For example, sampajānamusāvāda in one monastic rule (Pc 1\) refers to a fully conscious lie. 
 
 Sampajāno is also very common in Pāḷi is the corresponding noun meaning “one who is fully aware.” 
+
+**Paññā**–\[pa+ noun form of jānāti\] fem. n. “deep knowledge,” wisdom, penetrative understanding, deep understanding, awareness (of something in particular). 
+
+Paññā is a very common word which indicates a deeper knowledge. This gets used in both the sense of wisdom, as in a seeing through to the essence of causality, as well as wisdom as when either mundane or transcendent knowledge deepens to the point where it is internalized at a subconscious level. 
+
+Pajānāti, its verb form, is even more common and gets used most frequently to mean being aware of something in particular. Whereas sampajaññā gets used to refer to awareness that is more broad or complete, pajānāti gets used as awareness of a particular object. When the Buddha directs one to be aware of the breath at the beginning of breath meditation instructions, it is pajānāti which is used. 
+
+**Vijjā**–\[passive form of the root vid. Vindati the core verb means to find or discover. The passive refers to that which is “that which is found, discovered”\] learning, discovery, realization (of some new piece of knowledge), something figured out or found out.  
+
+Even more common that word vijjā is the negative form of the word, avijjā, meaning ignorance. The opposite of avijjā is either vijjā, learning, discovery, or realization, or ñāṇa, knowledge. 
+
+In usage, the word vijjā is almost always used in the sense of discoveries of knowledge and especially spiritual or profound knowledge, as opposed to finding something mundane.  
+
+**Upādāna**–\[upa+ā+dāna; the prefix upa, means to draw near to something, and the base ādāna is a very common word meaning to take. Dāna on its own means to give.\] 1\) taking on, taking up, picking up (and bringing close), 2\) identification, attachment, 3\) fuel, stocking up, loading up, accumulation. 
+
+This is a difficult word to translate, because it has a fairly straightforward and mundane meaning, but gets used in a range of figurative ways. The core meaning is to “take something near to oneself.” However, it gets commonly used in a figurative sense of “taking on” or “identifying with” the five khandas, the masses or materialities. There is also a separate usage, which gets used in solely mundane contexts of fuel or things one has stocked up. 
+
+Upādiyati, the passive version of the word, is also fairly common in metaphysical contexts, “to be taken on to.” It gets used in the sense of one is taken on to a type of existence in accord with one’s deeds, kamma. 
+
+**Jhāna**–\[jhā, from the very jhāyati. I suspect this is related to adhi+i, though that is not certain. “Adhi” is a prefix which means to settle, become established, and the root “i” means “go”\] focus
+
+While the word jhāna has a separate root and meaning of burning, the primary meaning is very clearly separate in usage and almost exclusively in spiritual contexts. 
+
+In addition, while jhāna is rarely used outside explicit spiritual teachings, related words, nijjhāyati, pajjhāyati, apajjhāyati are all used as types of focus not encouraged by the Awakened One.  Nijjhāyati adds the prefix ni meaning, down, with the meaning of “conviction.” Pajjhāyati “focus deeply on,” means to “fixate on” or “obsess over.” Apajjhāyati, “focus away from,” means to obsess over, brood or stew over. The meaning seems to be an agitated fixation. 
+
+Also, it is somewhat likely adhyāyati, to study, and upajjhāya, one’s teacher in studying, are likely related. 
+
+**Saṅkhāra**–\[saṃ+karoti;  Saṃ is a prefix meaning together. Karoti is an extremely common word meaning to do or make. the h and lengthened a in khāra adds emphasis. Both the words sankara and sankhāra exist in Pāḷi and have slightly different meanings. Sankara means to put some things together in an arrangement. Sankhāra means to fuse things together more fundamentally.\] (masc. n.) “making together” fusion, merging, attachment, compound, thing, matter. 
+
+The word saṅkhāra is a very difficult word to translate because it is a very common word used in primarily physical meanings, primarily metaphysical meanings, and frequently in a way that merges both physical and metaphysical meanings. 
+
+In its purely physical meaning, it means a “compounded thing.” Most of the time if one were to refer to something physical in Pāli, an object, anything material and substantive at all, one would refer to it as a saṅkhāra. The word itself, though, has an emphasis on the compounded nature of the object. So, when the Buddha recounts his past life and says “anicca vata saṅkhāra” at the end of the DN 17, it is emphasizing the unstable nature of anything compounded. 
+
+In its primarily metaphysical meaning, it is used as one of the five khandas, masses, which are taken on or identified with. In this context it is defined as the six forms of sañcetanā, attached acts of will, with respect to each of the sense doors. This is the process of fusion or attachment to each of the six sense bases or their objects. The “attachment” or sankhāra fuses to the object and creates the basis for perception to arise again by cause of its attachment. 
+
+In this way there are two overlapping uses of the term sankhāra, or attachment, active and passive. The active form is the attachment as the act of attaching. The passive form is the attachment as the kammic result of the act of attaching which is the fusion or merging which is the cause for perception to arise again. 
+
+The active form is predominant as the attachment as one of the five masses. Both the active and passive forms are present as the link in dependent origination which is caused by ignorance, and causes the arising of perception. 
+
+Saññā–\[saṃ+jānāti;   
+Viññāṇa  
+Citta  
+Cetas
+
+Mettā  
+Muditā  
+Upekkhā
+
+Rāga  
+Dosa   
+Moha
+
+Khanda
