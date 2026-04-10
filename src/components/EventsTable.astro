@@ -13,36 +13,41 @@ const schedule = await getEntry("events", "schedule");
 const events: EventRow[] = schedule?.data.events ?? [];
 
 const chipPalette = [
-  "bg-sky-50 text-sky-700 ring-sky-500/30",
-  "bg-amber-50 text-amber-800 ring-amber-500/30",
-  "bg-indigo-50 text-indigo-700 ring-indigo-500/30",
-  "bg-emerald-50 text-emerald-700 ring-emerald-500/30",
-  "bg-rose-50 text-rose-700 ring-rose-500/30",
+  "bg-sky-50 text-sky-700 ring-sky-500/30 dark:bg-sky-400/20 dark:text-sky-50 dark:ring-sky-200/30",
+  "bg-amber-50 text-amber-800 ring-amber-500/30 dark:bg-amber-300/20 dark:text-amber-50 dark:ring-amber-200/30",
+  "bg-indigo-50 text-indigo-700 ring-indigo-500/30 dark:bg-indigo-400/22 dark:text-indigo-50 dark:ring-indigo-200/30",
+  "bg-emerald-50 text-emerald-700 ring-emerald-500/30 dark:bg-emerald-400/20 dark:text-emerald-50 dark:ring-emerald-200/30",
+  "bg-rose-50 text-rose-700 ring-rose-500/30 dark:bg-rose-400/20 dark:text-rose-50 dark:ring-rose-200/30",
 ];
 
 const namedEventColors = [
   {
     match: (name: string) => name.includes("drop in hours"),
-    className: "bg-sky-50 text-sky-700 ring-sky-500/30",
+    className:
+      "bg-sky-50 text-sky-700 ring-sky-500/30 dark:bg-sky-400/20 dark:text-sky-50 dark:ring-sky-200/30",
   },
   {
     match: (name: string) => name.includes("observance day"),
-    className: "bg-amber-50 text-amber-700 ring-amber-400/30",
+    className:
+      "bg-amber-50 text-amber-700 ring-amber-400/30 dark:bg-amber-300/20 dark:text-amber-50 dark:ring-amber-200/30",
   },
   {
     match: (name: string) => name.includes("community day"),
-    className: "bg-amber-50 text-amber-700 ring-amber-400/30",
+    className:
+      "bg-amber-50 text-amber-700 ring-amber-400/30 dark:bg-amber-300/20 dark:text-amber-50 dark:ring-amber-200/30",
   },
   {
     match: (name: string) =>
       name.includes("dhamma talk") || name.includes("meditation instruction"),
-    className: "bg-indigo-50 text-indigo-700 ring-indigo-500/30",
+    className:
+      "bg-indigo-50 text-indigo-700 ring-indigo-500/30 dark:bg-indigo-100 dark:text-indigo-950 dark:ring-indigo-200/80",
   },
   {
     match: (name: string) =>
       name.includes("one-day meditation retreat") ||
       name.includes("one day meditation retreat"),
-    className: "bg-indigo-50 text-indigo-700 ring-indigo-500/30",
+    className:
+      "bg-indigo-50 text-indigo-700 ring-indigo-500/30 dark:bg-indigo-100 dark:text-indigo-950 dark:ring-indigo-200/80",
   },
 ];
 
@@ -60,77 +65,93 @@ const getChipClass = (eventName: string) => {
   const index = Math.abs(hash) % chipPalette.length;
   return chipPalette[index];
 };
+
+const getChipLayoutClass = (eventName: string) => {
+  const key = eventName.trim().toLowerCase();
+
+  if (
+    key.includes("dhamma talk") ||
+    key.includes("meditation instruction") ||
+    eventName.length > 28
+  ) {
+    return "max-w-[17rem] whitespace-normal px-4 py-2 text-[0.8125rem] leading-tight sm:max-w-[19rem]";
+  }
+
+  return "whitespace-nowrap px-3 py-1 text-xs";
+};
 ---
 
 <section class="mt-6 space-y-4">
   {
     events.length > 0 ? (
-      <div class="max-h-[500px] overflow-auto rounded-2xl border border-slate-200 bg-white/85 shadow-lg shadow-slate-200/60 backdrop-blur">
-        <table class="mb-0 mt-0 min-w-full divide-y divide-slate-200 text-left text-sm text-slate-700">
+      <div class="max-h-[500px] overflow-auto rounded-2xl border border-slate-200 bg-white/85 shadow-lg shadow-slate-200/60 backdrop-blur dark:border-zinc-700/80 dark:bg-zinc-950/80 dark:shadow-black/35">
+        <table class="mb-0 mt-0 min-w-full divide-y divide-slate-200 text-left text-sm text-slate-700 dark:divide-zinc-800 dark:text-zinc-200">
           <caption class="sr-only">Schedule of upcoming Dhamma events</caption>
-          <thead class="text-xs font-semibold uppercase tracking-wide text-slate-500">
+          <thead class="text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-zinc-400">
             <tr>
               <th
                 scope="col"
-                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur"
+                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
                 Day
               </th>
               <th
                 scope="col"
-                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur"
+                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
                 Date
               </th>
               <th
                 scope="col"
-                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur"
+                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
                 Event
               </th>
               <th
                 scope="col"
-                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur"
+                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
                 Time
               </th>
               <th
                 scope="col"
-                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur"
+                class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
                 Location
               </th>
             </tr>
           </thead>
-          <tbody class="divide-y divide-slate-100">
+          <tbody class="divide-y divide-slate-100 dark:divide-zinc-800">
             {events.map((event) => (
-              <tr class="transition hover:bg-slate-50">
-                <td class="whitespace-nowrap px-4 py-3 text-slate-600">
+              <tr class="transition hover:bg-slate-50 dark:hover:bg-zinc-900/70">
+                <td class="whitespace-nowrap bg-transparent px-4 py-3 text-slate-600 dark:text-zinc-400">
                   {event.dayOfWeek}
                 </td>
-                <td class="whitespace-nowrap px-4 py-3 font-semibold text-slate-900">
+                <td class="whitespace-nowrap bg-transparent px-4 py-3 font-semibold text-slate-900 dark:text-zinc-100">
                   {event.date}
                 </td>
-                <td class="px-4 py-3">
+                <td class="bg-transparent px-4 py-3">
                   <span
-                    class={`inline-flex items-center rounded-full px-3 py-1 text-xs font-semibold ring-1 ring-inset ${getChipClass(
+                    class={`inline-flex items-center rounded-full font-semibold ring-1 ring-inset ${getChipLayoutClass(
                       event.event,
-                    )}`}
+                    )} ${getChipClass(event.event)}`}
                   >
                     {event.event}
                   </span>
                 </td>
-                <td class="whitespace-nowrap px-4 py-3 text-slate-600">
+                <td class="whitespace-nowrap bg-transparent px-4 py-3 text-slate-600 dark:text-zinc-400">
                   {event.time}
                 </td>
-                <td class="px-4 py-3 text-slate-600">{event.location}</td>
+                <td class="bg-transparent px-4 py-3 text-slate-600 dark:text-zinc-400">
+                  {event.location}
+                </td>
               </tr>
             ))}
           </tbody>
         </table>
       </div>
     ) : (
-      <p class="rounded-lg border border-dashed border-slate-200 bg-white/60 p-4 text-sm text-slate-600">
+      <p class="rounded-lg border border-dashed border-slate-200 bg-white/60 p-4 text-sm text-slate-600 dark:border-zinc-700 dark:bg-zinc-900/70 dark:text-zinc-300">
         Event schedule will be announced soon. Please check back shortly.
       </p>
     )
