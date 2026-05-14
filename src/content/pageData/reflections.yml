@@ -6,8 +6,72 @@ videos:
     uploader: Dhamma-Vinaya Patipada
     date: March 15, 2026
     url: https://www.youtube.com/watch?v=EdWV4h--y-8
+    language: english
+    embed: true
   - id: 8erqGpw0Ty8
     title: The Freedom of Wandering
     uploader: Clear Mountain Monastery Project
     date: July 17, 2025
     url: https://www.youtube.com/watch?v=8erqGpw0Ty8
+    language: english
+    embed: true
+  - id: D5tvjRwBi9k
+    title: "Dhamma Talk: Generosity, Kindness and Morality"
+    uploader: Mindful Yogis
+    date: December 6, 2025
+    url: https://www.youtube.com/watch?v=D5tvjRwBi9k
+    language: english
+  - id: Q0Ik4lkseT0
+    title: "Dhamma Talk: Yoniso Manasikara"
+    uploader: Mindful Yogis
+    date: December 6, 2025
+    url: https://www.youtube.com/watch?v=Q0Ik4lkseT0
+    language: english
+  - id: -5Jng9a0pvQ
+    title: "Dhamma Talk: Barefoot Awareness"
+    uploader: Mindful Yogis
+    date: December 6, 2025
+    url: https://www.youtube.com/watch?v=-5Jng9a0pvQ
+    language: english
+  - id: mBRHLs_0-xU
+    title: "Dhamma Talk — September 6, 2025"
+    uploader: Mindful Yogis
+    date: December 6, 2025
+    url: https://www.youtube.com/watch?v=mBRHLs_0-xU
+    language: english
+  - id: HEK3BgaIPGQ
+    title: "Dhamma Talk — San Jose, August 30, 2025"
+    uploader: Mindful Yogis
+    date: December 6, 2025
+    url: https://www.youtube.com/watch?v=HEK3BgaIPGQ
+    language: english
+  - id: d3AZh76ZvTo
+    title: "Dhamma Talk — August 22, 2025"
+    uploader: Mindful Yogis
+    date: December 6, 2025
+    url: https://www.youtube.com/watch?v=d3AZh76ZvTo
+    language: english
+  - id: sYd92rExTA0
+    title: "Dhamma Talk — Friday Evening"
+    uploader: Mindful Yogis
+    date: December 6, 2025
+    url: https://www.youtube.com/watch?v=sYd92rExTA0
+    language: english
+  - id: WYg7hGIvAIg
+    title: "Pháp thoại của Tỳ-kheo Guṇavīro: Từ Đời Sống Đạo Đức Đến Tri Kiến Giải Thoát"
+    uploader: Mindful Yogis
+    date: December 2, 2025
+    url: https://www.youtube.com/watch?v=WYg7hGIvAIg
+    language: vietnamese
+  - id: h7JxzwP5adM
+    title: "Tỳ-kheo Guṇavīro: Buông xả (letting go) – từ bỏ dính mắc"
+    uploader: Mindful Yogis
+    date: November 17, 2025
+    url: https://www.youtube.com/watch?v=h7JxzwP5adM
+    language: vietnamese
+  - id: PrVZF0BeRng
+    title: "Những Suy Niệm Của Một Vị Tăng Hành Khất | Hỏi & Đáp cùng Tỳ-kheo Guṇavīro"
+    uploader: Mindful Yogis
+    date: October 28, 2025
+    url: https://www.youtube.com/watch?v=PrVZF0BeRng
+    language: vietnamese

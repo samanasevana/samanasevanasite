@@ -52,6 +52,8 @@ const pageData = defineCollection({
         uploader: z.string(),
         date: z.string(),
         url: z.string().url(),
+        language: z.enum(["english", "vietnamese"]).default("english"),
+        embed: z.boolean().default(false),
       }),
     ),
   }),

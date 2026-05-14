@@ -166,19 +166,4 @@ In its primarily metaphysical meaning, it is used as one of the five khandas, ma
 
 In this way there are two overlapping uses of the term sankhāra, or attachment, active and passive. The active form is the attachment as the act of attaching. The passive form is the attachment as the kammic result of the act of attaching which is the fusion or merging which is the cause for perception to arise again. 
 
-The active form is predominant as the attachment as one of the five masses. Both the active and passive forms are present as the link in dependent origination which is caused by ignorance, and causes the arising of perception. 
-
-Saññā–\[saṃ+jānāti;   
-Viññāṇa  
-Citta  
-Cetas
-
-Mettā  
-Muditā  
-Upekkhā
-
-Rāga  
-Dosa   
-Moha
-
-Khanda
+The active form is predominant as the attachment as one of the five masses. Both the active and passive forms are present as the link in dependent origination which is caused by ignorance, and causes the arising of perception.
