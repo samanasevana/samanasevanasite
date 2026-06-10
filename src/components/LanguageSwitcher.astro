@@ -9,7 +9,7 @@ const currentPath = Astro.url.pathname;
 
 <details class="language-switcher relative">
   <summary
-    class="flex cursor-pointer list-none items-center gap-1 rounded-md border px-2 py-1 text-sm font-medium text-zinc-500 transition-colors hover:text-zinc-900 dark:border-zinc-700 dark:hover:text-zinc-100"
+    class="flex cursor-pointer list-none items-center gap-1 rounded-md border bg-white px-2 py-1 text-sm font-medium text-zinc-500 transition-colors hover:text-zinc-900 dark:border-zinc-700 dark:bg-zinc-900 dark:hover:text-zinc-100"
     aria-label={t("chooseLanguage")}
   >
     <svg
@@ -31,7 +31,7 @@ const currentPath = Astro.url.pathname;
     <span>{languages[lang]}</span>
   </summary>
   <ul
-    class="absolute right-0 z-20 mt-1 min-w-[8rem] overflow-hidden rounded-md border border-zinc-200 bg-white py-1 shadow-lg dark:border-zinc-700 dark:bg-zinc-900"
+    class="absolute right-0 z-[9999] mt-1 min-w-[8rem] overflow-hidden rounded-md border border-zinc-200 bg-white py-1 shadow-lg dark:border-zinc-700 dark:bg-zinc-900"
   >
     {
       locales.map((code) => (
