@@ -1,5 +1,7 @@
 ---
-import { getEntry } from "astro:content";
+import { defaultLang, type Lang } from "../i18n/config";
+import { getLocalizedData } from "../i18n/content";
+import { useTranslations } from "../i18n/utils";
 
 type EventRow = {
   dayOfWeek: string;
@@ -9,7 +11,10 @@ type EventRow = {
   location: string;
 };
 
-const schedule = await getEntry("events", "schedule");
+const { lang = defaultLang } = Astro.props as { lang?: Lang };
+const t = useTranslations(lang);
+
+const schedule = await getLocalizedData("events", lang);
 const events: EventRow[] = schedule?.data.events ?? [];
 
 const chipPalette = [
@@ -86,38 +91,38 @@ const getChipLayoutClass = (eventName: string) => {
     events.length > 0 ? (
       <div class="max-h-[500px] overflow-auto rounded-2xl border border-slate-200 bg-white/85 shadow-lg shadow-slate-200/60 backdrop-blur dark:border-zinc-700/80 dark:bg-zinc-950/80 dark:shadow-black/35">
         <table class="mb-0 mt-0 min-w-full divide-y divide-slate-200 text-left text-sm text-slate-700 dark:divide-zinc-800 dark:text-zinc-200">
-          <caption class="sr-only">Schedule of upcoming Dhamma events</caption>
+          <caption class="sr-only">{t("evCaption")}</caption>
           <thead class="text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-zinc-400">
             <tr>
               <th
                 scope="col"
                 class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
-                Day
+                {t("evDay")}
               </th>
               <th
                 scope="col"
                 class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
-                Date
+                {t("evDate")}
               </th>
               <th
                 scope="col"
                 class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
-                Event
+                {t("evEvent")}
               </th>
               <th
                 scope="col"
                 class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
-                Time
+                {t("evTime")}
               </th>
               <th
                 scope="col"
                 class="sticky top-0 z-10 bg-slate-50/95 px-4 py-3 backdrop-blur dark:bg-zinc-950/95"
               >
-                Location
+                {t("evLocation")}
               </th>
             </tr>
           </thead>
@@ -152,7 +157,7 @@ const getChipLayoutClass = (eventName: string) => {
       </div>
     ) : (
       <p class="rounded-lg border border-dashed border-slate-200 bg-white/60 p-4 text-sm text-slate-600 dark:border-zinc-700 dark:bg-zinc-900/70 dark:text-zinc-300">
-        No events currently planned.
+        {t("evNone")}
       </p>
     )
   }

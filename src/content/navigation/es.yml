@@ -1,0 +1,17 @@
+links:
+  - label: inicio
+    href: /
+  - label: novedades
+    href: /updates
+  - label: apoyo
+    href: /support
+  - label: preguntas frecuentes
+    href: /faq
+  - label: reflexiones
+    href: /reflections
+  - label: dhamma
+    href: /dhamma
+  - label: traducciones
+    href: /translations
+  - label: acerca
+    href: /about

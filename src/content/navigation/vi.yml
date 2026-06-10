@@ -1,0 +1,17 @@
+links:
+  - label: trang chủ
+    href: /
+  - label: cập nhật
+    href: /updates
+  - label: hộ trì
+    href: /support
+  - label: câu hỏi thường gặp
+    href: /faq
+  - label: suy ngẫm
+    href: /reflections
+  - label: giáo pháp
+    href: /dhamma
+  - label: bản dịch
+    href: /translations
+  - label: giới thiệu
+    href: /about

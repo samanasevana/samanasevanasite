@@ -1,0 +1,17 @@
+links:
+  - label: 首页
+    href: /
+  - label: 最新动态
+    href: /updates
+  - label: 护持
+    href: /support
+  - label: 常见问题
+    href: /faq
+  - label: 省思
+    href: /reflections
+  - label: 佛法
+    href: /dhamma
+  - label: 翻译
+    href: /translations
+  - label: 关于
+    href: /about

@@ -1,0 +1,74 @@
+---
+import { languages, locales } from "../i18n/config";
+import { getLangFromUrl, localizedPath, useTranslations } from "../i18n/utils";
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const currentPath = Astro.url.pathname;
+---
+
+<details class="language-switcher relative">
+  <summary
+    class="flex cursor-pointer list-none items-center gap-1 rounded-md border px-2 py-1 text-sm font-medium text-zinc-500 transition-colors hover:text-zinc-900 dark:border-zinc-700 dark:hover:text-zinc-100"
+    aria-label={t("chooseLanguage")}
+  >
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+      class="h-4 w-4"
+    >
+      <circle cx="12" cy="12" r="10"></circle>
+      <path d="M2 12h20"></path>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
+      ></path>
+    </svg>
+    <span>{languages[lang]}</span>
+  </summary>
+  <ul
+    class="absolute right-0 z-20 mt-1 min-w-[8rem] overflow-hidden rounded-md border border-zinc-200 bg-white py-1 shadow-lg dark:border-zinc-700 dark:bg-zinc-900"
+  >
+    {
+      locales.map((code) => (
+        <li>
+          <a
+            href={localizedPath(currentPath, code)}
+            aria-current={code === lang ? "true" : undefined}
+            class="block px-3 py-1.5 text-sm text-zinc-600 hover:bg-zinc-50 hover:text-zinc-900 aria-[current]:font-semibold aria-[current]:text-zinc-900 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:hover:text-zinc-100 dark:aria-[current]:text-zinc-100"
+          >
+            {languages[code]}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</details>
+
+<style>
+  .language-switcher summary::-webkit-details-marker {
+    display: none;
+  }
+</style>
+
+<script is:inline>
+  // Close the dropdown when clicking outside or after navigating.
+  (function () {
+    if (window.__langSwitcherBound) return;
+    window.__langSwitcherBound = true;
+    document.addEventListener("click", function (e) {
+      document.querySelectorAll("details.language-switcher").forEach(function (d) {
+        if (!d.contains(e.target)) d.removeAttribute("open");
+      });
+    });
+    document.addEventListener("astro:after-swap", function () {
+      document.querySelectorAll("details.language-switcher").forEach(function (d) {
+        d.removeAttribute("open");
+      });
+    });
+  })();
+</script>

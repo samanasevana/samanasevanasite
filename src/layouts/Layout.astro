@@ -2,6 +2,12 @@
 import { ViewTransitions } from "astro:transitions";
 import Header from "../components/Header.astro";
 import { cn } from "../lib/utils";
+import {
+  getLangFromUrl,
+  localizedPath,
+  stripLangPrefix,
+  useTranslations,
+} from "../i18n/utils";
 import "../styles/global.css";
 
 interface Props {
@@ -14,6 +20,9 @@ interface Props {
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const currentPath = Astro.url.pathname;
 
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
 const {
   title,
   description,
@@ -21,14 +30,19 @@ const {
   className,
 } = Astro.props;
 
-const isDhammaPost = /^\/dhamma\/[^/]+/.test(currentPath);
-const isTranslationPost = /^\/translations\/[^/]+/.test(currentPath);
+// Detect post pages regardless of any language prefix (e.g. /es/dhamma/foo).
+const pathWithoutLang = stripLangPrefix(currentPath);
+const isDhammaPost = /^\/dhamma\/[^/]+/.test(pathWithoutLang);
+const isTranslationPost = /^\/translations\/[^/]+/.test(pathWithoutLang);
 const showBackNav = isDhammaPost || isTranslationPost;
-const backHref = isDhammaPost ? "/dhamma" : "/translations";
-const backLabel = isDhammaPost ? "Back to Dhamma" : "Back to Translations";
+const backHref = localizedPath(
+  isDhammaPost ? "/dhamma" : "/translations",
+  lang,
+);
+const backLabel = isDhammaPost ? t("backToDhamma") : t("backToTranslations");
 ---
 
-<html lang="en">
+<html lang={lang}>
   <head>
     <!-- Global Metadata -->
     <meta charset="utf-8" />

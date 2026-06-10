@@ -1,0 +1,42 @@
+---
+import Accordion from "../../components/Accordion.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
+import Layout from "../../layouts/Layout.astro";
+import type { Lang } from "../../i18n/config";
+import { i18nStaticPaths, useTranslations } from "../../i18n/utils";
+import { getLocalizedCollection } from "../../i18n/content";
+
+export function getStaticPaths() {
+  return i18nStaticPaths();
+}
+
+const { lang } = Astro.props as { lang: Lang };
+const t = useTranslations(lang);
+
+const support = (await getLocalizedCollection("support", lang)).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+---
+
+<Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <article>
+    <h2>{t("support")}</h2>
+
+    <div class="flex flex-col gap-4">
+      {
+        support.map(async (item) => {
+          const { Content } = await item.render();
+          return (
+            <Accordion title={item.data.title}>
+              <Content />
+            </Accordion>
+          );
+        })
+      }
+    </div>
+  </article>
+</Layout>
+
+<script>
+  import "../../scripts/accordion.js";
+</script>

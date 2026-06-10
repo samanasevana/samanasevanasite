@@ -6,13 +6,30 @@ settings:
   content:
     merge: true
 
+# ---------------------------------------------------------------------------
+# Internationalisation note
+#
+# Pages CMS has no built-in multi-language feature yet, so each piece of
+# content is exposed once per language. Content lives in per-language folders
+# (e.g. src/content/faq/en, src/content/faq/es) and the site falls back to the
+# English version of anything not yet translated.
+#
+# Languages: en (English), es (Español), pt (Português), zh (中文),
+# vi (Tiếng Việt). To translate a page, open the matching "… — <language>"
+# entry below and create/edit the file.
+#
+# The `&anchors` / `*aliases` below are standard YAML: they let every language
+# of a collection reuse the same field definitions without repetition.
+# ---------------------------------------------------------------------------
+
 content:
-  - name: navigation
-    label: Navigation
+  # ===== Navigation =======================================================
+  - name: navigation_en
+    label: Navigation — English
     type: file
-    path: src/content/navigation/main.yml
+    path: src/content/navigation/en.yml
     format: yaml
-    fields:
+    fields: &nav_fields
       - name: links
         label: Links
         type: object
@@ -27,12 +44,37 @@ content:
           - name: href
             label: URL Path
             type: string
-
-  - name: home_intro
-    label: Home Intro
+  - name: navigation_es
+    label: Navigation — Español
     type: file
-    path: src/content/pages/index.md
-    fields:
+    path: src/content/navigation/es.yml
+    format: yaml
+    fields: *nav_fields
+  - name: navigation_pt
+    label: Navigation — Português
+    type: file
+    path: src/content/navigation/pt.yml
+    format: yaml
+    fields: *nav_fields
+  - name: navigation_zh
+    label: Navigation — 中文
+    type: file
+    path: src/content/navigation/zh.yml
+    format: yaml
+    fields: *nav_fields
+  - name: navigation_vi
+    label: Navigation — Tiếng Việt
+    type: file
+    path: src/content/navigation/vi.yml
+    format: yaml
+    fields: *nav_fields
+
+  # ===== Home intro =======================================================
+  - name: home_intro_en
+    label: Home Intro — English
+    type: file
+    path: src/content/pages/en/home.md
+    fields: &home_intro_fields
       - name: title
         label: Title
         type: string
@@ -41,14 +83,35 @@ content:
       - name: body
         label: Intro
         type: rich-text
+  - name: home_intro_es
+    label: Home Intro — Español
+    type: file
+    path: src/content/pages/es/home.md
+    fields: *home_intro_fields
+  - name: home_intro_pt
+    label: Home Intro — Português
+    type: file
+    path: src/content/pages/pt/home.md
+    fields: *home_intro_fields
+  - name: home_intro_zh
+    label: Home Intro — 中文
+    type: file
+    path: src/content/pages/zh/home.md
+    fields: *home_intro_fields
+  - name: home_intro_vi
+    label: Home Intro — Tiếng Việt
+    type: file
+    path: src/content/pages/vi/home.md
+    fields: *home_intro_fields
 
-  - name: home_sections
-    label: Home Sections
+  # ===== Home sections ====================================================
+  - name: home_sections_en
+    label: Home Sections — English
     type: collection
-    path: src/content/homeSections
+    path: src/content/homeSections/en
     view:
       fields: [order, title, badge, meta, tone]
-    fields:
+    fields: &home_sections_fields
       - name: title
         label: Title
         type: string
@@ -69,13 +132,42 @@ content:
       - name: body
         label: Body
         type: rich-text
+  - name: home_sections_es
+    label: Home Sections — Español
+    type: collection
+    path: src/content/homeSections/es
+    view:
+      fields: [order, title, badge, meta, tone]
+    fields: *home_sections_fields
+  - name: home_sections_pt
+    label: Home Sections — Português
+    type: collection
+    path: src/content/homeSections/pt
+    view:
+      fields: [order, title, badge, meta, tone]
+    fields: *home_sections_fields
+  - name: home_sections_zh
+    label: Home Sections — 中文
+    type: collection
+    path: src/content/homeSections/zh
+    view:
+      fields: [order, title, badge, meta, tone]
+    fields: *home_sections_fields
+  - name: home_sections_vi
+    label: Home Sections — Tiếng Việt
+    type: collection
+    path: src/content/homeSections/vi
+    view:
+      fields: [order, title, badge, meta, tone]
+    fields: *home_sections_fields
 
-  - name: event_schedule
-    label: Event Schedule
+  # ===== Event schedule ===================================================
+  - name: event_schedule_en
+    label: Event Schedule — English
     type: file
-    path: src/content/events/schedule.yml
+    path: src/content/events/en.yml
     format: yaml
-    fields:
+    fields: &events_fields
       - name: events
         label: Events
         type: object
@@ -99,31 +191,95 @@ content:
           - name: location
             label: Location
             type: string
-
-  - name: about_page
-    label: About Page
+  - name: event_schedule_es
+    label: Event Schedule — Español
     type: file
-    path: src/content/pages/about.md
-    fields:
-      - name: body
-        label: Body
-        type: rich-text
-
-  - name: updates_page
-    label: Updates Page
-    type: file
-    path: src/content/pages/updates.md
-    fields:
-      - name: body
-        label: Body
-        type: rich-text
-
-  - name: reflections_page
-    label: Reflections Page
-    type: file
-    path: src/content/pageData/reflections.yml
+    path: src/content/events/es.yml
     format: yaml
-    fields:
+    fields: *events_fields
+  - name: event_schedule_pt
+    label: Event Schedule — Português
+    type: file
+    path: src/content/events/pt.yml
+    format: yaml
+    fields: *events_fields
+  - name: event_schedule_zh
+    label: Event Schedule — 中文
+    type: file
+    path: src/content/events/zh.yml
+    format: yaml
+    fields: *events_fields
+  - name: event_schedule_vi
+    label: Event Schedule — Tiếng Việt
+    type: file
+    path: src/content/events/vi.yml
+    format: yaml
+    fields: *events_fields
+
+  # ===== About page =======================================================
+  - name: about_page_en
+    label: About Page — English
+    type: file
+    path: src/content/pages/en/about.md
+    fields: &body_only_fields
+      - name: body
+        label: Body
+        type: rich-text
+  - name: about_page_es
+    label: About Page — Español
+    type: file
+    path: src/content/pages/es/about.md
+    fields: *body_only_fields
+  - name: about_page_pt
+    label: About Page — Português
+    type: file
+    path: src/content/pages/pt/about.md
+    fields: *body_only_fields
+  - name: about_page_zh
+    label: About Page — 中文
+    type: file
+    path: src/content/pages/zh/about.md
+    fields: *body_only_fields
+  - name: about_page_vi
+    label: About Page — Tiếng Việt
+    type: file
+    path: src/content/pages/vi/about.md
+    fields: *body_only_fields
+
+  # ===== Updates page =====================================================
+  - name: updates_page_en
+    label: Updates Page — English
+    type: file
+    path: src/content/pages/en/updates.md
+    fields: *body_only_fields
+  - name: updates_page_es
+    label: Updates Page — Español
+    type: file
+    path: src/content/pages/es/updates.md
+    fields: *body_only_fields
+  - name: updates_page_pt
+    label: Updates Page — Português
+    type: file
+    path: src/content/pages/pt/updates.md
+    fields: *body_only_fields
+  - name: updates_page_zh
+    label: Updates Page — 中文
+    type: file
+    path: src/content/pages/zh/updates.md
+    fields: *body_only_fields
+  - name: updates_page_vi
+    label: Updates Page — Tiếng Việt
+    type: file
+    path: src/content/pages/vi/updates.md
+    fields: *body_only_fields
+
+  # ===== Reflections page (video list) ====================================
+  - name: reflections_page_en
+    label: Reflections Page — English
+    type: file
+    path: src/content/pageData/en.yml
+    format: yaml
+    fields: &reflections_page_fields
       - name: title
         label: Title
         type: string
@@ -153,14 +309,47 @@ content:
           - name: id
             label: YouTube Video ID
             type: string
+          - name: language
+            label: Video Language
+            type: select
+            options:
+              values: [english, vietnamese]
+          - name: embed
+            label: Embed inline
+            type: boolean
+  - name: reflections_page_es
+    label: Reflections Page — Español
+    type: file
+    path: src/content/pageData/es.yml
+    format: yaml
+    fields: *reflections_page_fields
+  - name: reflections_page_pt
+    label: Reflections Page — Português
+    type: file
+    path: src/content/pageData/pt.yml
+    format: yaml
+    fields: *reflections_page_fields
+  - name: reflections_page_zh
+    label: Reflections Page — 中文
+    type: file
+    path: src/content/pageData/zh.yml
+    format: yaml
+    fields: *reflections_page_fields
+  - name: reflections_page_vi
+    label: Reflections Page — Tiếng Việt
+    type: file
+    path: src/content/pageData/vi.yml
+    format: yaml
+    fields: *reflections_page_fields
 
-  - name: reflections
-    label: Dhamma Reflections
+  # ===== Dhamma Reflections (collection) ==================================
+  - name: reflections_en
+    label: Dhamma Reflections — English
     type: collection
-    path: src/content/reflection
+    path: src/content/reflection/en
     view:
       fields: [order, title, description]
-    fields:
+    fields: &doc_fields
       - name: order
         label: Order
         type: number
@@ -173,74 +362,154 @@ content:
       - name: body
         label: Body
         type: rich-text
-
-  - name: translations
-    label: Translations
+  - name: reflections_es
+    label: Dhamma Reflections — Español
     type: collection
-    path: src/content/translation
+    path: src/content/reflection/es
     view:
       fields: [order, title, description]
-    fields:
-      - name: title
-        label: Title
-        type: string
-      - name: description
-        label: Description
-        type: string
-      - name: order
-        label: Order
-        type: number
-      - name: body
-        label: Body
-        type: rich-text
-
-  - name: the_quality
-    label: The Quality
+    fields: *doc_fields
+  - name: reflections_pt
+    label: Dhamma Reflections — Português
     type: collection
-    path: src/content/thequality
+    path: src/content/reflection/pt
     view:
       fields: [order, title, description]
-    fields:
-      - name: title
-        label: Title
-        type: string
-      - name: description
-        label: Description
-        type: string
-      - name: order
-        label: Order
-        type: number
-      - name: body
-        label: Body
-        type: rich-text
-
-  - name: readings
-    label: Readings
+    fields: *doc_fields
+  - name: reflections_zh
+    label: Dhamma Reflections — 中文
     type: collection
-    path: src/content/readings
+    path: src/content/reflection/zh
     view:
       fields: [order, title, description]
-    fields:
-      - name: order
-        label: Order
-        type: number
-      - name: title
-        label: Title
-        type: string
-      - name: description
-        label: Description
-        type: string
-      - name: body
-        label: Body
-        type: rich-text
-
-  - name: faq
-    label: FAQ
+    fields: *doc_fields
+  - name: reflections_vi
+    label: Dhamma Reflections — Tiếng Việt
     type: collection
-    path: src/content/faq
+    path: src/content/reflection/vi
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+
+  # ===== Translations (collection) ========================================
+  - name: translations_en
+    label: Translations — English
+    type: collection
+    path: src/content/translation/en
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: translations_es
+    label: Translations — Español
+    type: collection
+    path: src/content/translation/es
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: translations_pt
+    label: Translations — Português
+    type: collection
+    path: src/content/translation/pt
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: translations_zh
+    label: Translations — 中文
+    type: collection
+    path: src/content/translation/zh
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: translations_vi
+    label: Translations — Tiếng Việt
+    type: collection
+    path: src/content/translation/vi
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+
+  # ===== The Quality (collection) =========================================
+  - name: the_quality_en
+    label: The Quality — English
+    type: collection
+    path: src/content/thequality/en
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: the_quality_es
+    label: The Quality — Español
+    type: collection
+    path: src/content/thequality/es
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: the_quality_pt
+    label: The Quality — Português
+    type: collection
+    path: src/content/thequality/pt
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: the_quality_zh
+    label: The Quality — 中文
+    type: collection
+    path: src/content/thequality/zh
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: the_quality_vi
+    label: The Quality — Tiếng Việt
+    type: collection
+    path: src/content/thequality/vi
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+
+  # ===== Readings (collection) ============================================
+  - name: readings_en
+    label: Readings — English
+    type: collection
+    path: src/content/readings/en
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: readings_es
+    label: Readings — Español
+    type: collection
+    path: src/content/readings/es
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: readings_pt
+    label: Readings — Português
+    type: collection
+    path: src/content/readings/pt
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: readings_zh
+    label: Readings — 中文
+    type: collection
+    path: src/content/readings/zh
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+  - name: readings_vi
+    label: Readings — Tiếng Việt
+    type: collection
+    path: src/content/readings/vi
+    view:
+      fields: [order, title, description]
+    fields: *doc_fields
+
+  # ===== FAQ (collection) =================================================
+  - name: faq_en
+    label: FAQ — English
+    type: collection
+    path: src/content/faq/en
     view:
       fields: [order, title]
-    fields:
+    fields: &faq_fields
       - name: order
         label: Order
         type: number
@@ -250,20 +519,68 @@ content:
       - name: body
         label: Body
         type: rich-text
-
-  - name: support
-    label: Support
+  - name: faq_es
+    label: FAQ — Español
     type: collection
-    path: src/content/support
+    path: src/content/faq/es
     view:
       fields: [order, title]
-    fields:
-      - name: order
-        label: Order
-        type: number
-      - name: title
-        label: Title
-        type: string
-      - name: body
-        label: Body
-        type: rich-text
+    fields: *faq_fields
+  - name: faq_pt
+    label: FAQ — Português
+    type: collection
+    path: src/content/faq/pt
+    view:
+      fields: [order, title]
+    fields: *faq_fields
+  - name: faq_zh
+    label: FAQ — 中文
+    type: collection
+    path: src/content/faq/zh
+    view:
+      fields: [order, title]
+    fields: *faq_fields
+  - name: faq_vi
+    label: FAQ — Tiếng Việt
+    type: collection
+    path: src/content/faq/vi
+    view:
+      fields: [order, title]
+    fields: *faq_fields
+
+  # ===== Support (collection) =============================================
+  - name: support_en
+    label: Support — English
+    type: collection
+    path: src/content/support/en
+    view:
+      fields: [order, title]
+    fields: *faq_fields
+  - name: support_es
+    label: Support — Español
+    type: collection
+    path: src/content/support/es
+    view:
+      fields: [order, title]
+    fields: *faq_fields
+  - name: support_pt
+    label: Support — Português
+    type: collection
+    path: src/content/support/pt
+    view:
+      fields: [order, title]
+    fields: *faq_fields
+  - name: support_zh
+    label: Support — 中文
+    type: collection
+    path: src/content/support/zh
+    view:
+      fields: [order, title]
+    fields: *faq_fields
+  - name: support_vi
+    label: Support — Tiếng Việt
+    type: collection
+    path: src/content/support/vi
+    view:
+      fields: [order, title]
+    fields: *faq_fields

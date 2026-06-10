@@ -1,0 +1,75 @@
+---
+import { SITE_DESCRIPTION, SITE_TITLE } from "../../../consts";
+import Layout from "../../../layouts/Layout.astro";
+import Accordion from "../../../components/Accordion.astro";
+import type { Lang } from "../../../i18n/config";
+import { i18nStaticPaths, useTranslations } from "../../../i18n/utils";
+import {
+  baseSlug,
+  entryLang,
+  getLocalizedCollection,
+} from "../../../i18n/content";
+
+export function getStaticPaths() {
+  return i18nStaticPaths();
+}
+
+const { lang } = Astro.props as { lang: Lang };
+const t = useTranslations(lang);
+
+const translationPosts = (
+  await getLocalizedCollection("translation", lang)
+).sort((a, b) => a.data.order - b.data.order);
+const readingsPosts = (await getLocalizedCollection("readings", lang)).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+
+const pdfHref = (slug: string) =>
+  `/pdfs/${entryLang(slug)}/${baseSlug(slug)}.pdf`;
+---
+
+<Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <main>
+    <section>
+      <h2 class="mb-0 text-xl font-semibold">{t("translations")}</h2>
+      <p class="mb-4 text-sm text-gray-600 dark:text-gray-400">
+        {t("byline")}
+      </p>
+      <div class="flex flex-col gap-3">
+        {
+          translationPosts.map(async (post) => {
+            const { Content } = await post.render();
+            return (
+              <Accordion
+                title={post.data.title}
+                description={post.data.description}
+                pdfHref={pdfHref(post.slug)}
+                pdfLabel={t("pdfVersion")}
+              >
+                <Content />
+              </Accordion>
+            );
+          })
+        }
+      </div>
+    </section>
+
+    <section class="mt-8">
+      <h2 class="mb-4 text-xl font-semibold">{t("furtherReadings")}</h2>
+      <div class="flex flex-col gap-3">
+        {
+          readingsPosts.map(async (post) => {
+            const { Content } = await post.render();
+            return (
+              <Accordion title={post.data.title} description={post.data.description}>
+                <Content />
+              </Accordion>
+            );
+          })
+        }
+      </div>
+    </section>
+  </main>
+</Layout>
+
+<script src="../../../scripts/accordion.js"></script>

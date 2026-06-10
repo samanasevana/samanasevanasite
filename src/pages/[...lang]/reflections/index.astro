@@ -1,0 +1,168 @@
+---
+import { SITE_DESCRIPTION, SITE_TITLE } from "../../../consts";
+import Layout from "../../../layouts/Layout.astro";
+import type { Lang } from "../../../i18n/config";
+import { i18nStaticPaths, useTranslations } from "../../../i18n/utils";
+import { getLocalizedData } from "../../../i18n/content";
+
+export function getStaticPaths() {
+  return i18nStaticPaths();
+}
+
+const { lang } = Astro.props as { lang: Lang };
+const t = useTranslations(lang);
+
+const reflectionsPage = await getLocalizedData("pageData", lang);
+if (!reflectionsPage) {
+  throw new Error("Missing pageData entry for reflections");
+}
+const { title, intro, videos } = reflectionsPage.data;
+const showFallback = reflectionsPage.id !== lang;
+
+const englishVideos = videos.filter((v) => v.language === "english");
+const vietnameseVideos = videos.filter((v) => v.language === "vietnamese");
+
+const tabs = [
+  { id: "english", label: "English", videos: englishVideos },
+  { id: "vietnamese", label: "Tiếng Việt", videos: vietnameseVideos },
+].filter((t) => t.videos.length > 0);
+---
+
+<Layout title={`${t("reflections")} - ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
+  <main>
+    <section class="mt-8 flex flex-col gap-6">
+      <div>
+        <h1 class="mb-0 text-xl font-semibold">{title}</h1>
+        <p class="mb-4 text-sm text-gray-600 dark:text-gray-400">
+          {intro}
+        </p>
+        {
+          showFallback && (
+            <p class="rounded-md border border-amber-300 bg-amber-50 px-3 py-2 text-sm text-amber-800 dark:border-amber-300/30 dark:bg-amber-400/10 dark:text-amber-200">
+              {t("translationFallback")}
+            </p>
+          )
+        }
+      </div>
+
+      {
+        tabs.length > 1 && (
+          <div
+            role="tablist"
+            class="flex gap-2 border-b border-zinc-200 dark:border-zinc-700"
+          >
+            {tabs.map((tab, i) => (
+              <button
+                role="tab"
+                data-tab-target={tab.id}
+                aria-selected={i === 0 ? "true" : "false"}
+                class="reflections-tab -mb-px border-b-2 border-transparent px-3 py-2 text-sm font-medium text-zinc-500 hover:text-zinc-900 aria-selected:border-zinc-900 aria-selected:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-100 dark:aria-selected:border-zinc-100 dark:aria-selected:text-zinc-100"
+              >
+                {tab.label}
+              </button>
+            ))}
+          </div>
+        )
+      }
+
+      {
+        tabs.map((tab, i) => (
+          <div
+            data-tab-panel={tab.id}
+            role="tabpanel"
+            class={`flex flex-col gap-6 ${i !== 0 ? "hidden" : ""}`}
+          >
+            {tab.videos.map((video) => (
+              <article class="flex flex-col gap-3">
+                <div>
+                  <h2 class="mb-0 text-xl font-semibold">
+                    <a
+                      href={video.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="hover:underline"
+                    >
+                      {video.title}
+                    </a>
+                  </h2>
+                  {(video.uploader || video.date) && (
+                    <p class="mb-0 mt-0 text-sm text-gray-600 dark:text-gray-400">
+                      {[
+                        video.uploader,
+                        video.date ? `${t("uploaded")} ${video.date}` : null,
+                      ]
+                        .filter(Boolean)
+                        .join(" • ")}
+                    </p>
+                  )}
+                </div>
+
+                {video.embed ? (
+                  <iframe
+                    class="aspect-video w-full rounded-lg border border-zinc-200 dark:border-zinc-700"
+                    src={`https://www.youtube.com/embed/${video.id}`}
+                    title={video.title}
+                    loading="lazy"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    allowfullscreen
+                  />
+                ) : (
+                  <a
+                    href={video.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={`${t("watch")} "${video.title}"`}
+                    class="group relative block aspect-video w-full overflow-hidden rounded-lg border border-zinc-200 bg-zinc-100 dark:border-zinc-700 dark:bg-zinc-800"
+                  >
+                    <img
+                      src={`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`}
+                      alt=""
+                      loading="lazy"
+                      class="absolute inset-0 h-full w-full object-cover transition group-hover:scale-[1.02] group-hover:brightness-90"
+                    />
+                    <span
+                      class="absolute inset-0 flex items-center justify-center"
+                      aria-hidden="true"
+                    >
+                      <span class="flex h-12 w-[68px] items-center justify-center rounded-xl bg-[#212121]/80 shadow-lg transition group-hover:bg-[#FF0000]">
+                        <svg
+                          viewBox="0 0 24 24"
+                          class="h-7 w-7 fill-white"
+                          aria-hidden="true"
+                        >
+                          <path d="M8 5v14l11-7z" />
+                        </svg>
+                      </span>
+                    </span>
+                  </a>
+                )}
+              </article>
+            ))}
+          </div>
+        ))
+      }
+    </section>
+  </main>
+</Layout>
+
+<script is:inline>
+  (function () {
+    if (window.__reflectionsTabsBound) return;
+    window.__reflectionsTabsBound = true;
+    document.addEventListener("click", function (e) {
+      const tab = e.target.closest && e.target.closest(".reflections-tab");
+      if (!tab) return;
+      const target = tab.dataset.tabTarget;
+      document.querySelectorAll(".reflections-tab").forEach(function (t) {
+        t.setAttribute(
+          "aria-selected",
+          t.dataset.tabTarget === target ? "true" : "false",
+        );
+      });
+      document.querySelectorAll("[data-tab-panel]").forEach(function (p) {
+        p.classList.toggle("hidden", p.dataset.tabPanel !== target);
+      });
+    });
+  })();
+</script>
