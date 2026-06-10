@@ -15,12 +15,12 @@ export async function GET(context) {
   const items = [
     ...reflections.map((post) => ({
       title: post.data.title,
-      link: `/dhamma/${baseSlug(post)}/`,
+      link: `/teachings/writings/${baseSlug(post)}/`,
     })),
     ...translations.map((post) => ({
       title: post.data.title,
       description: post.data.description,
-      link: `/translations/${baseSlug(post)}/`,
+      link: `/teachings/translations/${baseSlug(post)}/`,
     })),
   ];
 

@@ -2,8 +2,13 @@
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../../consts";
 import Layout from "../../../layouts/Layout.astro";
 import type { Lang } from "../../../i18n/config";
-import { i18nStaticPaths, useTranslations } from "../../../i18n/utils";
+import {
+  i18nStaticPaths,
+  localizedPath,
+  useTranslations,
+} from "../../../i18n/utils";
 import { getLocalizedData } from "../../../i18n/content";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
 
 export function getStaticPaths() {
   return i18nStaticPaths();
@@ -12,12 +17,12 @@ export function getStaticPaths() {
 const { lang } = Astro.props as { lang: Lang };
 const t = useTranslations(lang);
 
-const reflectionsPage = await getLocalizedData("pageData", lang);
-if (!reflectionsPage) {
-  throw new Error("Missing pageData entry for reflections");
+const talksPage = await getLocalizedData("pageData", lang);
+if (!talksPage) {
+  throw new Error("Missing pageData entry for talks");
 }
-const { title, intro, videos } = reflectionsPage.data;
-const showFallback = reflectionsPage.id !== lang;
+const { videos } = talksPage.data;
+const showFallback = talksPage.id !== lang;
 
 const englishVideos = videos.filter((v) => v.language === "english");
 const vietnameseVideos = videos.filter((v) => v.language === "vietnamese");
@@ -25,25 +30,25 @@ const vietnameseVideos = videos.filter((v) => v.language === "vietnamese");
 const tabs = [
   { id: "english", label: "English", videos: englishVideos },
   { id: "vietnamese", label: "Tiếng Việt", videos: vietnameseVideos },
-].filter((t) => t.videos.length > 0);
+].filter((tab) => tab.videos.length > 0);
 ---
 
-<Layout title={`${t("reflections")} - ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
+<Layout title={`${t("talks")} - ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
   <main>
-    <section class="mt-8 flex flex-col gap-6">
-      <div>
-        <h1 class="mb-0 text-xl font-semibold">{title}</h1>
-        <p class="mb-4 text-sm text-gray-600 dark:text-gray-400">
-          {intro}
-        </p>
-        {
-          showFallback && (
-            <p class="rounded-md border border-amber-300 bg-amber-50 px-3 py-2 text-sm text-amber-800 dark:border-amber-300/30 dark:bg-amber-400/10 dark:text-amber-200">
-              {t("translationFallback")}
-            </p>
-          )
-        }
-      </div>
+    <Breadcrumb
+      items={[
+        { label: t("teachings"), href: localizedPath("/teachings", lang) },
+        { label: t("talks") },
+      ]}
+    />
+    <section class="flex flex-col gap-6">
+      {
+        showFallback && (
+          <p class="rounded-md border border-amber-300 bg-amber-50 px-3 py-2 text-sm text-amber-800 dark:border-amber-300/30 dark:bg-amber-400/10 dark:text-amber-200">
+            {t("translationFallback")}
+          </p>
+        )
+      }
 
       {
         tabs.length > 1 && (

@@ -1,9 +1,9 @@
 ---
 import { type CollectionEntry } from "astro:content";
-import Layout from "../../../layouts/Layout.astro";
-import type { Lang } from "../../../i18n/config";
-import { useTranslations } from "../../../i18n/utils";
-import { entryLang, getLocalizedPostPaths } from "../../../i18n/content";
+import Layout from "../../../../layouts/Layout.astro";
+import type { Lang } from "../../../../i18n/config";
+import { useTranslations } from "../../../../i18n/utils";
+import { entryLang, getLocalizedPostPaths } from "../../../../i18n/content";
 
 export async function getStaticPaths() {
   return getLocalizedPostPaths("reflection");

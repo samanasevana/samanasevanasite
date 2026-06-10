@@ -2,8 +2,13 @@
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../../consts";
 import Layout from "../../../layouts/Layout.astro";
 import Accordion from "../../../components/Accordion.astro";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
 import type { Lang } from "../../../i18n/config";
-import { i18nStaticPaths, useTranslations } from "../../../i18n/utils";
+import {
+  i18nStaticPaths,
+  localizedPath,
+  useTranslations,
+} from "../../../i18n/utils";
 import {
   baseSlug,
   entryLang,
@@ -28,13 +33,18 @@ const pdfHref = (slug: string) =>
   `/pdfs/${entryLang(slug)}/${baseSlug(slug)}.pdf`;
 ---
 
-<Layout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+<Layout
+  title={`${t("translationsBuddhasWords")} - ${SITE_TITLE}`}
+  description={SITE_DESCRIPTION}
+>
   <main>
+    <Breadcrumb
+      items={[
+        { label: t("teachings"), href: localizedPath("/teachings", lang) },
+        { label: t("translationsBuddhasWords") },
+      ]}
+    />
     <section>
-      <h2 class="mb-0 text-xl font-semibold">{t("translations")}</h2>
-      <p class="mb-4 text-sm text-gray-600 dark:text-gray-400">
-        {t("byline")}
-      </p>
       <div class="flex flex-col gap-3">
         {
           translationPosts.map(async (post) => {

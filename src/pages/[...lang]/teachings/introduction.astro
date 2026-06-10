@@ -1,0 +1,54 @@
+---
+import { SITE_DESCRIPTION, SITE_TITLE } from "../../../consts";
+import Layout from "../../../layouts/Layout.astro";
+import Accordion from "../../../components/Accordion.astro";
+import Breadcrumb from "../../../components/Breadcrumb.astro";
+import type { Lang } from "../../../i18n/config";
+import {
+  i18nStaticPaths,
+  localizedPath,
+  useTranslations,
+} from "../../../i18n/utils";
+import { getLocalizedCollection } from "../../../i18n/content";
+
+export function getStaticPaths() {
+  return i18nStaticPaths();
+}
+
+const { lang } = Astro.props as { lang: Lang };
+const t = useTranslations(lang);
+
+const thequalityPosts = (await getLocalizedCollection("thequality", lang)).sort(
+  (a, b) => a.data.order - b.data.order,
+);
+---
+
+<Layout
+  title={`${t("introBuddhism")} - ${SITE_TITLE}`}
+  description={SITE_DESCRIPTION}
+>
+  <main>
+    <Breadcrumb
+      items={[
+        { label: t("teachings"), href: localizedPath("/teachings", lang) },
+        { label: t("introBuddhism") },
+      ]}
+    />
+    <section>
+      <div class="flex flex-col gap-3">
+        {
+          thequalityPosts.map(async (post) => {
+            const { Content } = await post.render();
+            return (
+              <Accordion title={post.data.title} description={post.data.description}>
+                <Content />
+              </Accordion>
+            );
+          })
+        }
+      </div>
+    </section>
+  </main>
+</Layout>
+
+<script src="../../../scripts/accordion.js"></script>

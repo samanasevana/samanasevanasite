@@ -30,16 +30,19 @@ const {
   className,
 } = Astro.props;
 
-// Detect post pages regardless of any language prefix (e.g. /es/dhamma/foo).
+// Detect post pages regardless of any language prefix
+// (e.g. /es/teachings/writings/foo).
 const pathWithoutLang = stripLangPrefix(currentPath);
-const isDhammaPost = /^\/dhamma\/[^/]+/.test(pathWithoutLang);
-const isTranslationPost = /^\/translations\/[^/]+/.test(pathWithoutLang);
-const showBackNav = isDhammaPost || isTranslationPost;
+const isWritingPost = /^\/teachings\/writings\/[^/]+/.test(pathWithoutLang);
+const isTranslationPost = /^\/teachings\/translations\/[^/]+/.test(
+  pathWithoutLang,
+);
+const showBackNav = isWritingPost || isTranslationPost;
 const backHref = localizedPath(
-  isDhammaPost ? "/dhamma" : "/translations",
+  isWritingPost ? "/teachings/writings" : "/teachings/translations",
   lang,
 );
-const backLabel = isDhammaPost ? t("backToDhamma") : t("backToTranslations");
+const backLabel = isWritingPost ? t("backToWritings") : t("backToTranslations");
 ---
 
 <html lang={lang}>
