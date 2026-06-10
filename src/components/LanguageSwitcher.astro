@@ -28,7 +28,7 @@ const currentPath = Astro.url.pathname;
       <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
       ></path>
     </svg>
-    <span>{languages[lang]}</span>
+    <span>{lang.toUpperCase()}</span>
   </summary>
   <ul
     class="absolute right-0 z-[9999] mt-1 min-w-[8rem] overflow-hidden rounded-md border border-zinc-200 bg-white py-1 shadow-lg dark:border-zinc-700 dark:bg-zinc-900"
