@@ -1,12 +1,12 @@
 ---
 import { SITE_DESCRIPTION, SITE_TITLE } from "../../../consts";
-import Layout from "../../../layouts/Layout.astro";
 import type { Lang } from "../../../i18n/config";
 import {
   i18nStaticPaths,
   localizedPath,
   useTranslations,
 } from "../../../i18n/utils";
+import Layout from "../../../layouts/Layout.astro";
 
 export function getStaticPaths() {
   return i18nStaticPaths();
@@ -35,6 +35,12 @@ const cards = [
     description: t("talksDesc"),
   },
   {
+    href: "/teachings/guided-meditations",
+    title: t("guidedMeditations"),
+    byline: null,
+    description: t("guidedMeditationsDesc"),
+  },
+  {
     href: "/teachings/writings",
     title: t("writings"),
     byline: null,
@@ -43,7 +49,10 @@ const cards = [
 ];
 ---
 
-<Layout title={`${t("teachings")} - ${SITE_TITLE}`} description={SITE_DESCRIPTION}>
+<Layout
+  title={`${t("teachings")} - ${SITE_TITLE}`}
+  description={SITE_DESCRIPTION}
+>
   <main>
     <section class="mt-4">
       <h1 class="mb-6 text-lg font-medium">{t("teachings")}</h1>

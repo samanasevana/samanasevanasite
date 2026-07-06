@@ -1,0 +1,114 @@
+---
+import Breadcrumb from "../../../components/Breadcrumb.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../../../consts";
+import type { Lang } from "../../../i18n/config";
+import {
+  i18nStaticPaths,
+  localizedPath,
+  useTranslations,
+} from "../../../i18n/utils";
+import Layout from "../../../layouts/Layout.astro";
+
+export function getStaticPaths() {
+  return i18nStaticPaths();
+}
+
+const { lang } = Astro.props as { lang: Lang };
+const t = useTranslations(lang);
+
+const videos = [
+  {
+    id: "8RYWgpTRlnM",
+    title: "Morgan Hill Guided Meditation",
+    uploader: "Mindful Yogis",
+    date: "June 24, 2026",
+    url: "https://www.youtube.com/live/8RYWgpTRlnM",
+    embed: false,
+  },
+];
+---
+
+<Layout
+  title={`${t("guidedMeditations")} - ${SITE_TITLE}`}
+  description={SITE_DESCRIPTION}
+>
+  <main>
+    <Breadcrumb
+      items={[
+        { label: t("teachings"), href: localizedPath("/teachings", lang) },
+        { label: t("guidedMeditations") },
+      ]}
+    />
+    <section class="flex flex-col gap-6">
+      {
+        videos.map((video) => (
+          <article class="flex flex-col gap-3">
+            <div>
+              <h1 class="mb-0 text-xl font-semibold">
+                <a
+                  href={video.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="hover:underline"
+                >
+                  {video.title}
+                </a>
+              </h1>
+              {(video.uploader || video.date) && (
+                <p class="mb-0 mt-0 text-sm text-gray-600 dark:text-gray-400">
+                  {[
+                    video.uploader,
+                    video.date ? `${t("uploaded")} ${video.date}` : null,
+                  ]
+                    .filter(Boolean)
+                    .join(" • ")}
+                </p>
+              )}
+            </div>
+
+            {video.embed ? (
+              <iframe
+                class="aspect-video w-full rounded-lg border border-zinc-200 dark:border-zinc-700"
+                src={`https://www.youtube.com/embed/${video.id}`}
+                title={video.title}
+                loading="lazy"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+              />
+            ) : (
+              <a
+                href={video.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={`${t("watch")} "${video.title}"`}
+                class="group relative block aspect-video w-full overflow-hidden rounded-lg border border-zinc-200 bg-zinc-100 dark:border-zinc-700 dark:bg-zinc-800"
+              >
+                <img
+                  src={`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`}
+                  alt=""
+                  loading="lazy"
+                  class="absolute inset-0 h-full w-full object-cover transition group-hover:scale-[1.02] group-hover:brightness-90"
+                />
+                <span
+                  class="absolute inset-0 flex items-center justify-center"
+                  aria-hidden="true"
+                >
+                  <span class="flex h-12 w-[68px] items-center justify-center rounded-xl bg-[#212121]/80 shadow-lg transition group-hover:bg-[#FF0000]">
+                    <svg
+                      viewBox="0 0 24 24"
+                      class="h-7 w-7 fill-white"
+                      aria-hidden="true"
+                    >
+                      <path d="M8 5v14l11-7z" />
+                    </svg>
+                  </span>
+                </span>
+              </a>
+            )}
+          </article>
+        ))
+      }
+    </section>
+  </main>
+</Layout>
