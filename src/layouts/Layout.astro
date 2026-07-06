@@ -1,6 +1,7 @@
 ---
 import { ViewTransitions } from "astro:transitions";
 import Header from "../components/Header.astro";
+import { languageTags } from "../i18n/config";
 import { cn } from "../lib/utils";
 import {
   getLangFromUrl,
@@ -45,7 +46,7 @@ const backHref = localizedPath(
 const backLabel = isWritingPost ? t("backToWritings") : t("backToTranslations");
 ---
 
-<html lang={lang}>
+<html lang={languageTags[lang]}>
   <head>
     <!-- Global Metadata -->
     <meta charset="utf-8" />

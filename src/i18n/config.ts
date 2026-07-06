@@ -3,13 +3,21 @@
 // folders (e.g. src/content/faq/<code>/) and translate src/i18n/ui.ts.
 export const languages = {
   en: "English",
-  es: "Español",
-  pt: "Português",
+  es: "Español (Latinoamérica)",
+  pt: "Português (Brasil)",
   zh: "中文",
   vi: "Tiếng Việt",
 } as const;
 
 export type Lang = keyof typeof languages;
+
+export const languageTags: Record<Lang, string> = {
+  en: "en",
+  es: "es-419",
+  pt: "pt-BR",
+  zh: "zh",
+  vi: "vi",
+};
 
 // English is the default. It is served at the site root (e.g. /faq), while
 // every other language is served under a prefix (e.g. /es/faq). Anything not
