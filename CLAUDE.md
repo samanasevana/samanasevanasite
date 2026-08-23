@@ -90,5 +90,8 @@ reuse an anchor for the shared `fields`.
 PDFs generate per-language into `public/pdfs/<lang>/` via `scripts/generate-pdfs.js`
 (renderer: **md-to-pdf**, Chromium/Puppeteer). A Linux build host **must have a CJK
 font installed** (e.g. `fonts-noto-cjk`) or `zh` PDFs render blank. macOS works via
-"Heiti SC"/"Songti SC" ("PingFang SC" is a `.ttc` Chromium can't load). `pnpm` needs
-`puppeteer` in `onlyBuiltDependencies` to download Chromium.
+"Heiti SC"/"Songti SC" ("PingFang SC" is a `.ttc` Chromium can't load). `pnpm` must
+be allowed to run `puppeteer`'s install script or Chromium is never downloaded — on
+pnpm 11 that means `allowBuilds: {puppeteer: true}` in `pnpm-workspace.yaml` (older
+pnpm spelled this `onlyBuiltDependencies` in `package.json`). `esbuild` and `sharp`
+need the same treatment or `pnpm dev` fails to start.
