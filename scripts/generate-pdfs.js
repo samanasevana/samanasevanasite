@@ -10,7 +10,7 @@ const OUTPUT_DIR = "public/pdfs";
 const CONTENT_DIR = "src/content";
 // Collections that produce downloadable PDFs. Each now contains one
 // sub-folder per language (e.g. reflection/en, reflection/es).
-const PDF_COLLECTIONS = ["reflection", "translation"];
+const PDF_COLLECTIONS = ["reflection", "translation", "readings"];
 const CHECKSUM_FILE = path.join(OUTPUT_DIR, ".checksums.json");
 // Bump when the rendering pipeline changes so every PDF is regenerated.
 // 2 -> 3: switched from markdown-pdf (PhantomJS) to md-to-pdf (Chromium).
