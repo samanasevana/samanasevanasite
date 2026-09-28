@@ -1,1 +1,61 @@
-events: []
+events:
+  - dayOfWeek: 星期一
+    date: 10月5日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期三
+    date: 10月7日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期五
+    date: 10月9日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期六
+    date: 10月10日
+    event: "社区供斋与公开佛法开示"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期一
+    date: 10月12日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期三
+    date: 10月14日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期五
+    date: 10月16日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期六
+    date: 10月17日
+    event: "社区供斋与公开佛法开示"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期一
+    date: 10月19日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期三
+    date: 10月21日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期五
+    date: 10月23日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: 星期六
+    date: 10月24日
+    event: "社区供斋与公开佛法开示（前往旧金山前的最后一次开示）"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose

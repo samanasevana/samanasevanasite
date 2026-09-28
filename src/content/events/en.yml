@@ -1,1 +1,61 @@
-events: []
+events:
+  - dayOfWeek: Monday
+    date: Oct 5
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Wednesday
+    date: Oct 7
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Friday
+    date: Oct 9
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Saturday
+    date: Oct 10
+    event: "Community Meal Offering & Public Dhamma Talk"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Monday
+    date: Oct 12
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Wednesday
+    date: Oct 14
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Friday
+    date: Oct 16
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Saturday
+    date: Oct 17
+    event: "Community Meal Offering & Public Dhamma Talk"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Monday
+    date: Oct 19
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Wednesday
+    date: Oct 21
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Friday
+    date: Oct 23
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Saturday
+    date: Oct 24
+    event: "Community Meal Offering & Public Dhamma Talk (final talk before leaving for San Francisco)"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose

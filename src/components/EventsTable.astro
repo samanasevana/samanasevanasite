@@ -25,11 +25,33 @@ const chipPalette = [
   "bg-rose-50 text-rose-700 ring-rose-500/30 dark:bg-rose-400/20 dark:text-rose-50 dark:ring-rose-200/30",
 ];
 
+// Talk names across all five languages (lowercased).
+const isTalk = (name: string) =>
+  ["dhamma talk", "meditation instruction", "de dhamma", "佛法开示", "pháp thoại"].some((k) =>
+    name.includes(k),
+  );
+
 const namedEventColors = [
   {
     match: (name: string) => name.includes("drop in hours"),
     className:
       "bg-sky-50 text-sky-700 ring-sky-500/30 dark:bg-sky-400/20 dark:text-sky-50 dark:ring-sky-200/30",
+  },
+  {
+    match: (name: string) =>
+      ["q&a", "preguntas", "perguntas", "问答", "hỏi đáp"].some((k) =>
+        name.includes(k),
+      ),
+    className:
+      "bg-emerald-50 text-emerald-700 ring-emerald-500/30 dark:bg-emerald-400/20 dark:text-emerald-50 dark:ring-emerald-300/30",
+  },
+  {
+    match: (name: string) =>
+      ["meal offering", "comida", "refeição", "供斋", "trai tăng"].some((k) =>
+        name.includes(k),
+      ),
+    className:
+      "bg-amber-50 text-amber-700 ring-amber-400/30 dark:bg-amber-300/20 dark:text-amber-50 dark:ring-amber-200/30",
   },
   {
     match: (name: string) => name.includes("observance day"),
@@ -43,7 +65,7 @@ const namedEventColors = [
   },
   {
     match: (name: string) =>
-      name.includes("dhamma talk") || name.includes("meditation instruction"),
+      isTalk(name),
     className:
       "bg-indigo-50 text-indigo-700 ring-indigo-500/30 dark:bg-indigo-100 dark:text-indigo-950 dark:ring-indigo-200/80",
   },
@@ -72,14 +94,9 @@ const getChipClass = (eventName: string) => {
 };
 
 const getChipLayoutClass = (eventName: string) => {
-  const key = eventName.trim().toLowerCase();
-
-  if (
-    key.includes("dhamma talk") ||
-    key.includes("meditation instruction") ||
-    eventName.length > 28
-  ) {
-    return "max-w-[17rem] whitespace-normal px-4 py-2 text-[0.8125rem] leading-tight sm:max-w-[19rem]";
+  // Long labels wrap; the text size stays the same as every other chip.
+  if (eventName.length > 28) {
+    return "max-w-[17rem] whitespace-normal px-3 py-1 text-xs leading-tight sm:max-w-[19rem]";
   }
 
   return "whitespace-nowrap px-3 py-1 text-xs";

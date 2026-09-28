@@ -1,1 +1,61 @@
-events: []
+events:
+  - dayOfWeek: Thứ Hai
+    date: 5/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Tư
+    date: 7/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Sáu
+    date: 9/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Bảy
+    date: 10/10
+    event: "Cúng dường trai tăng cộng đồng & Pháp thoại công cộng"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Hai
+    date: 12/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Tư
+    date: 14/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Sáu
+    date: 16/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Bảy
+    date: 17/10
+    event: "Cúng dường trai tăng cộng đồng & Pháp thoại công cộng"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Hai
+    date: 19/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Tư
+    date: 21/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Sáu
+    date: 23/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Bảy
+    date: 24/10
+    event: "Cúng dường trai tăng cộng đồng & Pháp thoại công cộng (buổi cuối cùng trước khi đi San Francisco)"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose

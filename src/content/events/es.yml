@@ -1,1 +1,61 @@
-events: []
+events:
+  - dayOfWeek: Lunes
+    date: 5 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Miércoles
+    date: 7 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Viernes
+    date: 9 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Sábado
+    date: 10 oct
+    event: "Ofrenda comunitaria de comida y charla de Dhamma pública"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Lunes
+    date: 12 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Miércoles
+    date: 14 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Viernes
+    date: 16 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Sábado
+    date: 17 oct
+    event: "Ofrenda comunitaria de comida y charla de Dhamma pública"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Lunes
+    date: 19 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Miércoles
+    date: 21 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Viernes
+    date: 23 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Sábado
+    date: 24 oct
+    event: "Ofrenda comunitaria de comida y charla de Dhamma pública (última charla antes de partir a San Francisco)"
+    time: 11AM / 12:30PM
+    location: 1215 Curtner Ave, San Jose

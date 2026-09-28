@@ -2,6 +2,14 @@
 ---
 ## Atualizações e Programação
 
+*Atualizações em 28-09-2026*
+
+O Venerável Jeffrey retornou à Área da Baía e está disponível para perguntas e respostas de 5 a 25 de outubro em 1215 Curtner Ave, San Jose, CA 95125. As sessões de perguntas e respostas acontecem às segundas, quartas e sextas-feiras, das 17h00 às 19h00. Aos sábados, todos são bem-vindos à oferta comunitária de refeição às 11h00, seguida de uma palestra de Dhamma pública às 12h30. Após a palestra de Dhamma do sábado, 24 de outubro, o Venerável Jeffrey partirá para São Francisco. A página inicial deste site foi atualizada com a nova programação.
+
+Todos são bem-vindos. Se desejar receber atualizações com mais frequência, você pode participar do nosso grupo de WhatsApp. Envie um e-mail para [samanasevana@gmail.com](mailto:samanasevana@gmail.com) com seu número de telefone para ser adicionado.
+
+---
+
 *Atualizações em 29-03-2026*
 
 O Venerável Jeffrey provavelmente deixará Morgan Hill por volta de 17 de abril, rumo ao Sul da Califórnia. O Venerável Jeffrey gravou uma entrevista com o Dhamma-Vinaya Patipada — você pode assisti-la aqui: [Em Casa na Falta de Lar | Uma entrevista com o Venerável Jeffrey](https://www.youtube.com/watch?v=EdWV4h--y-8)

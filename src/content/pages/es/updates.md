@@ -2,6 +2,14 @@
 ---
 ## Novedades y calendario
 
+*Novedades al 2026-09-28*
+
+El venerable Jeffrey ha regresado al Área de la Bahía y está disponible para preguntas y respuestas del 5 al 25 de octubre en 1215 Curtner Ave, San Jose, CA 95125. Las sesiones de preguntas y respuestas son los lunes, miércoles y viernes de 5:00pm a 7:00pm. Los sábados, todos son bienvenidos a la ofrenda comunitaria de comida a las 11:00am, seguida de una charla de Dhamma pública a las 12:30pm. Después de la charla de Dhamma del sábado 24 de octubre, el venerable Jeffrey partirá hacia San Francisco. La página de inicio de este sitio web se ha actualizado con el nuevo calendario.
+
+Todos son bienvenidos. Si desea recibir novedades con más frecuencia, puede unirse a nuestro grupo de WhatsApp. Envíe un correo a [samanasevana@gmail.com](mailto:samanasevana@gmail.com) con su número de teléfono para ser añadido.
+
+---
+
 *Novedades al 2026-03-29*
 
 El venerable Jeffrey probablemente partirá de Morgan Hill hacia el 17 de abril, rumbo al sur de California. El venerable Jeffrey grabó una entrevista con Dhamma-Vinaya Patipada; puede verla aquí: [En casa en la falta de hogar | Una entrevista con el venerable Jeffrey](https://www.youtube.com/watch?v=EdWV4h--y-8)
