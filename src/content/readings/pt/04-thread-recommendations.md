@@ -1,5 +1,5 @@
 ---
-title: "Recomendações de Fios"
+title: "Recomendações de Narrativas (Suttas)"
 description: "Esta é uma lista de ensinamentos importantes que o Desperto deu para aqueles interessados em aprofundar-se."
 order: 4
 ---

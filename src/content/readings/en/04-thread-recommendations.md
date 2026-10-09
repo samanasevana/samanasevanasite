@@ -1,5 +1,5 @@
 ---
-title: "Thread Recommendations"
+title: "Narrative (Sutta) Recommendations"
 description: "This is a list of important teachings the Awakened One gave for those interested in going deeper."
 order: 4
 ---
