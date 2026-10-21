@@ -2,6 +2,14 @@
 ---
 ## Atualizações e Programação
 
+*Atualizações em 21-10-2026*
+
+A partir de 25 de outubro, o Venerável Jeffrey estará em um novo endereço: 2414 30th Ave, San Francisco, CA. O horário aberto de perguntas e respostas continua lá às segundas, quartas e sextas-feiras, das 17h00 às 19h00, de 26 de outubro a 13 de novembro. A última oferta comunitária de refeição e palestra de Dhamma de sábado em San Jose será em 24 de outubro. A página inicial deste site foi atualizada com a nova programação.
+
+Todos são bem-vindos. Se desejar receber atualizações com mais frequência, você pode participar do nosso grupo de WhatsApp. Envie um e-mail para [samanasevana@gmail.com](mailto:samanasevana@gmail.com) com seu número de telefone para ser adicionado.
+
+---
+
 *Atualizações em 28-09-2026*
 
 O Venerável Jeffrey retornou à Área da Baía e está disponível para perguntas e respostas de 5 a 25 de outubro em 1215 Curtner Ave, San Jose, CA 95125. As sessões de perguntas e respostas acontecem às segundas, quartas e sextas-feiras, das 17h00 às 19h00. Aos sábados, todos são bem-vindos à oferta comunitária de refeição às 11h00, seguida de uma palestra de Dhamma pública às 12h30. Após a palestra de Dhamma do sábado, 24 de outubro, o Venerável Jeffrey partirá para São Francisco. A página inicial deste site foi atualizada com a nova programação.

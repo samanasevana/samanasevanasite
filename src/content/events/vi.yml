@@ -1,49 +1,4 @@
 events:
-  - dayOfWeek: Thứ Hai
-    date: 5/10
-    event: "Hỏi đáp"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Thứ Tư
-    date: 7/10
-    event: "Hỏi đáp"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Thứ Sáu
-    date: 9/10
-    event: "Hỏi đáp"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Thứ Bảy
-    date: 10/10
-    event: "Cúng dường trai tăng cộng đồng & Pháp thoại công cộng"
-    time: 11AM / 12:30PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Thứ Hai
-    date: 12/10
-    event: "Hỏi đáp"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Thứ Tư
-    date: 14/10
-    event: "Hỏi đáp"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Thứ Sáu
-    date: 16/10
-    event: "Hỏi đáp"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Thứ Bảy
-    date: 17/10
-    event: "Cúng dường trai tăng cộng đồng & Pháp thoại công cộng"
-    time: 11AM / 12:30PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Thứ Hai
-    date: 19/10
-    event: "Hỏi đáp"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
   - dayOfWeek: Thứ Tư
     date: 21/10
     event: "Hỏi đáp"
@@ -59,3 +14,48 @@ events:
     event: "Cúng dường trai tăng cộng đồng & Pháp thoại công cộng (buổi cuối cùng trước khi đi San Francisco)"
     time: 11AM / 12:30PM
     location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Thứ Hai
+    date: 26/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Thứ Tư
+    date: 28/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Thứ Sáu
+    date: 30/10
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Thứ Hai
+    date: 2/11
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Thứ Tư
+    date: 4/11
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Thứ Sáu
+    date: 6/11
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Thứ Hai
+    date: 9/11
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Thứ Tư
+    date: 11/11
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Thứ Sáu
+    date: 13/11
+    event: "Hỏi đáp"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco

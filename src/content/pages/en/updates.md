@@ -2,6 +2,14 @@
 ---
 ## Updates & Schedule
 
+*Updates as of 2026-10-21*
+
+Starting October 25, Venerable Jeffrey will be staying at a new address: 2414 30th Ave, San Francisco, CA. Drop-in Q&A hours continue there on Mondays, Wednesdays, and Fridays from 5:00pm to 7:00pm, from October 26 through November 13. The final Saturday Community Meal Offering and Dhamma talk in San Jose is on October 24. The home page of this website has been updated with the new schedule.
+
+All are welcome to attend. If you'd like to receive more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
+
+---
+
 *Updates as of 2026-09-28*
 
 Venerable Jeffrey has returned to the Bay Area and is available for Q&A from October 5 until October 25 at 1215 Curtner Ave, San Jose, CA 95125. Q&A is held on Mondays, Wednesdays, and Fridays from 5:00pm to 7:00pm. On Saturdays, all are welcome to join the Community Meal Offering at 11:00am, followed by a public Dhamma talk at 12:30pm. After the Dhamma talk on Saturday, October 24th, Venerable Jeffrey will leave for San Francisco. The home page of this website has been updated with the new schedule.

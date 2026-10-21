@@ -1,49 +1,4 @@
 events:
-  - dayOfWeek: Lunes
-    date: 5 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Miércoles
-    date: 7 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Viernes
-    date: 9 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Sábado
-    date: 10 oct
-    event: "Ofrenda comunitaria de comida y charla de Dhamma pública"
-    time: 11AM / 12:30PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Lunes
-    date: 12 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Miércoles
-    date: 14 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Viernes
-    date: 16 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Sábado
-    date: 17 oct
-    event: "Ofrenda comunitaria de comida y charla de Dhamma pública"
-    time: 11AM / 12:30PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Lunes
-    date: 19 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
   - dayOfWeek: Miércoles
     date: 21 oct
     event: "Preguntas y respuestas"
@@ -59,3 +14,48 @@ events:
     event: "Ofrenda comunitaria de comida y charla de Dhamma pública (última charla antes de partir a San Francisco)"
     time: 11AM / 12:30PM
     location: 1215 Curtner Ave, San Jose
+  - dayOfWeek: Lunes
+    date: 26 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Miércoles
+    date: 28 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Viernes
+    date: 30 oct
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Lunes
+    date: 2 nov
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Miércoles
+    date: 4 nov
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Viernes
+    date: 6 nov
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Lunes
+    date: 9 nov
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Miércoles
+    date: 11 nov
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Viernes
+    date: 13 nov
+    event: "Preguntas y respuestas"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
