@@ -1,19 +1,4 @@
 events:
-  - dayOfWeek: 星期三
-    date: 10月21日
-    event: "问答"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: 星期五
-    date: 10月23日
-    event: "问答"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: 星期六
-    date: 10月24日
-    event: "社区供斋与公开佛法开示（前往旧金山前的最后一次开示）"
-    time: 11AM / 12:30PM
-    location: 1215 Curtner Ave, San Jose
   - dayOfWeek: 星期一
     date: 10月26日
     event: "问答"
@@ -28,6 +13,11 @@ events:
     date: 10月30日
     event: "问答"
     time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: 星期六
+    date: 10月31日
+    event: "社区供斋与公开佛法开示"
+    time: 10:30AM / 11:45AM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: 星期一
     date: 11月2日
@@ -44,6 +34,11 @@ events:
     event: "问答"
     time: 5PM - 7PM
     location: 2414 30th Ave, San Francisco
+  - dayOfWeek: 星期六
+    date: 11月7日
+    event: "社区供斋与公开佛法开示"
+    time: 10:30AM / 11:45AM
+    location: 2414 30th Ave, San Francisco
   - dayOfWeek: 星期一
     date: 11月9日
     event: "问答"
@@ -56,6 +51,36 @@ events:
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: 星期五
     date: 11月13日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: 星期六
+    date: 11月14日
+    event: "社区供斋与公开佛法开示"
+    time: 10:30AM / 11:45AM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: 星期一
+    date: 11月16日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: 星期三
+    date: 11月18日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: 星期五
+    date: 11月20日
+    event: "问答"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: 星期六
+    date: 11月21日
+    event: "社区供斋与公开佛法开示"
+    time: 10:30AM / 11:45AM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: 星期一
+    date: 11月23日
     event: "问答"
     time: 5PM - 7PM
     location: 2414 30th Ave, San Francisco

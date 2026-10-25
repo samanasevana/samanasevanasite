@@ -1,19 +1,4 @@
 events:
-  - dayOfWeek: Wednesday
-    date: Oct 21
-    event: "Q&A"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Friday
-    date: Oct 23
-    event: "Q&A"
-    time: 5PM - 7PM
-    location: 1215 Curtner Ave, San Jose
-  - dayOfWeek: Saturday
-    date: Oct 24
-    event: "Community Meal Offering & Public Dhamma Talk (final talk before leaving for San Francisco)"
-    time: 11AM / 12:30PM
-    location: 1215 Curtner Ave, San Jose
   - dayOfWeek: Monday
     date: Oct 26
     event: "Q&A"
@@ -28,6 +13,11 @@ events:
     date: Oct 30
     event: "Q&A"
     time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Saturday
+    date: Oct 31
+    event: "Community Meal Offering & Public Dhamma Talk"
+    time: 10:30AM / 11:45AM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: Monday
     date: Nov 2
@@ -44,6 +34,11 @@ events:
     event: "Q&A"
     time: 5PM - 7PM
     location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Saturday
+    date: Nov 7
+    event: "Community Meal Offering & Public Dhamma Talk"
+    time: 10:30AM / 11:45AM
+    location: 2414 30th Ave, San Francisco
   - dayOfWeek: Monday
     date: Nov 9
     event: "Q&A"
@@ -56,6 +51,36 @@ events:
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: Friday
     date: Nov 13
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Saturday
+    date: Nov 14
+    event: "Community Meal Offering & Public Dhamma Talk"
+    time: 10:30AM / 11:45AM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Monday
+    date: Nov 16
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Wednesday
+    date: Nov 18
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Friday
+    date: Nov 20
+    event: "Q&A"
+    time: 5PM - 7PM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Saturday
+    date: Nov 21
+    event: "Community Meal Offering & Public Dhamma Talk"
+    time: 10:30AM / 11:45AM
+    location: 2414 30th Ave, San Francisco
+  - dayOfWeek: Monday
+    date: Nov 23
     event: "Q&A"
     time: 5PM - 7PM
     location: 2414 30th Ave, San Francisco

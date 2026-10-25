@@ -2,6 +2,14 @@
 ---
 ## Novedades y calendario
 
+*Novedades al 2026-10-25*
+
+El venerable Jeffrey ya está en San Francisco, en 2414 30th Ave, San Francisco, CA, y permanecerá aquí al menos hasta el 24 de noviembre. El horario abierto de preguntas y respuestas se extiende hasta el 24 de noviembre, los lunes, miércoles y viernes de 5:00pm a 7:00pm. Los días comunitarios de los sábados se reanudan a partir del 31 de octubre, con la ofrenda comunitaria de comida a las 10:30am seguida de una charla de Dhamma pública a las 11:45am. El horario es más temprano porque pronto termina el horario de verano, así que procure ofrecer la comida alrededor de las 10:30am. La página de inicio de este sitio web se ha actualizado con el nuevo calendario.
+
+Todos son bienvenidos. Si desea recibir novedades con más frecuencia, puede unirse a nuestro grupo de WhatsApp. Envíe un correo a [samanasevana@gmail.com](mailto:samanasevana@gmail.com) con su número de teléfono para ser añadido.
+
+---
+
 *Novedades al 2026-10-21*
 
 A partir del 25 de octubre, el venerable Jeffrey se alojará en una nueva dirección: 2414 30th Ave, San Francisco, CA. El horario abierto de preguntas y respuestas continúa allí los lunes, miércoles y viernes de 5:00pm a 7:00pm, del 26 de octubre al 13 de noviembre. La última ofrenda comunitaria de comida y charla de Dhamma del sábado en San Jose será el 24 de octubre. La página de inicio de este sitio web se ha actualizado con el nuevo calendario.

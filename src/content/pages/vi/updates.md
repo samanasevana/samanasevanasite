@@ -2,6 +2,14 @@
 ---
 ## Cập Nhật & Lịch Trình
 
+*Cập nhật tính đến ngày 2026-10-25*
+
+Tôn giả Jeffrey hiện đã ở San Francisco, tại 2414 30th Ave, San Francisco, CA, và sẽ ở đây ít nhất đến ngày 24 tháng Mười Một. Giờ hỏi đáp tự do được kéo dài đến ngày 24 tháng Mười Một, vào Thứ Hai, Thứ Tư và Thứ Sáu từ 5:00pm đến 7:00pm. Các ngày cộng đồng Thứ Bảy bắt đầu lại từ ngày 31 tháng Mười, với cúng dường trai tăng cộng đồng lúc 10:30am, tiếp theo là pháp thoại công cộng lúc 11:45am. Lịch trình sớm hơn vì giờ mùa hè sắp kết thúc, vì vậy xin vui lòng cúng dường thức ăn vào khoảng 10:30am. Trang chủ của trang web đã được cập nhật với lịch trình mới.
+
+Mọi người đều được hoan nghênh tham dự. Nếu bạn muốn nhận cập nhật thường xuyên hơn, bạn có thể tham gia nhóm WhatsApp của chúng tôi. Vui lòng gửi email đến [samanasevana@gmail.com](mailto:samanasevana@gmail.com) kèm số điện thoại để được thêm vào nhóm.
+
+---
+
 *Cập nhật tính đến ngày 2026-10-21*
 
 Từ ngày 25 tháng Mười, Tôn giả Jeffrey sẽ ở tại địa chỉ mới: 2414 30th Ave, San Francisco, CA. Giờ hỏi đáp tự do tiếp tục tại đó vào Thứ Hai, Thứ Tư và Thứ Sáu từ 5:00pm đến 7:00pm, từ ngày 26 tháng Mười đến ngày 13 tháng Mười Một. Buổi cúng dường trai tăng cộng đồng và pháp thoại Thứ Bảy cuối cùng tại San Jose là vào ngày 24 tháng Mười. Trang chủ của trang web đã được cập nhật với lịch trình mới.
