@@ -1,5 +1,5 @@
 ---
-title: "Recomendações de Narrativas (Suttas)"
+title: "Recomendações de Discursos"
 description: "Esta é uma lista de ensinamentos importantes que o Desperto deu para aqueles interessados em aprofundar-se."
 order: 4
 ---

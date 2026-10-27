@@ -1,5 +1,5 @@
 ---
-title: "Narrative (Sutta) Recommendations"
+title: "Discourse Recommendations"
 description: "This is a list of important teachings the Awakened One gave for those interested in going deeper."
 order: 4
 ---
