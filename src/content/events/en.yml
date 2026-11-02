@@ -1,25 +1,5 @@
 events:
   - dayOfWeek: Monday
-    date: Oct 26
-    event: "Q&A"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Wednesday
-    date: Oct 28
-    event: "Q&A"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Friday
-    date: Oct 30
-    event: "Q&A"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Saturday
-    date: Oct 31
-    event: "Community Meal Offering & Public Dhamma Talk"
-    time: 10:30AM / 11:45AM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Monday
     date: Nov 2
     event: "Q&A"
     time: 5PM - 7PM
@@ -37,8 +17,8 @@ events:
   - dayOfWeek: Saturday
     date: Nov 7
     event: "Community Meal Offering & Public Dhamma Talk"
-    time: 10:30AM / 11:45AM
-    location: 2414 30th Ave, San Francisco
+    time: 10:45AM / 12PM
+    location: 2414 30th Ave (meal) / Parkside Square Park (talk), San Francisco
   - dayOfWeek: Monday
     date: Nov 9
     event: "Q&A"
@@ -57,7 +37,7 @@ events:
   - dayOfWeek: Saturday
     date: Nov 14
     event: "Community Meal Offering & Public Dhamma Talk"
-    time: 10:30AM / 11:45AM
+    time: 10:45AM / 12PM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: Monday
     date: Nov 16
@@ -77,7 +57,7 @@ events:
   - dayOfWeek: Saturday
     date: Nov 21
     event: "Community Meal Offering & Public Dhamma Talk"
-    time: 10:30AM / 11:45AM
+    time: 10:45AM / 12PM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: Monday
     date: Nov 23

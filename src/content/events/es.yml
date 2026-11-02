@@ -1,25 +1,5 @@
 events:
   - dayOfWeek: Lunes
-    date: 26 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Miércoles
-    date: 28 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Viernes
-    date: 30 oct
-    event: "Preguntas y respuestas"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Sábado
-    date: 31 oct
-    event: "Ofrenda comunitaria de comida y charla de Dhamma pública"
-    time: 10:30AM / 11:45AM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Lunes
     date: 2 nov
     event: "Preguntas y respuestas"
     time: 5PM - 7PM
@@ -37,8 +17,8 @@ events:
   - dayOfWeek: Sábado
     date: 7 nov
     event: "Ofrenda comunitaria de comida y charla de Dhamma pública"
-    time: 10:30AM / 11:45AM
-    location: 2414 30th Ave, San Francisco
+    time: 10:45AM / 12PM
+    location: 2414 30th Ave (comida) / Parkside Square Park (charla), San Francisco
   - dayOfWeek: Lunes
     date: 9 nov
     event: "Preguntas y respuestas"
@@ -57,7 +37,7 @@ events:
   - dayOfWeek: Sábado
     date: 14 nov
     event: "Ofrenda comunitaria de comida y charla de Dhamma pública"
-    time: 10:30AM / 11:45AM
+    time: 10:45AM / 12PM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: Lunes
     date: 16 nov
@@ -77,7 +57,7 @@ events:
   - dayOfWeek: Sábado
     date: 21 nov
     event: "Ofrenda comunitaria de comida y charla de Dhamma pública"
-    time: 10:30AM / 11:45AM
+    time: 10:45AM / 12PM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: Lunes
     date: 23 nov

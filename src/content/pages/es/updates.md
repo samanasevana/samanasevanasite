@@ -2,6 +2,14 @@
 ---
 ## Novedades y calendario
 
+*Novedades al 2026-11-02*
+
+Los días comunitarios de los sábados tienen un nuevo horario: la ofrenda comunitaria de comida es ahora a las 10:45am, seguida de la charla de Dhamma pública a las 12:00pm. Este sábado, 7 de noviembre, como se espera buen tiempo, la charla de Dhamma se realizará en Parkside Square Park. La página de inicio de este sitio web se ha actualizado con el nuevo calendario.
+
+Todos son bienvenidos. Si desea recibir novedades con más frecuencia, puede unirse a nuestro grupo de WhatsApp. Envíe un correo a [samanasevana@gmail.com](mailto:samanasevana@gmail.com) con su número de teléfono para ser añadido.
+
+---
+
 *Novedades al 2026-10-25*
 
 El venerable Jeffrey ya está en San Francisco, en 2414 30th Ave, San Francisco, CA, y permanecerá aquí al menos hasta el 24 de noviembre. El horario abierto de preguntas y respuestas se extiende hasta el 24 de noviembre, los lunes, miércoles y viernes de 5:00pm a 7:00pm. Los días comunitarios de los sábados se reanudan a partir del 31 de octubre, con la ofrenda comunitaria de comida a las 10:30am seguida de una charla de Dhamma pública a las 11:45am. El horario es más temprano porque pronto termina el horario de verano, así que procure ofrecer la comida alrededor de las 10:30am. La página de inicio de este sitio web se ha actualizado con el nuevo calendario.

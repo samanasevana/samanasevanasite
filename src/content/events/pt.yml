@@ -1,25 +1,5 @@
 events:
   - dayOfWeek: Segunda-feira
-    date: 26 out
-    event: "Perguntas e respostas"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Quarta-feira
-    date: 28 out
-    event: "Perguntas e respostas"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Sexta-feira
-    date: 30 out
-    event: "Perguntas e respostas"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Sábado
-    date: 31 out
-    event: "Oferta comunitária de refeição e palestra de Dhamma pública"
-    time: 10:30AM / 11:45AM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: Segunda-feira
     date: 2 nov
     event: "Perguntas e respostas"
     time: 5PM - 7PM
@@ -37,8 +17,8 @@ events:
   - dayOfWeek: Sábado
     date: 7 nov
     event: "Oferta comunitária de refeição e palestra de Dhamma pública"
-    time: 10:30AM / 11:45AM
-    location: 2414 30th Ave, San Francisco
+    time: 10:45AM / 12PM
+    location: 2414 30th Ave (refeição) / Parkside Square Park (palestra), San Francisco
   - dayOfWeek: Segunda-feira
     date: 9 nov
     event: "Perguntas e respostas"
@@ -57,7 +37,7 @@ events:
   - dayOfWeek: Sábado
     date: 14 nov
     event: "Oferta comunitária de refeição e palestra de Dhamma pública"
-    time: 10:30AM / 11:45AM
+    time: 10:45AM / 12PM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: Segunda-feira
     date: 16 nov
@@ -77,7 +57,7 @@ events:
   - dayOfWeek: Sábado
     date: 21 nov
     event: "Oferta comunitária de refeição e palestra de Dhamma pública"
-    time: 10:30AM / 11:45AM
+    time: 10:45AM / 12PM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: Segunda-feira
     date: 23 nov

@@ -1,25 +1,5 @@
 events:
   - dayOfWeek: 星期一
-    date: 10月26日
-    event: "问答"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: 星期三
-    date: 10月28日
-    event: "问答"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: 星期五
-    date: 10月30日
-    event: "问答"
-    time: 5PM - 7PM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: 星期六
-    date: 10月31日
-    event: "社区供斋与公开佛法开示"
-    time: 10:30AM / 11:45AM
-    location: 2414 30th Ave, San Francisco
-  - dayOfWeek: 星期一
     date: 11月2日
     event: "问答"
     time: 5PM - 7PM
@@ -37,8 +17,8 @@ events:
   - dayOfWeek: 星期六
     date: 11月7日
     event: "社区供斋与公开佛法开示"
-    time: 10:30AM / 11:45AM
-    location: 2414 30th Ave, San Francisco
+    time: 10:45AM / 12PM
+    location: 2414 30th Ave（供斋）/ Parkside Square Park（开示）, San Francisco
   - dayOfWeek: 星期一
     date: 11月9日
     event: "问答"
@@ -57,7 +37,7 @@ events:
   - dayOfWeek: 星期六
     date: 11月14日
     event: "社区供斋与公开佛法开示"
-    time: 10:30AM / 11:45AM
+    time: 10:45AM / 12PM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: 星期一
     date: 11月16日
@@ -77,7 +57,7 @@ events:
   - dayOfWeek: 星期六
     date: 11月21日
     event: "社区供斋与公开佛法开示"
-    time: 10:30AM / 11:45AM
+    time: 10:45AM / 12PM
     location: 2414 30th Ave, San Francisco
   - dayOfWeek: 星期一
     date: 11月23日

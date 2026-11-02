@@ -2,6 +2,14 @@
 ---
 ## Cập Nhật & Lịch Trình
 
+*Cập nhật tính đến ngày 2026-11-02*
+
+Các ngày cộng đồng Thứ Bảy có giờ mới: cúng dường trai tăng cộng đồng nay lúc 10:45am, tiếp theo là pháp thoại công cộng lúc 12:00pm. Thứ Bảy này, ngày 7 tháng Mười Một, vì thời tiết có vẻ tốt, buổi pháp thoại sẽ được tổ chức tại Parkside Square Park. Trang chủ của trang web đã được cập nhật với lịch trình mới.
+
+Mọi người đều được hoan nghênh tham dự. Nếu bạn muốn nhận cập nhật thường xuyên hơn, bạn có thể tham gia nhóm WhatsApp của chúng tôi. Vui lòng gửi email đến [samanasevana@gmail.com](mailto:samanasevana@gmail.com) kèm số điện thoại để được thêm vào nhóm.
+
+---
+
 *Cập nhật tính đến ngày 2026-10-25*
 
 Tôn giả Jeffrey hiện đã ở San Francisco, tại 2414 30th Ave, San Francisco, CA, và sẽ ở đây ít nhất đến ngày 24 tháng Mười Một. Giờ hỏi đáp tự do được kéo dài đến ngày 24 tháng Mười Một, vào Thứ Hai, Thứ Tư và Thứ Sáu từ 5:00pm đến 7:00pm. Các ngày cộng đồng Thứ Bảy bắt đầu lại từ ngày 31 tháng Mười, với cúng dường trai tăng cộng đồng lúc 10:30am, tiếp theo là pháp thoại công cộng lúc 11:45am. Lịch trình sớm hơn vì giờ mùa hè sắp kết thúc, vì vậy xin vui lòng cúng dường thức ăn vào khoảng 10:30am. Trang chủ của trang web đã được cập nhật với lịch trình mới.

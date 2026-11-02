@@ -2,6 +2,14 @@
 ---
 ## Updates & Schedule
 
+*Updates as of 2026-11-02*
+
+Saturday community days have a new time: the Community Meal Offering is now at 10:45am, followed by the public Dhamma talk at 12:00pm. This Saturday, November 7, since the weather looks good, the Dhamma talk will be held at Parkside Square Park. The home page of this website has been updated with the new schedule.
+
+All are welcome to attend. If you'd like to receive more frequent updates, you are welcome to join our WhatsApp group. Please email [samanasevana@gmail.com](mailto:samanasevana@gmail.com) with your phone number to be added.
+
+---
+
 *Updates as of 2026-10-25*
 
 Venerable Jeffrey is now in San Francisco at 2414 30th Ave, San Francisco, CA, and will be here until at least November 24. Drop-in Q&A hours are extended through November 24 on Mondays, Wednesdays, and Fridays from 5:00pm to 7:00pm. Saturday community days resume starting October 31, with the Community Meal Offering at 10:30am followed by a public Dhamma talk at 11:45am. The earlier schedule is because daylight saving time ends soon, so please plan to offer food around 10:30am. The home page of this website has been updated with the new schedule.
